@@ -1,5 +1,5 @@
 {
-  "last_successful_refresh": "2026-10-09T12:24:11Z",
+  "last_successful_refresh": "2026-10-09T12:27:51Z",
   "articles": [
     {
       "id": "003546a021782802198a1060",
@@ -405,9 +405,21 @@
       "source": "err-uudised",
       "published_at": "2026-10-08T18:12:00Z",
       "date_basis": "published",
-      "excerpt": "Rahvusooper Estonia 14 solisti saatis nõukogule kriitilise kirja, milles soovitakse peadirektor Ott Maateni lahkumist usalduse täieliku puudumise tõttu.",
+      "excerpt": "Rahvusooper Estonia 14 solisti saatis nõukogule kriitilise kirja, milles soovitakse peadirektor Ott Maateni lahkumist usalduse täieliku puudumise tõttu. Estonia nõukogu otsustas viia läbi rahuloluuuringu töötajate seas, et saada teada probleemide ulatusest teatris.",
       "category": "estonia",
       "language": "et"
+    },
+    {
+      "id": "08905a226cc66b49a6a90962",
+      "title": "Zelensky confirms strikes on oil refineries in Omsk and Ukhta, one more data center",
+      "url": "https://www.ukrinform.net/rubric-ato/4172719-zelensky-confirms-strikes-on-oil-refineries-in-omsk-and-ukhta-one-more-data-center.html",
+      "original_url": "https://www.ukrinform.net/rubric-ato/4172719-zelensky-confirms-strikes-on-oil-refineries-in-omsk-and-ukhta-one-more-data-center.html",
+      "source": "ukrinform",
+      "published_at": "2026-10-09T12:24:00Z",
+      "date_basis": "published",
+      "excerpt": "Ukraine's Defense Forces struck an oil refinery in Omsk again and hit an oil refinery in Ukhta. A strike on another Russian data center has also been recorded.",
+      "category": "russia-ukraine",
+      "language": "en"
     },
     {
       "id": "08c3f546bc95ad007da5cb29",
@@ -2779,7 +2791,7 @@
       "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_campaign=rss&at_medium=RSS",
       "original_url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
       "source": "bbc-world",
-      "published_at": "2026-10-09T09:29:52Z",
+      "published_at": "2026-10-09T12:24:58Z",
       "date_basis": "published",
       "excerpt": "Pete Hegseth says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
       "category": "world",
@@ -3250,6 +3262,18 @@
       "published_at": "2026-10-08T21:49:14Z",
       "date_basis": "published",
       "excerpt": "The BBC spoke to Americans and international tourists in Washington DC about their views on the death penalty following the botched execution of Christa Pike in Tennessee.",
+      "category": "world",
+      "language": "en"
+    },
+    {
+      "id": "386cd275b204483f80a2d7e5",
+      "title": "Foreign aid to Africa falls by over 25%: How women and children are bearing the brunt",
+      "url": "https://www.france24.com/en/tv-shows/the-51/20261009-foreign-aid-to-africa-falls-by-over-25-how-women-and-children-are-bearing-the-brunt",
+      "original_url": "https://www.france24.com/en/tv-shows/the-51/20261009-foreign-aid-to-africa-falls-by-over-25-how-women-and-children-are-bearing-the-brunt",
+      "source": "france24",
+      "published_at": "2026-10-09T12:22:30Z",
+      "date_basis": "published",
+      "excerpt": "As international aid to Africa dries up, what does it mean for women and children on the ground? We report from Kenya on the impact of cuts to US-aid backed health programmes for women. Annette Young also talks to Nana Zulu from the African Women's Development Fund on what it means for the region as a whole. Plus the…",
       "category": "world",
       "language": "en"
     },
@@ -4128,6 +4152,18 @@
       "excerpt": "Россия ужесточила правила вывоза наличных рублей. Теперь из страны разрешено вывезти не более 1 млн рублей. Кого это касается, какие альтернативы есть у россиян и что могло послужить причиной введения такого ограничения?",
       "category": "russia-ukraine",
       "language": "ru"
+    },
+    {
+      "id": "496955e512c9c55596156254",
+      "title": "Raadiouudised (09.10.2026 15:00:00)",
+      "url": "https://www.err.ee/1610162129/raadiouudised-09-10-2026-15-00-00",
+      "original_url": "https://www.err.ee/1610162129/raadiouudised-09-10-2026-15-00-00",
+      "source": "err-uudised",
+      "published_at": "2026-10-09T12:25:01Z",
+      "date_basis": "published",
+      "excerpt": "",
+      "category": "estonia",
+      "language": "et"
     },
     {
       "id": "497acf6f4b9afb83f8e90cc6",
@@ -5743,7 +5779,7 @@
       "url": "https://www.theguardian.com/world/live/2026/oct/09/2026-nobel-peace-prize-winner-russia-ukraine-sudan-war-france-protests-poland-latest-news-updates",
       "original_url": "https://www.theguardian.com/world/live/2026/oct/09/2026-nobel-peace-prize-winner-russia-ukraine-sudan-war-france-protests-poland-latest-news-updates",
       "source": "guardian-world",
-      "published_at": "2026-10-09T11:57:42Z",
+      "published_at": "2026-10-09T12:18:11Z",
       "date_basis": "published",
       "excerpt": "The Nobel committee chair says the winner was ‘instrumental in ensuring war crimes, crimes against humanity and genocide are prosecuted’ You can watch along below, but I will bring you all the key lines here. Spoiler alert (not really). Continue reading...",
       "category": "world",
@@ -6120,6 +6156,18 @@
       "excerpt": "Президент Украины подтвердил удары по НПЗ в Омске и Ухте, а также по российскому дата-центру. По словам Зеленского, Киев продолжает наносить ответные удары по объектам, связанным с инфраструктурой и обеспечением войны.",
       "category": "russia-ukraine",
       "language": "ru"
+    },
+    {
+      "id": "6ffec46d39ea70ea952808b0",
+      "title": "India's 'cockroaches' vs Election Commission: What you need to know ahead of CJP's October 10 protests",
+      "url": "https://www.dw.com/en/india-s-cockroaches-vs-election-commission-what-you-need-to-know-ahead-of-cjp-s-october-10-protests/a-79608760?maca=en-rss-en-all-1573-rdf",
+      "original_url": "https://www.dw.com/en/india-s-cockroaches-vs-election-commission-what-you-need-to-know-ahead-of-cjp-s-october-10-protests/a-79608760?maca=en-rss-en-all-1573-rdf",
+      "source": "dw-en",
+      "published_at": "2026-10-09T12:23:00Z",
+      "date_basis": "updated",
+      "excerpt": "New Delhi has been turned into a fortress with train and metro cancelations, barricades and heavy police presence ahead of Saturday's planned protests against the chief of India's electoral body.",
+      "category": "world",
+      "language": "en"
     },
     {
       "id": "701bb5e31ab29d3069c8b70d",
@@ -8223,7 +8271,7 @@
     },
     {
       "id": "9637d6242eb90bc130832dfa",
-      "title": "«Коммерсант»: против следователя из Москвы возбудили уголовное дело о пропаже драгоценностей, изъятых при обыске у блогерки Лерчек",
+      "title": "Против следователя из Москвы возбудили уголовное дело о пропаже драгоценностей, изъятых при обыске у блогерки Лерчек",
       "url": "https://zona.media/news/2026/10/09/tulupov",
       "original_url": "https://zona.media/news/2026/10/09/tulupov",
       "source": "mediazona",
@@ -8700,6 +8748,18 @@
       "excerpt": "The Russian army has attacked a livestock farm in the Chuhuiv district, Kharkiv region, destroying buildings and killing more than 30 cows.",
       "category": "russia-ukraine",
       "language": "en"
+    },
+    {
+      "id": "9c2412148b582de65b364823",
+      "title": "Taani käsipallur kordas 25 aastat vana rekordit",
+      "url": "https://sport.err.ee/1610162128/taani-kasipallur-kordas-25-aastat-vana-rekordit",
+      "original_url": "https://sport.err.ee/1610162128/taani-kasipallur-kordas-25-aastat-vana-rekordit",
+      "source": "err-uudised",
+      "published_at": "2026-10-09T12:22:00Z",
+      "date_basis": "published",
+      "excerpt": "Käsipalli Euroopa Meistrite liigas kordas taanlane Mathias Gidsel liiga rekordit ühes mängus visatud väravate arvestuses, kui aitas koduklubi Berliini Füchse 40:32 võidule FC Porto üle.",
+      "category": "estonia",
+      "language": "et"
     },
     {
       "id": "9c312cdb0adc29f4f5a5b4ca",
@@ -13329,7 +13389,7 @@
       "source": "guardian-world",
       "published_at": "2026-10-09T11:56:15Z",
       "date_basis": "published",
-      "excerpt": "Condemnation comes amid fierce backlash from US lawmakers who branded the move ‘grotesque’ and compared it to actions of some terror groups and oppressive governments Pentagon says execution of Fort Hood shooter will be livestreamed According to rights group Amnesty International, at least 17 public executions are…",
+      "excerpt": "Condemnation comes amid fierce backlash from US lawmakers who branded the move ‘grotesque’ and compared it to actions of some terror groups and oppressive governments Pentagon says execution of Fort Hood shooter will be livestreamed Sign up for the US Breaking News email According to rights group Amnesty…",
       "category": "world",
       "language": "en"
     },
