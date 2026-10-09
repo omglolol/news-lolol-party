@@ -1,5 +1,5 @@
 {
-  "last_successful_refresh": "2026-10-09T12:18:43Z",
+  "last_successful_refresh": "2026-10-09T12:24:11Z",
   "articles": [
     {
       "id": "003546a021782802198a1060",
@@ -458,6 +458,18 @@
       "language": "ru"
     },
     {
+      "id": "0945d4471d9c94cd99449d74",
+      "title": "Northeastern Estonian cities question value of participatory budgeting",
+      "url": "https://news.err.ee/1610161864/northeastern-estonian-cities-question-value-of-participatory-budgeting",
+      "original_url": "https://news.err.ee/1610161864/northeastern-estonian-cities-question-value-of-participatory-budgeting",
+      "source": "err-en",
+      "published_at": "2026-10-09T12:19:00Z",
+      "date_basis": "published",
+      "excerpt": "Narva and Narva-Jõesuu are both reconsidering participatory budgeting as residents' proposals continue to prove too costly or vague to carry out.",
+      "category": "estonia",
+      "language": "en"
+    },
+    {
       "id": "09a734bc7a8d9d82aa5876ae",
       "title": "From Finnish radio to Tottenham: Estonian jungle pioneer LU:K makes UK debut",
       "url": "https://estonianworld.com/culture/from-finnish-radio-to-tottenham-estonian-jungle-pioneer-luk-makes-uk-debut/",
@@ -660,6 +672,18 @@
       "excerpt": "US media reports suggest he may be weighing strikes before the vote, but the president has ruled that out.",
       "category": "world",
       "language": "en"
+    },
+    {
+      "id": "0e82b66e78fc5a39f361fdda",
+      "title": "От удара ВСУ по Донецку 26 августа погибли не меньше 20 офицеров; это самые крупные потери в российских штабах от одной атаки за все время войны",
+      "url": "https://zona.media/news/2026/10/09/20_oficzerov",
+      "original_url": "https://zona.media/news/2026/10/09/20_oficzerov",
+      "source": "mediazona",
+      "published_at": "2026-10-09T12:22:46Z",
+      "date_basis": "published",
+      "excerpt": "",
+      "category": "russia-ukraine",
+      "language": "ru"
     },
     {
       "id": "0ef65684a29577e5e0a7d6da",
@@ -3000,6 +3024,18 @@
       "excerpt": "Заявления властей. Специалисты Роспотребнадзора провели исследования анализов скончавшейся в Иркутске лаборантки противочумного НИИ и не выявили в них микроорганизмов, связанных с ее профессиональной деятельностью. Об этом заявил губернатор Иркутской области Игорь Кобзев. По его словам, за прошедшие дни новых случаев…",
       "category": "russia-ukraine",
       "language": "ru"
+    },
+    {
+      "id": "35c2cab0e98b60ad8f6c6661",
+      "title": "India's dowry curse: Outlawed practice remains deeply entrenched",
+      "url": "https://www.france24.com/en/tv-shows/reporters/20261009-india-dowry-curse-outlawed-practice-remains-deeply-entrenched",
+      "original_url": "https://www.france24.com/en/tv-shows/reporters/20261009-india-dowry-curse-outlawed-practice-remains-deeply-entrenched",
+      "source": "france24",
+      "published_at": "2026-10-09T12:19:07Z",
+      "date_basis": "published",
+      "excerpt": "India recorded 5,737 dowry-linked deaths in 2024, an average of around 16 women a day. Despite being outlawed more than six decades ago, the practice of dowry – the transfer or money or valuables from a bride's family when she gets married – remains deeply entrenched across Indian society. Our correspondents report.",
+      "category": "world",
+      "language": "en"
     },
     {
       "id": "35d61f9894a3a036cf714ba5",
@@ -6074,6 +6110,18 @@
       "language": "en"
     },
     {
+      "id": "6ff9ed349236d0974e0b8a85",
+      "title": "Зеленский подтвердил удары по НПЗ в Омске и Ухте и атаку на дата-центр",
+      "url": "https://www.dw.com/ru/зеленский-подтвердил-удары-по-нпз-в-омске-и-ухте-и-атаку-на-дата-центр/a-79614771?maca=rus-rss-ru-all-1126-rdf",
+      "original_url": "https://www.dw.com/ru/зеленский-подтвердил-удары-по-нпз-в-омске-и-ухте-и-атаку-на-дата-центр/a-79614771?maca=rus-rss-ru-all-1126-rdf",
+      "source": "dw-ru",
+      "published_at": "2026-10-09T12:06:00Z",
+      "date_basis": "updated",
+      "excerpt": "Президент Украины подтвердил удары по НПЗ в Омске и Ухте, а также по российскому дата-центру. По словам Зеленского, Киев продолжает наносить ответные удары по объектам, связанным с инфраструктурой и обеспечением войны.",
+      "category": "russia-ukraine",
+      "language": "ru"
+    },
+    {
       "id": "701bb5e31ab29d3069c8b70d",
       "title": "Second Russian Yandex data center damaged by drone attack in two days, company says",
       "url": "https://kyivindependent.com/second-russian-yandex-data-center-damaged-by-drone-attack-in-two-days-company-says/",
@@ -7079,6 +7127,18 @@
       "date_basis": "published",
       "excerpt": "Zenity Labs researchers say a single publicly accessible AI agent on Amazon's Bedrock AgentCore was enough to take over every AgentCore agent in the same AWS account and region. The attack exploited an internal AWS interface for temporary cloud credentials that agents could reach without restriction. AWS has since…",
       "category": "technology",
+      "language": "en"
+    },
+    {
+      "id": "8259bbe41055b237b0226a4b",
+      "title": "India’s Cockroach Party says members detained ahead of protest",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/indias-cockroach-party-says-members-detained-ahead-of-protest?traffic_source=rss",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/indias-cockroach-party-says-members-detained-ahead-of-protest?traffic_source=rss",
+      "source": "al-jazeera",
+      "published_at": "2026-10-09T12:17:25Z",
+      "date_basis": "published",
+      "excerpt": "India’s Cockroach Janta Party says thousands of its members have been detained ahead of Saturday’s protest in New Delhi.",
+      "category": "world",
       "language": "en"
     },
     {
@@ -8163,7 +8223,7 @@
     },
     {
       "id": "9637d6242eb90bc130832dfa",
-      "title": "«Коммерсант»: следователя из Москвы задержали по делу о пропаже драгоценностей, изъятых при обыске у блогерки Лерчек",
+      "title": "«Коммерсант»: против следователя из Москвы возбудили уголовное дело о пропаже драгоценностей, изъятых при обыске у блогерки Лерчек",
       "url": "https://zona.media/news/2026/10/09/tulupov",
       "original_url": "https://zona.media/news/2026/10/09/tulupov",
       "source": "mediazona",
@@ -9264,6 +9324,18 @@
       "excerpt": "Euroopa insenerid näitasid sügise hakul uhkusega uut protsessorit, mis peaks vabastama mandri arvutuskeskused USA tehnoloogiahiidude haardest. Paraku pannakse riistvara endiselt kokku Taiwanis TSMC tehases ja lähitulevikus pole ka näha, et Euroopa kiibitootmisvõimekus märgatavalt paraneb, nendib R2 tehnikakommentaaris…",
       "category": "estonia",
       "language": "et"
+    },
+    {
+      "id": "a6796038f12e6a63da8326cc",
+      "title": "Ограбление века по-итальянски: из одной из старейших виноделен страны похищено вино на 5 млн. евро",
+      "url": "https://www.bbc.com/russian/articles/c317kegjrzljo?at_campaign=rss&at_medium=RSS",
+      "original_url": "https://www.bbc.com/russian/articles/c317kegjrzljo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-ru",
+      "published_at": "2026-10-09T12:19:10Z",
+      "date_basis": "published",
+      "excerpt": "Группа злоумышленников совершила кражу, которую называют крупнейшей в истории Италии: с винного склада Marchesi Antinori в Тоскане похитили около 30 тыс. бутылок вина общей стоимостью примерно 5 млн евро.",
+      "category": "russia-ukraine",
+      "language": "ru"
     },
     {
       "id": "a679ce4c87a9aa0ebec9b135",
@@ -11198,6 +11270,18 @@
       "language": "ru"
     },
     {
+      "id": "cedf0c092cffe82a5cd37c76",
+      "title": "Taani käsipallur kordas 25 aastat vana rekordit",
+      "url": "https://sport.err.ee/1610162128/taani-kasipallur-kordas-25-aastat-vana-rekordit",
+      "original_url": "https://sport.err.ee/1610162128/taani-kasipallur-kordas-25-aastat-vana-rekordit",
+      "source": "err-sport",
+      "published_at": "2026-10-09T12:22:00Z",
+      "date_basis": "published",
+      "excerpt": "Käsipalli Euroopa Meistrite liigas kordas taanlane Mathias Gidsel liiga rekordit ühes mängus visatud väravate arvestuses, kui aitas koduklubi Berliini Füchse 40:32 võidule FC Porto üle.",
+      "category": "estonia",
+      "language": "et"
+    },
+    {
       "id": "cf0b4709f1cf1ec67615baf1",
       "title": "Russian forces attack Dnipropetrovsk region more than 30 times since evening, injuring one person",
       "url": "https://www.ukrinform.net/rubric-ato/4172561-russian-forces-attack-dnipropetrovsk-region-more-than-30-times-since-evening-injuring-one-person.html",
@@ -11399,6 +11483,18 @@
       "date_basis": "published",
       "excerpt": "A new film paints the Meta founder as a villain. But the tech firm seems immune to bad publicity, writes our North America tech correspondent.",
       "category": "world",
+      "language": "en"
+    },
+    {
+      "id": "d2ba9307d467f5c8fea6cf7d",
+      "title": "DWF Labs subsidiaries sue BitGo for $141 million over alleged token lock-up breach",
+      "url": "https://www.coindesk.com/policy/2026/10/09/dwf-labs-subsidiaries-sue-bitgo-for-usd141-million-over-alleged-token-lock-up-breach",
+      "original_url": "https://www.coindesk.com/policy/2026/10/09/dwf-labs-subsidiaries-sue-bitgo-for-usd141-million-over-alleged-token-lock-up-breach",
+      "source": "coindesk",
+      "published_at": "2026-10-09T12:23:54Z",
+      "date_basis": "published",
+      "excerpt": "",
+      "category": "technology",
       "language": "en"
     },
     {
@@ -12619,7 +12715,7 @@
       "url": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_campaign=rss&at_medium=RSS",
       "original_url": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&at_campaign=rss",
       "source": "bbc-world",
-      "published_at": "2026-10-09T04:26:19Z",
+      "published_at": "2026-10-09T12:18:52Z",
       "date_basis": "published",
       "excerpt": "The mayor of New York expressed outrage at the shooting which the Department of Homeland Security said happened during the arrest of a \"criminal illegal alien\".",
       "category": "world",
