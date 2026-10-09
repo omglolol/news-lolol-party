@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="robots" content="noindex,nofollow">
+  <meta name="description" content="A personal news reader: world, Estonia, AI and technology, Russia and Ukraine. Original reporting, refreshed every four hours.">
+  <meta name="theme-color" content="#fafaf8">
+  <title>News · lolol.party</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='4' fill='%231b2932'/%3E%3Cpath d='M9 23V9h3l8 10V9h3v14h-3L12 13v10Z' fill='white'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="styles.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#news">Skip to news</a>
+  <div class="page">
+    <header>
+      <div class="heading"><h1>News<span>lolol.party</span></h1><p id="updated" role="status">Opening the latest edition…</p></div>
+      <nav aria-label="News categories" id="categories">
+        <button type="button" data-category="all" aria-pressed="true">All</button>
+        <button type="button" data-category="world" aria-pressed="false">World</button>
+        <button type="button" data-category="estonia" aria-pressed="false">Estonia</button>
+        <button type="button" data-category="technology" aria-pressed="false">AI &amp; Technology</button>
+        <button type="button" data-category="russia-ukraine" aria-pressed="false">Russia &amp; Ukraine</button>
+      </nav>
+      <div class="filters">
+        <label for="search"><span class="sr-only">Search headlines</span><input id="search" type="search" placeholder="Search headlines" autocomplete="off"></label>
+        <label for="source"><span class="sr-only">Source</span><select id="source"><option value="all">All sources</option></select></label>
+      </div>
+    </header>
+    <main id="news" tabindex="-1">
+      <div class="results"><p id="result-count" aria-live="polite"></p><span>Times in Tallinn</span></div>
+      <p id="notice" class="notice" role="status" hidden></p>
+      <div id="articles"></div>
+      <p id="empty" hidden>No matching headlines. Try another source or search.</p>
+      <button id="more" class="more" type="button" hidden>Load more</button>
+      <noscript><p>Enable JavaScript to use this news reader.</p></noscript>
+    </main>
+    <footer>
+      <span>Original headlines &amp; RSS excerpts. Refreshed every four hours.</span>
+      <details id="source-details"><summary>Sources &amp; feed status</summary><div id="source-status"></div></details>
+    </footer>
+  </div>
+</body>
+</html>
