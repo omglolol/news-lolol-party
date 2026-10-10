@@ -22,15 +22,15 @@ Source and category filters inspect all reports in a group. Search checks origin
 
 ## Southeast Asia
 
-Added 11 English-language publications on 10 October 2026, with the largest source selection devoted to Thailand:
+Added 10 English-language publications on 10 October 2026, with the largest source selection devoted to Thailand:
 
 - Thailand: Bangkok Post, Khaosod English, Thai Enquirer, The Thaiger.
 - Vietnam: VnExpress International, Viet Nam News (society feed).
-- Cambodia: Khmer Times, The Phnom Penh Post.
+- Cambodia: Cambodia Investment Review (business and economic reporting).
 - Laos: The Laotian Times.
 - Regional coverage: CNA (Asia feed, filtered to Southeast Asian countries, cities, ASEAN and the Mekong); The Irrawaddy (Myanmar).
 
-Feed URLs and publisher websites are in `sources.json`. Only publisher feeds with recent, dated English-language articles were selected; Thai PBS World did not provide a usable feed, and Tuoi Tre News supplied no parseable publication dates in its tested feed. Headlines and excerpts remain in their original form. Feed availability is checked on every scheduled refresh.
+Feed URLs and publisher websites are in `sources.json`. Khmer Times and The Phnom Penh Post worked locally but returned HTTP 403 from GitHub Actions, so they were replaced with an accessible Cambodian publication. Cambodia coverage is also provided by CNA and the Thai publications, particularly for cross-border developments. Only publisher feeds with recent, dated English-language articles were selected; Thai PBS World did not provide a usable feed, and Tuoi Tre News supplied no parseable publication dates in its tested feed. Headlines and excerpts remain in their original form. Feed availability is checked on every scheduled refresh.
 
 ## Local use
 

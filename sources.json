@@ -39,15 +39,13 @@
   {"id":"kyiv-independent","name":"The Kyiv Independent","category":"russia-ukraine","language":"en","website":"https://kyivindependent.com/","feed":"https://kyivindependent.com/news-archive/rss/"},
   {"id":"euromaidan","name":"Euromaidan Press","category":"russia-ukraine","language":"en","website":"https://euromaidanpress.com/","feed":"https://euromaidanpress.com/feed/"},
   {"id":"ukrinform","name":"Ukrinform","category":"russia-ukraine","language":"en","website":"https://www.ukrinform.net/","feed":"https://www.ukrinform.net/rss/block-lastnews"},
-
   {"id":"bangkok-post","name":"Bangkok Post","category":"southeast-asia","language":"en","coverage":"thailand","website":"https://www.bangkokpost.com/","feed":"https://www.bangkokpost.com/rss/data/topstories.xml"},
   {"id":"khaosod-en","name":"Khaosod English","category":"southeast-asia","language":"en","coverage":"thailand","website":"https://www.khaosodenglish.com/","feed":"https://www.khaosodenglish.com/feed/"},
   {"id":"thai-enquirer","name":"Thai Enquirer","category":"southeast-asia","language":"en","coverage":"thailand","website":"https://www.thaienquirer.com/","feed":"https://www.thaienquirer.com/feed/"},
   {"id":"thaiger","name":"The Thaiger","category":"southeast-asia","language":"en","coverage":"thailand","website":"https://thethaiger.com/","feed":"https://thethaiger.com/feed"},
   {"id":"vietnam-news","name":"Viet Nam News","category":"southeast-asia","language":"en","coverage":"vietnam","website":"https://vietnamnews.vn/","feed":"https://vietnamnews.vn/rss/society.rss"},
   {"id":"vnexpress-en","name":"VnExpress International","category":"southeast-asia","language":"en","coverage":"vietnam","website":"https://e.vnexpress.net/","feed":"https://e.vnexpress.net/rss/news.rss"},
-  {"id":"khmer-times","name":"Khmer Times","category":"southeast-asia","language":"en","coverage":"cambodia","website":"https://www.khmertimeskh.com/","feed":"https://www.khmertimeskh.com/feed/"},
-  {"id":"phnom-penh-post","name":"The Phnom Penh Post","category":"southeast-asia","language":"en","coverage":"cambodia","website":"https://phnompenhpost.com/","feed":"https://phnompenhpost.com/feed/"},
+  {"id":"cambodia-investment-review","name":"Cambodia Investment Review","category":"southeast-asia","language":"en","coverage":"cambodia","website":"https://cambodiainvestmentreview.com/","feed":"https://cambodiainvestmentreview.com/feed/","region_filter":"southeast-asia"},
   {"id":"laotian-times","name":"The Laotian Times","category":"southeast-asia","language":"en","coverage":"laos","website":"https://laotiantimes.com/","feed":"https://laotiantimes.com/category/allnews/feed/"},
   {"id":"cna-asia","name":"CNA","category":"southeast-asia","language":"en","coverage":"regional","website":"https://www.channelnewsasia.com/asia","feed":"https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6511","region_filter":"southeast-asia"},
   {"id":"irrawaddy","name":"The Irrawaddy","category":"southeast-asia","language":"en","coverage":"myanmar","website":"https://www.irrawaddy.com/","feed":"https://www.irrawaddy.com/feed"}
