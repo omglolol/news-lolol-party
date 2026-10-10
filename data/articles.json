@@ -1,5 +1,5 @@
 {
-  "last_successful_refresh": "2026-10-09T20:32:04Z",
+  "last_successful_refresh": "2026-10-10T00:44:07Z",
   "articles": [
     {
       "id": "003546a021782802198a1060",
@@ -95,6 +95,18 @@
       "date_basis": "published",
       "excerpt": "‘The climate issue is the security issue,’ says Turkish minister at Pacific pre-Cop summit in Fiji Wealthy countries should spend far more on dealing with the climate crisis than the 5% of GDP promised by Nato members for defence because “the climate issue is the security issue”, the host of the next UN summit has…",
       "category": "world",
+      "language": "en"
+    },
+    {
+      "id": "015203846d98bc12c5a32fa4",
+      "title": "Decade-old RAM is making a comeback",
+      "url": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
+      "original_url": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
+      "source": "verge",
+      "published_at": "2026-10-09T21:50:00Z",
+      "date_basis": "published",
+      "excerpt": "CPU makers have noticed that the seemingly unending RAM price hikes are making it tough for a lot of us to upgrade our PCs. Their solution? A return to last-gen DDR4 RAM. Intel and AMD are making new CPUs that'll support the older, more affordable type of memory. On Friday, Gigabyte announced that two of […]",
+      "category": "technology",
       "language": "en"
     },
     {
@@ -674,6 +686,18 @@
       "language": "en"
     },
     {
+      "id": "09dd0042c953032d317fa9f1",
+      "title": "Flydubai co-pilot plotted ‘suicide’ attack on Israel, UAE says",
+      "url": "https://www.aljazeera.com/news/2026/10/9/flydubai-co-pilot-plotted-suicide-attack-on-israel-uae-says?traffic_source=rss",
+      "original_url": "https://www.aljazeera.com/news/2026/10/9/flydubai-co-pilot-plotted-suicide-attack-on-israel-uae-says?traffic_source=rss",
+      "source": "al-jazeera",
+      "published_at": "2026-10-09T20:13:24Z",
+      "date_basis": "published",
+      "excerpt": "Attorney General says suspect admitted he acted alone after preparing ‌‌psychologically ‌‌and physically for the attack.",
+      "category": "world",
+      "language": "en"
+    },
+    {
       "id": "0a39bc393f3a83bb53e92a50",
       "title": "Trump announces Russian diesel deal amid soaring US fuel prices",
       "url": "https://www.aljazeera.com/economy/2026/10/9/trump-announces-russian-diesel-deal-amid-soaring-us-fuel-prices?traffic_source=rss",
@@ -866,6 +890,18 @@
       "language": "en"
     },
     {
+      "id": "0d4a61ed9becdc348728ee77",
+      "title": "Neanderthal wooden tools from Spain found preserved in stone",
+      "url": "https://arstechnica.com/science/2026/10/neanderthal-wooden-tools-from-spain-found-preserved-in-stone/",
+      "original_url": "https://arstechnica.com/science/2026/10/neanderthal-wooden-tools-from-spain-found-preserved-in-stone/",
+      "source": "ars",
+      "published_at": "2026-10-09T22:34:03Z",
+      "date_basis": "published",
+      "excerpt": "Dissolved rock precipitated around the tools, which then decayed.",
+      "category": "technology",
+      "language": "en"
+    },
+    {
       "id": "0d8eba8ee8f5f4b81137c6bf",
       "title": "WA avaldas aasta kergejõustiklaste kandidaadid",
       "url": "https://sport.err.ee/1610159995/wa-avaldas-aasta-kergejoustiklaste-kandidaadid",
@@ -914,6 +950,18 @@
       "language": "en"
     },
     {
+      "id": "0e5cc4124830f2311c8976aa",
+      "title": "Northern Ireland secretary Chris Bryant bans Drumcree parade",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/09/northern-ireland-secretary-chris-bryant-bans-drumcree-parade",
+      "original_url": "https://www.theguardian.com/uk-news/2026/oct/09/northern-ireland-secretary-chris-bryant-bans-drumcree-parade",
+      "source": "guardian-world",
+      "published_at": "2026-10-09T20:58:00Z",
+      "date_basis": "published",
+      "excerpt": "Prospect of contentious Orange Order march through Garvaghy Road in Portadown has led to a nearly two-week standoff The Northern Ireland secretary of state has banned the Drumcree parade after a 13-day impasse between the Orange Order and nationalists. Chris Bryant announced on Friday night that it was “not in the…",
+      "category": "world",
+      "language": "en"
+    },
+    {
       "id": "0e82b66e78fc5a39f361fdda",
       "title": "От удара ВСУ по Донецку 26 августа погибли не меньше 20 офицеров; это самые крупные потери в российских штабах от одной атаки за все время войны",
       "url": "https://zona.media/news/2026/10/09/20_oficzerov",
@@ -924,6 +972,18 @@
       "excerpt": "",
       "category": "russia-ukraine",
       "language": "ru"
+    },
+    {
+      "id": "0ea6db72372791e317dd4e62",
+      "title": "Women with PMOS should get subsidised weight-loss drugs, Australian advocates say",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/10/women-with-pmos-should-get-subsidised-weight-loss-drugs-advocates-say",
+      "original_url": "https://www.theguardian.com/australia-news/2026/oct/10/women-with-pmos-should-get-subsidised-weight-loss-drugs-advocates-say",
+      "source": "guardian-world",
+      "published_at": "2026-10-09T23:00:41Z",
+      "date_basis": "published",
+      "excerpt": "With GLP-1s to treat the condition not specifically approved by the TGA, patients are being prescribed them off-label Get our breaking news email, free app or daily news podcast Women living with a chronic hormonal condition should have access to taxpayer-funded weight-loss medications, advocates say. The…",
+      "category": "world",
+      "language": "en"
     },
     {
       "id": "0ec677c4ecd5ee1a8df6ecf4",
@@ -1008,6 +1068,18 @@
       "excerpt": "259,000 deaths confirmed by September 21",
       "category": "russia-ukraine",
       "language": "ru"
+    },
+    {
+      "id": "0fb9b2dbc98d3fcd8a2c9bba",
+      "title": "Powerful earthquake hits Panama, triggers tsunami warnings",
+      "url": "https://www.cbc.ca/player/play/9.7376534?cmp=rss",
+      "original_url": "https://www.cbc.ca/player/play/9.7376534?cmp=rss",
+      "source": "cbc-world",
+      "published_at": "2026-10-09T20:57:03Z",
+      "date_basis": "published",
+      "excerpt": "A powerful 7.7 magnitude earthquake hit near the southern tip of Panama Friday morning, triggering tsunami warnings along the coastline from Mexico to Peru. Tremors were felt over 200 kilometres away in Panama City, according to residents.",
+      "category": "world",
+      "language": "en"
     },
     {
       "id": "101af7311870291db4e7160a",
@@ -1454,6 +1526,30 @@
       "language": "en"
     },
     {
+      "id": "16096662aa390d87c20513a4",
+      "title": "Navi Pillay wins Nobel Peace Prize after long career of investigating war crimes",
+      "url": "https://www.pbs.org/newshour/show/navi-pillay-wins-nobel-peace-prize-after-long-career-of-investigating-war-crimes",
+      "original_url": "https://www.pbs.org/newshour/show/navi-pillay-wins-nobel-peace-prize-after-long-career-of-investigating-war-crimes",
+      "source": "pbs-world",
+      "published_at": "2026-10-09T22:40:03Z",
+      "date_basis": "published",
+      "excerpt": "International human rights lawyer Navi Pillay won the Nobel Peace Prize on Friday. The Nobel Committee said it chose her as \"institutions of international law are under political attack.\" Hours later, the Trump administration sanctioned the International Criminal Court, where Pillay was a judge. Nick Schifrin speaks…",
+      "category": "world",
+      "language": "en"
+    },
+    {
+      "id": "1651e351a715b23ae747db1c",
+      "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
+      "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
+      "original_url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
+      "source": "ars",
+      "published_at": "2026-10-09T22:04:07Z",
+      "date_basis": "published",
+      "excerpt": "One damaged data center has supercomputers used for training Yandex’s AI model.",
+      "category": "technology",
+      "language": "en"
+    },
+    {
       "id": "1668893d3c3a55a5b52cfc28",
       "title": "В краснодарском СИЗО скончался политзек, осужденный за анкету для легиона «Свобода России»",
       "url": "https://novayagazeta.eu/articles/2026/10/08/v-krasnodarskom-sizo-skonchalsia-politzek-osuzhdennyi-za-anketu-dlia-legiona-svoboda-rossii-news",
@@ -1562,6 +1658,18 @@
       "language": "en"
     },
     {
+      "id": "17bed738f4d712647be30ea0",
+      "title": "Three men found guilty of murdering two Australian surfer brothers and US friend",
+      "url": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_campaign=rss&at_medium=RSS",
+      "original_url": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "published_at": "2026-10-09T21:55:51Z",
+      "date_basis": "published",
+      "excerpt": "The bodies of Jake and Callum Robinson and their friend Carter Rhoad were found at the bottom of a well.",
+      "category": "world",
+      "language": "en"
+    },
+    {
       "id": "1817ee8eb60330d848846138",
       "title": "Russian strikes cause extensive damage to Ukraine's power grid – president",
       "url": "https://www.ukrinform.net/rubric-economy/4172713-russian-strikes-cause-extensive-damage-to-ukraines-power-grid-president.html",
@@ -1644,6 +1752,18 @@
       "excerpt": "Украинский мониторинговый канал Exilenova+ сообщил, что ВСУ атаковали дата-центр «Яндекса» в Сасово Рязанской области. Телеграм-канал ASTRA подтвердил, что на территории завода «Саста», где находится дата-центр, начался пожар. Telegram Позднее в пресс-службе «Яндекса» подтвердили РБК, что из-за атаки БПЛА произошел…",
       "category": "russia-ukraine",
       "language": "ru"
+    },
+    {
+      "id": "1945eed776763fa16710a4b3",
+      "title": "Headteachers threaten strike ballots after losing confidence in Ofsted",
+      "url": "https://www.theguardian.com/education/2026/oct/10/ofsted-strikes-head-teachers-confidence",
+      "original_url": "https://www.theguardian.com/education/2026/oct/10/ofsted-strikes-head-teachers-confidence",
+      "source": "guardian-world",
+      "published_at": "2026-10-09T23:01:40Z",
+      "date_basis": "published",
+      "excerpt": "Unions tell government to fix ‘overbearing mess’ of inspection regime and its impact on staff wellbeing – or risk industrial action Tensions between England’s headteachers and Ofsted are developing into a crisis after school leadership unions said they had no confidence in the watchdog and would hold strike ballots…",
+      "category": "world",
+      "language": "en"
     },
     {
       "id": "196e0e5c4903de4560537e80",
@@ -1755,13 +1875,13 @@
     },
     {
       "id": "1ba77c6578f6b1e883d978b0",
-      "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+      "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
       "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_campaign=rss&at_medium=RSS",
       "original_url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
       "source": "bbc-world",
-      "published_at": "2026-10-09T20:13:23Z",
+      "published_at": "2026-10-10T00:19:26Z",
       "date_basis": "published",
-      "excerpt": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.",
+      "excerpt": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
       "category": "world",
       "language": "en"
     },
@@ -1802,6 +1922,18 @@
       "language": "en"
     },
     {
+      "id": "1c6bc9931a956385a7c8dd6b",
+      "title": "Three men found guilty of murders of Australian surfer brothers and US friend in Mexico",
+      "url": "https://www.theguardian.com/world/2026/oct/10/jake-callum-robinson-australian-surfers-carter-rhoad-mexico-murder-guilty-verdict-ntwnfb",
+      "original_url": "https://www.theguardian.com/world/2026/oct/10/jake-callum-robinson-australian-surfers-carter-rhoad-mexico-murder-guilty-verdict-ntwnfb",
+      "source": "guardian-world",
+      "published_at": "2026-10-09T21:30:22Z",
+      "date_basis": "published",
+      "excerpt": "Australian brothers Jake and Callum Robinson, 30 and 33, and friend Carter Rhoad, 30, were killed on a surfing trip in 2024 Get our breaking news email, free app or daily news podcast A Mexican judge has convicted three men of the 2024 murders of two Australian surfers and their American friend in a case that sparked…",
+      "category": "world",
+      "language": "en"
+    },
+    {
       "id": "1c6ff067c26c6916fc13d659",
       "title": "Россия закупила более 176 тыс. тонн топлива в Южной Корее",
       "url": "https://istories.media/news/2026/10/06/rossiya-zakupila-bolee-176-tis-tonn-topliva-v-yuzhnoi-koree/",
@@ -1824,6 +1956,18 @@
       "excerpt": "1 октября на Netflix вышла семисерийная экранизация американской классики XX века — романа «К востоку от Эдема» Джона Стейнбека. Флоренс Пью играет главную злодейку американской литературы, Майк Фейст ссорится с братом, а режиссер Зои Казан, внучка Элиа Казана, заново рассказывает историю Каина и Авеля. Американский…",
       "category": "russia-ukraine",
       "language": "ru"
+    },
+    {
+      "id": "1c945b2850f6d4c46d44a61d",
+      "title": "Russo-Ukrainian war, day 1689: Russia plans up to 1,000 missiles, drones, and bombs against 60 Ukrainian infrastructure sites this winter, Ukraine says",
+      "url": "https://euromaidanpress.com/2026/10/10/russo-ukrainian-war-day-1689/",
+      "original_url": "https://euromaidanpress.com/2026/10/10/russo-ukrainian-war-day-1689/",
+      "source": "euromaidan",
+      "published_at": "2026-10-09T21:08:12Z",
+      "date_basis": "published",
+      "excerpt": "Ukrainian forces rerun the Vivaldi playbook outside Kramatorsk and push Russia back across the Siverskyi Donets, drones hit a Kh-101 fuel plant and a far-north refinery inside Russia, and Russian strikes on warehouses, a store, and a farm kill three.",
+      "category": "russia-ukraine",
+      "language": "en"
     },
     {
       "id": "1c9d3989f11607b8d0a7b13b",
@@ -2007,13 +2151,13 @@
     },
     {
       "id": "1f61e260d16f872def2dea25",
-      "title": "Новым пресс-секретарем Белого дома может стать Кэти Закария",
+      "title": "Новым пресс-секретарем Белого дома станет Кэти Закария, работавшая с Трампом на выборах",
       "url": "https://www.bbc.com/russian/articles/cwx29k892yd9o?at_campaign=rss&at_medium=RSS",
       "original_url": "https://www.bbc.com/russian/articles/cwx29k892yd9o?at_medium=RSS&at_campaign=rss",
       "source": "bbc-ru",
       "published_at": "2026-10-09T20:04:31Z",
       "date_basis": "published",
-      "excerpt": "Консервативному комментатору Кэти Закарии предложили должность пресс-секретаря Белого дома; эту информацию Би-би-си подтвердил представитель американской администрации.",
+      "excerpt": "Консервативному политобозревателю Кэти Закарии предложили должность пресс-секретаря Белого дома. Дональд Трамп назвал ее «верной соратницей» и «преданной участницей движения MAGA».",
       "category": "russia-ukraine",
       "language": "ru"
     },
@@ -2083,7 +2227,7 @@
       "url": "https://www.theguardian.com/us-news/2026/oct/09/marble-hill-new-york-city-ice-shooting-reaction",
       "original_url": "https://www.theguardian.com/us-news/2026/oct/09/marble-hill-new-york-city-ice-shooting-reaction",
       "source": "guardian-world",
-      "published_at": "2026-10-09T19:53:18Z",
+      "published_at": "2026-10-09T21:08:53Z",
       "date_basis": "published",
       "excerpt": "Locals also express fear after man shot in the neck while his child was in the back of his car Residents of Manhattan’s Marble Hill neighborhood were furious at federal Immigration and Customs Enforcement (ICE) on Friday but also scared after an officer shot their neighbor who had his child in the back of his car.…",
       "category": "world",
@@ -2306,6 +2450,30 @@
       "language": "et"
     },
     {
+      "id": "231d5adfb974d4ee3d2b16e6",
+      "title": "How will Spain’s housing crisis affect elections?",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/10/9/how-will-spains-housing-crisis-impact-elections?traffic_source=rss",
+      "original_url": "https://www.aljazeera.com/video/inside-story/2026/10/9/how-will-spains-housing-crisis-impact-elections?traffic_source=rss",
+      "source": "al-jazeera",
+      "published_at": "2026-10-09T20:39:11Z",
+      "date_basis": "published",
+      "excerpt": "Snap vote called after Parliament rejects measures to protect tenants and freeze rents.",
+      "category": "world",
+      "language": "en"
+    },
+    {
+      "id": "237da6759a692d4998ddd131",
+      "title": "Russia increasing number and geographic reach of attacks using jet-powered drones – Ukrainian Air Force",
+      "url": "https://www.ukrinform.net/rubric-ato/4172646-russia-increasing-number-and-geographic-reach-of-attacks-using-jetpowered-drones-ukrainian-air-force.html",
+      "original_url": "https://www.ukrinform.net/rubric-ato/4172646-russia-increasing-number-and-geographic-reach-of-attacks-using-jetpowered-drones-ukrainian-air-force.html",
+      "source": "ukrinform",
+      "published_at": "2026-10-09T22:25:00Z",
+      "date_basis": "published",
+      "excerpt": "Russian occupation forces have recently been increasing the proportion of jet-powered drones used in attacks across Ukraine. The geographic scope of their use is also expanding.",
+      "category": "russia-ukraine",
+      "language": "en"
+    },
+    {
       "id": "23e77f6dc0bafcdaf84f7892",
       "title": "По делу о краже картин из музея Огюста Ренуара во Франции задержаны шесть подозреваемых",
       "url": "https://www.dw.com/ru/по-делу-о-краже-картин-из-музея-огюста-ренуара-во-франции-задержаны-шесть-подозреваемых/a-79586013?maca=rus-rss-ru-all-1126-rdf",
@@ -2450,6 +2618,18 @@
       "language": "ru"
     },
     {
+      "id": "25c69b9a342e1d0b4bba1019",
+      "title": "Questions remain over Ebola patient who travelled across three nations undetected",
+      "url": "https://www.bbc.co.uk/news/articles/cqp8gknl1njjo?at_campaign=rss&at_medium=RSS",
+      "original_url": "https://www.bbc.co.uk/news/articles/cqp8gknl1njjo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "published_at": "2026-10-10T00:00:08Z",
+      "date_basis": "published",
+      "excerpt": "Fresh details reveal how the 40-year-old businessman flew and crossed regional borders while seriously ill.",
+      "category": "world",
+      "language": "en"
+    },
+    {
       "id": "25c9d0d75ad3bb026200ea5d",
       "title": "Record 20 Russian officers killed in Ukrainian strikes on headquarters in Donetsk, monitors say",
       "url": "https://kyivindependent.com/record-20-russian-officers-killed-in-ukrainian-strikes-on-headquarters-in-donetsk-monitors-say/",
@@ -2530,6 +2710,18 @@
       "published_at": "2026-10-07T10:00:41Z",
       "date_basis": "published",
       "excerpt": "Fishermen motor past a commercial vessel anchored off Yemen's coast at Bab al-Mandeb, in the straits connecting the Red Sea with the Gulf of Aden and the Indian Ocean on September 12, 2026. Yemen's Houthis took over on September 11, 2026, a Red Sea island of Mayyun that is located in the middle of the Bab al-Mandeb…",
+      "category": "technology",
+      "language": "en"
+    },
+    {
+      "id": "271ee11f88dbe51c9407a0d4",
+      "title": "Flock Safety is reportedly planning major layoffs now that everyone hates it",
+      "url": "https://www.engadget.com/2282823/flock-safety-reportedly-planning-major-layoffs/",
+      "original_url": "https://www.engadget.com/2282823/flock-safety-reportedly-planning-major-layoffs/",
+      "source": "engadget",
+      "published_at": "2026-10-09T21:16:48Z",
+      "date_basis": "published",
+      "excerpt": "Morale at one of the most reviled companies in America appears to be at an all time low.",
       "category": "technology",
       "language": "en"
     },
@@ -2739,7 +2931,7 @@
     },
     {
       "id": "28f647f3bdfc06960def2203",
-      "title": "'We were being arrested like terrorists' - Ukrainian journalist says his detention in Austria was brutal",
+      "title": "'We were being arrested like terrorists'— Ukrainian journalist says his detention in Austria was brutal",
       "url": "https://kyivindependent.com/ukrainian-investigative-journalist-mykhailo-tkach-detained-in-austria-while-on-assignment/",
       "original_url": "https://kyivindependent.com/ukrainian-investigative-journalist-mykhailo-tkach-detained-in-austria-while-on-assignment/",
       "source": "kyiv-independent",
@@ -2829,7 +3021,7 @@
       "source": "err-uudised",
       "published_at": "2026-10-09T19:29:00Z",
       "date_basis": "published",
-      "excerpt": "USA president Donald Trump ütles reedel, et Venemaa on nõustunud kohe tooma maailmaturule 300 000 diislikütust ning pikema aja jooksul veel mitu miljonit tonni.",
+      "excerpt": "USA president Donald Trump ütles reedel, et Venemaa on nõustunud kohe tooma maailmaturule 300 000 tonni diislikütust ning pikema aja jooksul veel mitu miljonit tonni.",
       "category": "estonia",
       "language": "et"
     },
@@ -3218,6 +3410,18 @@
       "language": "en"
     },
     {
+      "id": "2e7003966e3beb0c93bd923b",
+      "title": "Трамп и Путин договорились об экспорте российского дизеля в США и на мировой рынок",
+      "url": "https://www.dw.com/ru/трамп-и-путин-договорились-об-экспорте-российского-дизеля-в-сша-и-на-мировой-рынок/a-79623748?maca=rus-rss-ru-all-1126-rdf",
+      "original_url": "https://www.dw.com/ru/трамп-и-путин-договорились-об-экспорте-российского-дизеля-в-сша-и-на-мировой-рынок/a-79623748?maca=rus-rss-ru-all-1126-rdf",
+      "source": "dw-ru",
+      "published_at": "2026-10-09T21:07:00Z",
+      "date_basis": "updated",
+      "excerpt": "Президент США заявил об \"очень успешных\" переговорах с президентом РФ, а также о том, что Россия \"незамедлительно\" поставит более 300 000 тонн дизельного топлива в США и на мировой рынок.",
+      "category": "russia-ukraine",
+      "language": "ru"
+    },
+    {
       "id": "2e97be719520c2c1900c0f6b",
       "title": "Trump immigrant purge could cut social security for Americans by $2,000 a year",
       "url": "https://www.theguardian.com/us-news/2026/oct/09/trump-immigration-cost-social-security",
@@ -3502,6 +3706,18 @@
       "published_at": "2026-10-09T10:44:22Z",
       "date_basis": "published",
       "excerpt": "",
+      "category": "technology",
+      "language": "en"
+    },
+    {
+      "id": "31e4cb732aa2cf22df1a9d65",
+      "title": "AWS AgentCore security undone by prompt requesting credentials",
+      "url": "https://www.theregister.com/security/2026/10/09/aws-agentcore-security-undone-by-prompt-requesting-credentials/5302436",
+      "original_url": "https://www.theregister.com/security/2026/10/09/aws-agentcore-security-undone-by-prompt-requesting-credentials/5302436",
+      "source": "register",
+      "published_at": "2026-10-09T19:15:48Z",
+      "date_basis": "published",
+      "excerpt": "Tokens transmitted in metadata, weak VM isolation, and expansive permissions make hacking a lot easier",
       "category": "technology",
       "language": "en"
     },
@@ -4243,7 +4459,7 @@
       "url": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_campaign=rss&at_medium=RSS",
       "original_url": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss",
       "source": "bbc-world",
-      "published_at": "2026-10-09T19:39:52Z",
+      "published_at": "2026-10-09T21:26:30Z",
       "date_basis": "published",
       "excerpt": "Tsunami warnings are issued for neighbouring countries as videos of destruction circulate online.",
       "category": "world",
@@ -4380,6 +4596,18 @@
       "excerpt": "Оппозиция обвиняет Джорджу Мелони в том, что она подстраивает механизм выборов под себя.",
       "category": "russia-ukraine",
       "language": "ru"
+    },
+    {
+      "id": "3cb92290ef5cc5494f631bc1",
+      "title": "Mexico investigates video said to show cartel members fighting for Ukraine",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/mexico-investigates-video-said-to-show-cartel-members-fighting-for-ukraine?traffic_source=rss",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/mexico-investigates-video-said-to-show-cartel-members-fighting-for-ukraine?traffic_source=rss",
+      "source": "al-jazeera",
+      "published_at": "2026-10-09T22:50:15Z",
+      "date_basis": "published",
+      "excerpt": "Mexico is investigating a viral video showing suspected mercenaries chanting cartel slogans while fighting in Ukraine.",
+      "category": "world",
+      "language": "en"
     },
     {
       "id": "3cc8546af4b99f07f4c31cfe",
@@ -4535,6 +4763,18 @@
       "date_basis": "published",
       "excerpt": "Vegalabs says $21,168 in unused Azure credits expired as separate Marketplace charges piled up",
       "category": "technology",
+      "language": "en"
+    },
+    {
+      "id": "3e7f1bf3819e9ed5beeab271",
+      "title": "Strong earthquakes shake Panama, prompting tsunami alert",
+      "url": "https://www.dw.com/en/strong-earthquakes-shake-panama-prompting-tsunami-alert/a-79623168?maca=en-rss-en-all-1573-rdf",
+      "original_url": "https://www.dw.com/en/strong-earthquakes-shake-panama-prompting-tsunami-alert/a-79623168?maca=en-rss-en-all-1573-rdf",
+      "source": "dw-en",
+      "published_at": "2026-10-09T19:03:00Z",
+      "date_basis": "updated",
+      "excerpt": "Panama's president has declared a \"major disaster\" after tremors triggered a tsunami alert in Central and South America and briefly suspended flights.",
+      "category": "world",
       "language": "en"
     },
     {
@@ -4726,6 +4966,18 @@
       "published_at": "2026-10-07T07:03:00Z",
       "date_basis": "published",
       "excerpt": "Kõige kurnavamad ja tugevamad valud kimbutavad inimesi elukaare jooksul keskeas ehk umbes 50. ja 70. eluaasta vahel, leidsid Kanada teadlased.",
+      "category": "estonia",
+      "language": "et"
+    },
+    {
+      "id": "41a5b94f460390e137e55c28",
+      "title": "Aktuaalne kaamera kell 21:00",
+      "url": "https://www.err.ee/1610162392/aktuaalne-kaamera-kell-21-00",
+      "original_url": "https://www.err.ee/1610162392/aktuaalne-kaamera-kell-21-00",
+      "source": "err-uudised",
+      "published_at": "2026-10-09T18:35:00Z",
+      "date_basis": "published",
+      "excerpt": "",
       "category": "estonia",
       "language": "et"
     },
@@ -4958,6 +5210,18 @@
       "language": "ru"
     },
     {
+      "id": "4414150d7471c5e5f422df18",
+      "title": "Intercommunal clashes kill 71 people in South Sudan",
+      "url": "https://www.aljazeera.com/news/2026/10/10/intercommunal-clashes-kill-71-people-in-south-sudan?traffic_source=rss",
+      "original_url": "https://www.aljazeera.com/news/2026/10/10/intercommunal-clashes-kill-71-people-in-south-sudan?traffic_source=rss",
+      "source": "al-jazeera",
+      "published_at": "2026-10-10T00:01:32Z",
+      "date_basis": "published",
+      "excerpt": "Government security forces regain control of Rumbek town after outsiders attempted to seize the area.",
+      "category": "world",
+      "language": "en"
+    },
+    {
       "id": "443d0bcabbcf8853a45ccf97",
       "title": "As protests continue, half of France reportedly backs high school student movement",
       "url": "https://www.france24.com/en/video/20261009-as-protests-continue-half-of-france-reportedly-backs-high-school-student-movement",
@@ -4980,6 +5244,18 @@
       "excerpt": "В ночь на 8 октября беспилотники атаковали дата-центр «Яндекса» в Сасово Рязанской области, утром 9 октября — в Калуге. Первый полностью остановил работу, во втором вышли из строя несколько модулей. Компания предупредила о перебоях в работе сервисов и пока не называет сроки восстановления оборудования.",
       "category": "russia-ukraine",
       "language": "ru"
+    },
+    {
+      "id": "448ea73be99603572625d95e",
+      "title": "Flydubai co-pilot planned suicide attack on Israeli airport, UAE prosecutors say",
+      "url": "https://www.theguardian.com/world/2026/oct/09/flydubai-co-pilot-planned-suicide-attack-on-israeli-airport-uae-prosecutors-say",
+      "original_url": "https://www.theguardian.com/world/2026/oct/09/flydubai-co-pilot-planned-suicide-attack-on-israeli-airport-uae-prosecutors-say",
+      "source": "guardian-world",
+      "published_at": "2026-10-09T20:38:11Z",
+      "date_basis": "published",
+      "excerpt": "Hammam al-Hammami is believed to have been targeting the passenger terminal at Ben Gurion airport near Tel Aviv The co-pilot who tried to seize control of a passenger jet flying from Dubai to Tel Aviv last week was planning to launch a suicide attack targeting the passenger terminal at Israel’s international airport,…",
+      "category": "world",
+      "language": "en"
     },
     {
       "id": "44a224429474a2a0d276dfd5",
@@ -5378,6 +5654,18 @@
       "language": "et"
     },
     {
+      "id": "4a11bee9d82aa0e19f154313",
+      "title": "Trump says U.S. to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms",
+      "url": "https://www.npr.org/2026/10/09/nx-s1-5996912/trump-says-u-s-to-get-diesel-from-russia-relaxing-pressure-on-moscow-to-ease-prices-before-midterms",
+      "original_url": "https://www.npr.org/2026/10/09/nx-s1-5996912/trump-says-u-s-to-get-diesel-from-russia-relaxing-pressure-on-moscow-to-ease-prices-before-midterms",
+      "source": "npr-world",
+      "published_at": "2026-10-09T21:24:13Z",
+      "date_basis": "published",
+      "excerpt": "Trump says the U.S. will obtain diesel from Russia, relaxing years of U.S. pressure on Moscow, to combat prices before midterms. He said he struck the deal with Russian President Vladimir Putin in a phone call.",
+      "category": "world",
+      "language": "en"
+    },
+    {
       "id": "4a82f8fbcbd811c5758e52ca",
       "title": "Европарламент отказался признавать новую Госдуму легитимной, назвав выборы «полным фарсом»",
       "url": "https://novayagazeta.eu/articles/2026/10/08/evroparlament-otkazalsia-priznavat-novuiu-gosdumu-legitimnoi-nazvav-vybory-polnym-farsom-news",
@@ -5630,6 +5918,18 @@
       "language": "en"
     },
     {
+      "id": "4e336e0e4a9e936021c1f386",
+      "title": "Putin Downplayed Immediate Ukraine Talks Resumption in Phone Call With Trump, Kremlin Says",
+      "url": "https://www.themoscowtimes.com/2026/10/10/kremlin-says-putin-in-phone-call-with-trump-downplays-immediate-ukraine-talks-resumption-a93938",
+      "original_url": "https://www.themoscowtimes.com/2026/10/10/kremlin-says-putin-in-phone-call-with-trump-downplays-immediate-ukraine-talks-resumption-a93938",
+      "source": "moscow-times",
+      "published_at": "2026-10-09T22:16:42Z",
+      "date_basis": "published",
+      "excerpt": "The Kremlin also said Putin and Trump discussed major economic initiatives during the phone call, including potential supplies of Russian fuel.",
+      "category": "russia-ukraine",
+      "language": "en"
+    },
+    {
       "id": "4e3a0a9c7e5b4ddc1927619c",
       "title": "Zcash developers set January target for quantum-resistant payments after ‘bunker mode’ scare",
       "url": "https://www.coindesk.com/tech/2026/10/09/zcash-developers-set-january-target-for-quantum-resistant-payments-after-bunker-mode-scare",
@@ -5786,6 +6086,18 @@
       "language": "en"
     },
     {
+      "id": "4ff51c7b275d82e2cce29b66",
+      "title": "Trump confirms Fort Hood shooter’s execution will be by firing squad",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/trump-confirms-fort-hood-shooters-execution-will-be-by-firing-squad?traffic_source=rss",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/trump-confirms-fort-hood-shooters-execution-will-be-by-firing-squad?traffic_source=rss",
+      "source": "al-jazeera",
+      "published_at": "2026-10-09T21:53:01Z",
+      "date_basis": "published",
+      "excerpt": "The Pentagon said the firing squad execution of Fort Hood shooter Nidal Malik Hasan will be public and livestreamed.",
+      "category": "world",
+      "language": "en"
+    },
+    {
       "id": "501402f5c6cfd65d57b440aa",
       "title": "23‑летнему жителю Воронежской области назначили 20 лет заключения по обвинению в поджогах по заданию украинской разведки",
       "url": "https://zona.media/news/2026/10/08/plyusnin",
@@ -5796,6 +6108,30 @@
       "excerpt": "",
       "category": "russia-ukraine",
       "language": "ru"
+    },
+    {
+      "id": "5056652dbae657f0d1ea7516",
+      "title": "'It was a definite quid pro quo.' GOP donor who accused Guilfoyle of corruption speaks out",
+      "url": "https://www.pbs.org/newshour/show/it-was-a-definite-quid-pro-quo-gop-donor-who-accused-guilfoyle-of-corruption-speaks-out",
+      "original_url": "https://www.pbs.org/newshour/show/it-was-a-definite-quid-pro-quo-gop-donor-who-accused-guilfoyle-of-corruption-speaks-out",
+      "source": "pbs-world",
+      "published_at": "2026-10-09T22:30:02Z",
+      "date_basis": "published",
+      "excerpt": "A Republican donor is accusing U.S. Ambassador to Greece Kimberly Guilfoyle of asking for $100,000 in exchange for access to top Trump administration officials. Amna Nawaz speaks with Eric Deters, a former Kentucky congressional candidate, about the requests for payment and the access he was promised in return that he…",
+      "category": "world",
+      "language": "en"
+    },
+    {
+      "id": "507341f2d8f4d53615b1d6b9",
+      "title": "Outrage grows as CDC reportedly poised to fund \"unethical\" vaccine trial",
+      "url": "https://arstechnica.com/health/2026/10/rfk-jr-still-eager-to-fund-vaccine-trial-that-would-expose-babies-to-deadly-virus/",
+      "original_url": "https://arstechnica.com/health/2026/10/rfk-jr-still-eager-to-fund-vaccine-trial-that-would-expose-babies-to-deadly-virus/",
+      "source": "ars",
+      "published_at": "2026-10-09T19:27:27Z",
+      "date_basis": "published",
+      "excerpt": "CDC allocated $1.6M for study on alleged harms of hepatitis B vaccine.",
+      "category": "technology",
+      "language": "en"
     },
     {
       "id": "5081ece95869f10033b25038",
@@ -6362,6 +6698,18 @@
       "language": "en"
     },
     {
+      "id": "56eea387de8511b07a0f7119",
+      "title": "Legal path seems narrow to challenge livestream of Fort Hood shooter's execution, experts say",
+      "url": "https://www.pbs.org/newshour/world/legal-path-seems-narrow-to-challenge-livestream-of-fort-hood-shooters-execution-experts-say",
+      "original_url": "https://www.pbs.org/newshour/world/legal-path-seems-narrow-to-challenge-livestream-of-fort-hood-shooters-execution-experts-say",
+      "source": "pbs-world",
+      "published_at": "2026-10-09T21:55:32Z",
+      "date_basis": "published",
+      "excerpt": "Broadcasting the event worldwide isn't mentioned in the Army rules governing how rare military executions are carried out. But that doesn't mean there is a viable legal path to oppose it by anyone besides Nidal Malik Hasan.",
+      "category": "world",
+      "language": "en"
+    },
+    {
       "id": "5700befc371d9a0e31a2aba3",
       "title": "Paris court jails Indian man for leading sadist neo-Nazi cult that tortured girls",
       "url": "https://www.france24.com/en/france/20261009-paris-court-jails-indian-man-for-leading-sadist-neo-nazi-cult-that-tortured-girls",
@@ -6455,6 +6803,18 @@
       "date_basis": "published",
       "excerpt": "Feds claim he charged clients more than ransoms, paid up, pocketed the difference",
       "category": "technology",
+      "language": "en"
+    },
+    {
+      "id": "58d548d818ca4e0f26082d86",
+      "title": "Trump strikes deal with Putin for Russian diesel in sharp reversal of U.S. policy ahead of midterms",
+      "url": "https://www.pbs.org/newshour/world/trump-strikes-deal-with-putin-for-russian-diesel-in-sharp-reversal-of-u-s-policy-ahead-of-midterms",
+      "original_url": "https://www.pbs.org/newshour/world/trump-strikes-deal-with-putin-for-russian-diesel-in-sharp-reversal-of-u-s-policy-ahead-of-midterms",
+      "source": "pbs-world",
+      "published_at": "2026-10-09T22:06:36Z",
+      "date_basis": "published",
+      "excerpt": "President Donald Trump said he has struck a deal to obtain diesel from Russia, a stunning reversal of years of U.S. pressure on Moscow over its war with Ukraine and an attempt to address high fuel prices ahead of the U.S. midterm elections.",
+      "category": "world",
       "language": "en"
     },
     {
@@ -6710,6 +7070,18 @@
       "language": "et"
     },
     {
+      "id": "5ccc2ea983f942cbbf056513",
+      "title": "Inside the U.S. negotiations to free the Oct. 7 hostages",
+      "url": "https://www.pbs.org/newshour/podcasts/compass-points-with-pbs-news/inside-the-u-s-negotiations-to-free-the-oct-7-hostages",
+      "original_url": "https://www.pbs.org/newshour/podcasts/compass-points-with-pbs-news/inside-the-u-s-negotiations-to-free-the-oct-7-hostages",
+      "source": "pbs-world",
+      "published_at": "2026-10-09T23:30:36Z",
+      "date_basis": "published",
+      "excerpt": "Before the Oct. 7 attacks, the U.S., Israel and Saudi Arabia were on the brink of a historic agreement. Compass Points moderator Nick Schifrin discusses how close they were to normalization, the rush to release hostages and the U.S. response to the war in Gaza with Brett McGurk. He served across four administrations…",
+      "category": "world",
+      "language": "en"
+    },
+    {
       "id": "5cd50ddff49039bfda5d8cf7",
       "title": "Расходы РФ на войну в этом году достигнут почти 17 трлн рублей. Это на 40% больше, чем планировалось",
       "url": "https://novayagazeta.eu/articles/2026/10/07/raskhody-rf-na-voinu-v-etom-godu-dostignut-pochti-17-trln-rublei-eto-na-40-bolshe-chem-planirovalos-news",
@@ -6839,6 +7211,18 @@
       "date_basis": "published",
       "excerpt": "US immigration officer shot man in car where five-year-old child was sitting in the Bronx, sparking fierce protests Leading New York Democrats expressed anger and demanded curbs on Immigration and Customs Enforcement (ICE) violence after a federal officer shot a man driving a car in which his five-year-old son was…",
       "category": "world",
+      "language": "en"
+    },
+    {
+      "id": "5e90d9adeb6fcd3726b8da44",
+      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "original_url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "source": "techcrunch-ai",
+      "published_at": "2026-10-10T00:18:32Z",
+      "date_basis": "published",
+      "excerpt": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "category": "technology",
       "language": "en"
     },
     {
@@ -7015,7 +7399,7 @@
       "url": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_campaign=rss&at_medium=RSS",
       "original_url": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
       "source": "bbc-world",
-      "published_at": "2026-10-09T18:40:05Z",
+      "published_at": "2026-10-09T21:50:47Z",
       "date_basis": "published",
       "excerpt": "The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years.",
       "category": "world",
@@ -7115,6 +7499,18 @@
       "date_basis": "published",
       "excerpt": "President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like \"Little Marco\" and \"Crooked Hillary\"; he changed \"fake news\" from a phrase describing scammy media outlets to a derogatory term for the press at large. Over the past few weeks,…",
       "category": "technology",
+      "language": "en"
+    },
+    {
+      "id": "634cb51bfad576978c6d5dac",
+      "title": "Zelensky appoints former European integration minister Kachka as EU ambassador",
+      "url": "https://kyivindependent.com/zelensky-appoints-former-european-integration-minister-kachka-as-eu-ambassador/",
+      "original_url": "https://kyivindependent.com/zelensky-appoints-former-european-integration-minister-kachka-as-eu-ambassador/",
+      "source": "kyiv-independent",
+      "published_at": "2026-10-09T20:47:00Z",
+      "date_basis": "published",
+      "excerpt": "During Kachka’s tenure overseeing EU integration, Ukraine opened its first two accession negotiation clusters — groups of policy areas in which candidates must meet EU requirements.",
+      "category": "russia-ukraine",
       "language": "en"
     },
     {
@@ -7262,6 +7658,18 @@
       "language": "en"
     },
     {
+      "id": "65167bd41a41430d325ae877",
+      "title": "Africa Cup of Nations may stay as a biennial event, says CAF chief Motsepe",
+      "url": "https://www.aljazeera.com/sports/2026/10/9/afcon-may-stay-as-a-biennial-event-says-caf-chief-motsepe?traffic_source=rss",
+      "original_url": "https://www.aljazeera.com/sports/2026/10/9/afcon-may-stay-as-a-biennial-event-says-caf-chief-motsepe?traffic_source=rss",
+      "source": "al-jazeera",
+      "published_at": "2026-10-09T21:17:42Z",
+      "date_basis": "published",
+      "excerpt": "CAF had declared the Africa Cup of Nations would be held every four years, but may reverse that decision.",
+      "category": "world",
+      "language": "en"
+    },
+    {
       "id": "6524db5bee72919c1c36804c",
       "title": "US Navy bets another $150M on fighter drone that skips the runway",
       "url": "https://www.theregister.com/offbeat/2026/10/09/us-navy-bets-another-150m-on-fighter-drone-that-skips-the-runway/5302237",
@@ -7392,6 +7800,18 @@
       "excerpt": "Kuigi inimesed pelgavad üha rohkem toidus leiduvat mikroplasti, peitub suurem oht tihti tuhandetes kemikaalides, mida tööstused plasti sisse panevad. Keemilise ja Bioloogilise Füüsika Instituudi (KBFI) keskkonnatoksikoloogia labori teadlased uurivad, millist kahju need kemikaalid loodusele tekitavad ja kas väidetavalt…",
       "category": "estonia",
       "language": "et"
+    },
+    {
+      "id": "67a3684d5467ea9134c501c8",
+      "title": "Трамп договорился с Путиным о поставках российского дизеля, ослабив санкции против России. Зеленский назвал это решение «инвестицией в войну». Главное",
+      "url": "https://meduza.io/feature/2026/10/10/tramp-dogovorilsya-s-putinym-o-postavkah-rossiyskogo-dizelya-oslabiv-sanktsii-protiv-rossii",
+      "original_url": "https://meduza.io/feature/2026/10/10/tramp-dogovorilsya-s-putinym-o-postavkah-rossiyskogo-dizelya-oslabiv-sanktsii-protiv-rossii",
+      "source": "meduza",
+      "published_at": "2026-10-09T21:11:01Z",
+      "date_basis": "published",
+      "excerpt": "Россия и США договорились о поставках российского дизельного топлива на американский и мировой рынки. Об этом после телефонного разговора с Владимиром Путиным сообщил вечером 9 октября президент Соединенных Штатов Дональд Трамп. Сами переговоры Трамп оценил как «очень успешные». Путин, в свою очередь, подтвердил, что…",
+      "category": "russia-ukraine",
+      "language": "ru"
     },
     {
       "id": "67f717af99d3fc84fdfac273",
@@ -7694,6 +8114,18 @@
       "language": "ru"
     },
     {
+      "id": "6bdba3960587cdbe3ad9273b",
+      "title": "Google teases its new 'Fitbit Edge' wearable ahead of an October 12 reveal",
+      "url": "https://www.engadget.com/2282887/google-teases-its-new-fitbit-edge-wearable-ahead-of-an-october-12-reveal/",
+      "original_url": "https://www.engadget.com/2282887/google-teases-its-new-fitbit-edge-wearable-ahead-of-an-october-12-reveal/",
+      "source": "engadget",
+      "published_at": "2026-10-09T22:28:43Z",
+      "date_basis": "published",
+      "excerpt": "Google has seemingly confirmed the rumored \"Fitbit Edge\" with social media posts teasing a new wearable coming October 12.",
+      "category": "technology",
+      "language": "en"
+    },
+    {
       "id": "6bef94d501cdf4b6db5ac3bd",
       "title": "«Половину зубов проглотил, половину выплюнул». Фигурант дела «Артподготовки» рассказал о заданиях от Мальцева и пытках в ФСБ",
       "url": "https://zona.media/article/2026/10/08/sharnev",
@@ -7791,13 +8223,13 @@
     },
     {
       "id": "6d2f84f88ffdea413cfcdf03",
-      "title": "Katie Zacharia ‘offered’ position as White House press secretary",
+      "title": "Katie Zacharia selected to be next White House press secretary",
       "url": "https://www.aljazeera.com/news/2026/10/9/katie-zacharia-offered-position-as-white-house-press-secretary?traffic_source=rss",
       "original_url": "https://www.aljazeera.com/news/2026/10/9/katie-zacharia-offered-position-as-white-house-press-secretary?traffic_source=rss",
       "source": "al-jazeera",
       "published_at": "2026-10-09T18:49:24Z",
       "date_basis": "published",
-      "excerpt": "The role has been vacant since former White House press secretary Karoline Leavitt left in August.",
+      "excerpt": "US President Donald Trump called the conservative commentator 'a devoted fan'.",
       "category": "world",
       "language": "en"
     },
@@ -7847,6 +8279,18 @@
       "date_basis": "published",
       "excerpt": "Although volumes remain small, plans are underway to establish a solar panel recycling facility in Tartu. Epler & Lorenz has received nearly €500,000 in funding from the EU Cohesion Fund to develop the facility.",
       "category": "estonia",
+      "language": "en"
+    },
+    {
+      "id": "6ea13c5a3244a76ab5039e66",
+      "title": "Rising fuel costs slashed Delta’s profit outlook despite strong demand",
+      "url": "https://www.aljazeera.com/economy/2026/10/9/rising-fuel-costs-slashed-deltas-profit-outlook-despite-strong-demand?traffic_source=rss",
+      "original_url": "https://www.aljazeera.com/economy/2026/10/9/rising-fuel-costs-slashed-deltas-profit-outlook-despite-strong-demand?traffic_source=rss",
+      "source": "al-jazeera",
+      "published_at": "2026-10-09T20:17:15Z",
+      "date_basis": "published",
+      "excerpt": "Rising fuel prices push Delta's annual fuel expenses up by $6bn, affecting its profit outlook for 2026.",
+      "category": "world",
       "language": "en"
     },
     {
@@ -8052,6 +8496,18 @@
       "excerpt": "Spordimeedias pälvis mõne aja eest tähelepanu iluuisutaja Niina Petrõkina poolt väidetavalt Venemaa spordiajakirjanikele antud intervjuu. Valitsev Euroopa meister Petrõkina vastas Gruusias toimunud võistlusel talle vene keeles esitatud poolprovokatiivsetele küsimustele.",
       "category": "estonia",
       "language": "et"
+    },
+    {
+      "id": "70db0c9b59ff8e7058b3846b",
+      "title": "South African human rights lawyer Navi Pillay wins Nobel Peace Prize",
+      "url": "https://www.npr.org/2026/10/09/nx-s1-5996461/south-african-human-rights-lawyer-navi-pillay-wins-nobel-peace-prize",
+      "original_url": "https://www.npr.org/2026/10/09/nx-s1-5996461/south-african-human-rights-lawyer-navi-pillay-wins-nobel-peace-prize",
+      "source": "npr-world",
+      "published_at": "2026-10-09T21:25:59Z",
+      "date_basis": "published",
+      "excerpt": "South African human rights lawyer Navi Pillay wins the 2026 Nobel Peace Prize for her lifelong defense of human rights and international law.",
+      "category": "world",
+      "language": "en"
     },
     {
       "id": "70f13c8b92aab778320b98f0",
@@ -8379,13 +8835,13 @@
     },
     {
       "id": "74c80aa9a3296f577c8477ec",
-      "title": "Powerful 7.6-magnitude earthquake hits Panama and triggers tsunami warnings",
+      "title": "Powerful 7.7-magnitude earthquake strikes Panama and triggers panic in capital",
       "url": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake",
       "original_url": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake",
       "source": "guardian-world",
-      "published_at": "2026-10-09T19:52:48Z",
+      "published_at": "2026-10-10T00:13:15Z",
       "date_basis": "published",
-      "excerpt": "Hazardous waves are possible as far south as Ecuador and as far north as Mexico, as 13 aftershocks reported A powerful 7.6 magnitude earthquake has struck Panama and triggered tsunami warnings along the west coast of Central and South America, according to the US Geological Survey (USGS). The quake hit along the…",
+      "excerpt": "The quake caused buildings and roads to collapse but the country appeared to escape widespread destruction or deaths A magnitude 7.7 earthquake struck southern Panama on Friday, damaging buildings and sending thousands into the streets, but the country appeared to escape widespread destruction or deaths. The US…",
       "category": "world",
       "language": "en"
     },
@@ -9219,13 +9675,13 @@
     },
     {
       "id": "8085e29158cc952019b35469",
-      "title": "Trump picks conservative commentator Katie Zacharia to be next press secretary",
+      "title": "Trump says he picked ‘devoted fan’ Katie Zacharia to be next press secretary",
       "url": "https://www.theguardian.com/us-news/2026/oct/09/katie-zacharia-new-white-house-press-secretary-trump",
       "original_url": "https://www.theguardian.com/us-news/2026/oct/09/katie-zacharia-new-white-house-press-secretary-trump",
       "source": "guardian-world",
-      "published_at": "2026-10-09T18:31:16Z",
+      "published_at": "2026-10-09T21:39:06Z",
       "date_basis": "published",
-      "excerpt": "Zacharia will replace Karoline Leavitt, who left the role at the end of August after giving birth to her second child Donald Trump has chosen the conservative commentator Katie Zacharia to be the next White House press secretary, according to a White House official. Zacharia would replace Karoline Leavitt, who left…",
+      "excerpt": "Zacharia will replace Karoline Leavitt, who left the role at the end of August after giving birth to her second child Donald Trump on Friday announced that he had picked Katie Zacharia to be the next White House press secretary, lining up a conservative commentator he called a “devoted fan” to be his most prominent…",
       "category": "world",
       "language": "en"
     },
@@ -9782,6 +10238,18 @@
       "language": "ru"
     },
     {
+      "id": "896643658ffbbc99b4e60860",
+      "title": "Koretskyi, German ambassador discuss supply of equipment for restoring Ukraine’s energy system",
+      "url": "https://www.ukrinform.net/rubric-vidbudova/4172653-koretskyi-german-ambassador-discuss-supply-of-equipment-for-restoring-ukraines-energy-system.html",
+      "original_url": "https://www.ukrinform.net/rubric-vidbudova/4172653-koretskyi-german-ambassador-discuss-supply-of-equipment-for-restoring-ukraines-energy-system.html",
+      "source": "ukrinform",
+      "published_at": "2026-10-09T23:31:00Z",
+      "date_basis": "published",
+      "excerpt": "Prime Minister Sergii Koretskyi met with Germany’s ambassador to Ukraine, Boris Ruge.",
+      "category": "russia-ukraine",
+      "language": "en"
+    },
+    {
       "id": "89b943b848364951d1b38052",
       "title": "OpenAI and Anthropic Are Quietly Rehearsing for the Day After an AI Catastrophe",
       "url": "https://decrypt.co/380621/openai-anthropic-quietly-rehearsing-ai-catastrophe",
@@ -9887,6 +10355,30 @@
       "date_basis": "published",
       "excerpt": "The attack marks the first confirmed strike against Russian data infrastructure, weeks after Moscow did the same.",
       "category": "russia-ukraine",
+      "language": "en"
+    },
+    {
+      "id": "8ae2424a3421618edec28971",
+      "title": "News Wrap: Trump announces diesel deal with Russia",
+      "url": "https://www.pbs.org/newshour/show/news-wrap-trump-announces-diesel-deal-with-russia",
+      "original_url": "https://www.pbs.org/newshour/show/news-wrap-trump-announces-diesel-deal-with-russia",
+      "source": "pbs-world",
+      "published_at": "2026-10-09T22:45:13Z",
+      "date_basis": "published",
+      "excerpt": "In our news wrap Friday, Trump says he struck a deal with Russia for millions of tons of diesel in a bid to lower U.S. energy prices, Katie Zacharia will replace Karoline Leavitt as White House press secretary, the Pentagon's plans to livestream an execution has drawn strong reactions, Trump launched a new effort to…",
+      "category": "world",
+      "language": "en"
+    },
+    {
+      "id": "8ae44c973e3b3c752a506567",
+      "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+      "url": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_campaign=rss&at_medium=RSS",
+      "original_url": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "published_at": "2026-10-09T22:30:22Z",
+      "date_basis": "published",
+      "excerpt": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
+      "category": "world",
       "language": "en"
     },
     {
@@ -10247,6 +10739,18 @@
       "date_basis": "published",
       "excerpt": "The House Financial Services chairman credited the SEC and CFTC for stepping in after the Clarity Act's collapse but said only \"permanent law change\" can secure U.S. leadership.",
       "category": "technology",
+      "language": "en"
+    },
+    {
+      "id": "904f9b841fd45caeca7e4e7e",
+      "title": "UN envoy warns Yemen has returned to ‘full-scale war’, urges dialogue",
+      "url": "https://www.aljazeera.com/news/2026/10/9/un-envoy-warns-yemen-has-returned-to-full-scale-war-urges-dialogue?traffic_source=rss",
+      "original_url": "https://www.aljazeera.com/news/2026/10/9/un-envoy-warns-yemen-has-returned-to-full-scale-war-urges-dialogue?traffic_source=rss",
+      "source": "al-jazeera",
+      "published_at": "2026-10-09T20:56:01Z",
+      "date_basis": "published",
+      "excerpt": "Saudi Arabia and Yemen's internationally recognised gov't urge UN Security Council action amid Houthi escalation.",
+      "category": "world",
       "language": "en"
     },
     {
@@ -10898,6 +11402,18 @@
       "language": "en"
     },
     {
+      "id": "97e32329888044910d41c76d",
+      "title": "Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest",
+      "url": "https://www.bbc.co.uk/news/articles/cm2d6xd2g4w2o?at_campaign=rss&at_medium=RSS",
+      "original_url": "https://www.bbc.co.uk/news/articles/cm2d6xd2g4w2o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "published_at": "2026-10-09T23:02:07Z",
+      "date_basis": "published",
+      "excerpt": "Several trains to Delhi have been cancelled and dozens of metro stations are shut to stop protesters from gathering.",
+      "category": "world",
+      "language": "en"
+    },
+    {
       "id": "981df12e60842306d423a844",
       "title": "Страны Африки просят Украину вернуть пленных граждан, называя их жертвами торговли людьми",
       "url": "https://novayagazeta.eu/articles/2026/10/09/strany-afriki-prosiat-ukrainu-vernut-plennykh-grazhdan-nazyvaia-ikh-zhertvami-torgovli-liudmi-news",
@@ -11126,6 +11642,18 @@
       "language": "ru"
     },
     {
+      "id": "9a027999c27f7c0c9e476866",
+      "title": "Manchester United vs Tottenham: Premier League – teams, prediction, lineups",
+      "url": "https://www.aljazeera.com/sports/2026/10/9/manchester-united-vs-tottenham-premier-league-teams-prediction-lineups?traffic_source=rss",
+      "original_url": "https://www.aljazeera.com/sports/2026/10/9/manchester-united-vs-tottenham-premier-league-teams-prediction-lineups?traffic_source=rss",
+      "source": "al-jazeera",
+      "published_at": "2026-10-09T21:04:00Z",
+      "date_basis": "published",
+      "excerpt": "Man United and Tottenham Hotspur managers under increasing pressure ahead of Premier League clash at Old Trafford.",
+      "category": "world",
+      "language": "en"
+    },
+    {
       "id": "9a0897aa5f4828006449f96b",
       "title": "ETV spordisaade, 7. oktoober",
       "url": "https://sport.err.ee/1610160082/etv-spordisaade-7-oktoober",
@@ -11271,13 +11799,13 @@
     },
     {
       "id": "9b6ddc019996bf3b701471ec",
-      "title": "Hurricane Isaias barrels toward Gulf coast as category 3 storm",
+      "title": "‘Life-threatening storm surge’ headed to US Gulf coast as residents brace for Isaias",
       "url": "https://www.theguardian.com/world/2026/oct/09/hurricane-isaias-gulf-coast",
       "original_url": "https://www.theguardian.com/world/2026/oct/09/hurricane-isaias-gulf-coast",
       "source": "guardian-world",
-      "published_at": "2026-10-09T15:06:16Z",
+      "published_at": "2026-10-10T00:18:15Z",
       "date_basis": "published",
-      "excerpt": "Alabama, Florida and Mississippi declare emergencies, as residents prepare for ‘long-duration power outages’ Isaias strengthened into a category 3 hurricane on Friday morning as it barreled toward the US Gulf coast, where states of emergency have been declared in Alabama, Florida and Mississippi. The hurricane, the…",
+      "excerpt": "Alabama, Florida and Mississippi declare emergencies, with preparations under way for ‘long-duration power outages’ Hurricane Isaias neared landfall Friday evening, barreling toward the US Gulf coast coast as a dangerous category 2 storm and prompting emergency declarations in Alabama, Florida and Mississippi. The…",
       "category": "world",
       "language": "en"
     },
@@ -11539,9 +12067,9 @@
       "url": "https://www.bbc.co.uk/news/articles/cq78px5y1zmzo?at_campaign=rss&at_medium=RSS",
       "original_url": "https://www.bbc.co.uk/news/articles/cq78px5y1zmzo?at_medium=RSS&at_campaign=rss",
       "source": "bbc-world",
-      "published_at": "2026-10-09T17:36:09Z",
+      "published_at": "2026-10-10T00:13:12Z",
       "date_basis": "published",
-      "excerpt": "Oscar Bergal, the 28-year-old man, survived the shooting and is now being held at a detention facility outside of New York, officials said.",
+      "excerpt": "Oscar Belgal, the 28-year-old man, survived the shooting and is now being held at a detention facility outside of New York, officials said.",
       "category": "world",
       "language": "en"
     },
@@ -11568,6 +12096,30 @@
       "excerpt": "18-летнюю тикток-блогерку из Екатеринбурга Эвелину арестовали на девять суток по протоколу об организации несогласованной акции. Поводом стало видео, в котором она призывала к «поискам кошки Свободы». Об этом девушка рассказала изданию «Пост-». Подробности. По словам блогерки, ее задержали дома за день до…",
       "category": "russia-ukraine",
       "language": "ru"
+    },
+    {
+      "id": "9dd22899e84f39d3a4259310",
+      "title": "US judge rules Trump administration’s use of voter data unlawful",
+      "url": "https://www.aljazeera.com/news/2026/10/9/us-judge-rules-trump-administrations-use-of-voter-data-unlawful?traffic_source=rss",
+      "original_url": "https://www.aljazeera.com/news/2026/10/9/us-judge-rules-trump-administrations-use-of-voter-data-unlawful?traffic_source=rss",
+      "source": "al-jazeera",
+      "published_at": "2026-10-09T21:29:01Z",
+      "date_basis": "published",
+      "excerpt": "A federal judge ruled against the Justice Department's use of voter data to cross-reference an immigration database.",
+      "category": "world",
+      "language": "en"
+    },
+    {
+      "id": "9dfd00e8829e0667c92a7a80",
+      "title": "AI coding agents generate more code, but not more software",
+      "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+      "original_url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+      "source": "ars",
+      "published_at": "2026-10-09T19:43:50Z",
+      "date_basis": "published",
+      "excerpt": "Study finds coding efficiency gains get \"absorbed\" by human review \"bottleneck.\"",
+      "category": "technology",
+      "language": "en"
     },
     {
       "id": "9dfeac948a00fb491170698e",
@@ -11991,7 +12543,7 @@
     },
     {
       "id": "a41cbcf9669fd2cac0c335d4",
-      "title": "Tsunami warnings across Latin America after 7.7 magnitude earthquake hits",
+      "title": "Panama earthquake: Tsunami warnings issued after magnitude 7.7 quake",
       "url": "https://www.aljazeera.com/news/2026/10/9/tsunami-warnings-across-latin-america-after-7-7-magnitude-earthquake-hits?traffic_source=rss",
       "original_url": "https://www.aljazeera.com/news/2026/10/9/tsunami-warnings-across-latin-america-after-7-7-magnitude-earthquake-hits?traffic_source=rss",
       "source": "al-jazeera",
@@ -12362,6 +12914,18 @@
       "language": "en"
     },
     {
+      "id": "a81ac0c8acb4e8c0e93332e4",
+      "title": "French students vow to keep up protests as UN voices 'concern' over violence",
+      "url": "https://www.france24.com/en/france/20261009-french-students-vow-to-keep-up-protests-as-un-voices-concern-over-violence",
+      "original_url": "https://www.france24.com/en/france/20261009-french-students-vow-to-keep-up-protests-as-un-voices-concern-over-violence",
+      "source": "france24",
+      "published_at": "2026-10-09T15:37:42Z",
+      "date_basis": "published",
+      "excerpt": "French student unions ​vowed on Friday to keep up the fight even as the government registered a \"marked slowdown\" in a protest movement that has rattled the country for over a week. The UN human rights agency called for de-escalation, voicing concern over violent clashes with police that have caused severe injuries…",
+      "category": "world",
+      "language": "en"
+    },
+    {
       "id": "a82c483d88051a30aaedf051",
       "title": "Italy approves elections overhaul as opposition accuse Meloni of 'scam'",
       "url": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_campaign=rss&at_medium=RSS",
@@ -12602,6 +13166,18 @@
       "language": "ru"
     },
     {
+      "id": "aca0df3fc361bb91e0f1f137",
+      "title": "Второй пилот Flydubai хотел направить захваченный самолет в аэропорт имени Бен-Гуриона близ Тель-Авива",
+      "url": "https://www.dw.com/ru/второй-пилот-flydubai-хотел-направить-захваченный-самолет-в-аэропорт-имени-бен-гуриона-близ-тель-авива/a-79623883?maca=rus-rss-ru-all-1126-rdf",
+      "original_url": "https://www.dw.com/ru/второй-пилот-flydubai-хотел-направить-захваченный-самолет-в-аэропорт-имени-бен-гуриона-близ-тель-авива/a-79623883?maca=rus-rss-ru-all-1126-rdf",
+      "source": "dw-ru",
+      "published_at": "2026-10-09T22:45:00Z",
+      "date_basis": "updated",
+      "excerpt": "Второй пилот рейса Flydubai планировал направить захваченный лайнер в пассажирский терминал аэропорта Тель-Авива, сообщил генпрокурор ОАЭ.",
+      "category": "russia-ukraine",
+      "language": "ru"
+    },
+    {
       "id": "acdf6ceb0076688ec9496151",
       "title": "Russian drone attack damages buildings in Kyiv region, woman injured",
       "url": "https://www.ukrinform.net/rubric-ato/4172640-russian-drone-attack-damages-buildings-in-kyiv-region-woman-injured.html",
@@ -12698,6 +13274,18 @@
       "language": "en"
     },
     {
+      "id": "adc8ee6ee3eb300303e4e633",
+      "title": "One person killed and nine injured in chain-reaction crash in New York City",
+      "url": "https://www.theguardian.com/us-news/2026/oct/09/new-york-city-car-crash",
+      "original_url": "https://www.theguardian.com/us-news/2026/oct/09/new-york-city-car-crash",
+      "source": "guardian-world",
+      "published_at": "2026-10-09T21:50:02Z",
+      "date_basis": "published",
+      "excerpt": "Motorist, reportedly trying to beat a traffic light, barrels through busy intersection and slams into pedestrians At least one person was killed and nine injured in New York City’s eastern Bronx when a motorist barreled through a busy intersection, slammed into pedestrians and triggered a chain-reaction crash…",
+      "category": "world",
+      "language": "en"
+    },
+    {
       "id": "ade033f1e35b29ddf63f1f66",
       "title": "How a multibillion-dollar oilfield has ignited the UK-Argentina feud over the Falklands",
       "url": "https://www.dw.com/en/how-a-multibillion-dollar-oilfield-has-ignited-the-uk-argentina-feud-over-the-falklands/a-79588973?maca=en-rss-en-all-1573-rdf",
@@ -12768,6 +13356,18 @@
       "excerpt": "Путин выделяет всё больше денег на войну, а остальным секторам экономики придётся расплачиваться за это. При этом государству всё сложнее занимать деньги, а бюджетный дефицит грозит снова вырасти. Готова ли российская экономика к длительному противостоянию с Западом? Как устроен бюджет \"вечной войны\"? Что будет…",
       "category": "russia-ukraine",
       "language": "ru"
+    },
+    {
+      "id": "afa2ca2d50253297d8317495",
+      "title": "Inside the U.S. negotiations to free the Oct. 7 hostages",
+      "url": "https://www.pbs.org/newshour/video/compass-points/2026/10/inside-the-u-s-negotiations-to-free-the-oct-7-hostages",
+      "original_url": "https://www.pbs.org/newshour/video/compass-points/2026/10/inside-the-u-s-negotiations-to-free-the-oct-7-hostages",
+      "source": "pbs-world",
+      "published_at": "2026-10-09T23:30:36Z",
+      "date_basis": "published",
+      "excerpt": "Before the Oct. 7 attacks, the U.S., Israel and Saudi Arabia were on the brink of a historic agreement. Compass Points moderator Nick Schifrin discusses how close they were to normalization, the rush to release hostages and the U.S. response to the war in Gaza with Brett McGurk. He served across four administrations…",
+      "category": "world",
+      "language": "en"
     },
     {
       "id": "afc11dc361556dce9f9f8b35",
@@ -12862,6 +13462,18 @@
       "published_at": "2026-10-09T04:00:38Z",
       "date_basis": "published",
       "excerpt": "Matsadaash staff allege torture and forced confessions after being held on charges of working for Muslim Brotherhood Egyptian journalists are planning a new protest in Cairo this weekend after six colleagues were charged with terrorism offences amid allegations they had been tortured in police detention. Last week,…",
+      "category": "world",
+      "language": "en"
+    },
+    {
+      "id": "b10aeb4085571fa43c757690",
+      "title": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau",
+      "url": "https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr",
+      "original_url": "https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr",
+      "source": "guardian-world",
+      "published_at": "2026-10-09T21:36:18Z",
+      "date_basis": "published",
+      "excerpt": "Recommended dose of hepatitis B vaccine will be withheld from thousands of newborns by Danish researchers A controversial research trial that will withhold hepatitis B vaccines from some African newborns was given approval to move forward this week. It is a central part of the vaccine vision for Robert F Kennedy Jr,…",
       "category": "world",
       "language": "en"
     },
@@ -13430,6 +14042,18 @@
       "language": "en"
     },
     {
+      "id": "b858def6cbf0f4cfd0725501",
+      "title": "U.S. CFTC moves to fold event contracts into swaps regulations as legal fight rages",
+      "url": "https://www.coindesk.com/policy/2026/10/09/u-s-cftc-moves-to-fold-event-contracts-into-swaps-regulations-as-legal-fight-rages",
+      "original_url": "https://www.coindesk.com/policy/2026/10/09/u-s-cftc-moves-to-fold-event-contracts-into-swaps-regulations-as-legal-fight-rages",
+      "source": "coindesk",
+      "published_at": "2026-10-09T21:21:54Z",
+      "date_basis": "published",
+      "excerpt": "",
+      "category": "technology",
+      "language": "en"
+    },
+    {
       "id": "b874e77a64ee4a6d3d072e86",
       "title": "Pete Hegseth’s plan to livestream execution puts US in dubious company",
       "url": "https://www.theguardian.com/world/2026/oct/09/pete-hegseth-public-execution-nidal-hasan-capital-sentences",
@@ -13536,6 +14160,18 @@
       "excerpt": "Нобелевскую премию по литературе в 2026 году получила канадская писательница Энн Карсон «За смелое и изобретательное творчество, в котором она предложила современной литературе новые формы, созданные в игривом диалоге с классической традицией». Поэтесса, филолог и специалистка по античной литературе, она постоянно…",
       "category": "russia-ukraine",
       "language": "ru"
+    },
+    {
+      "id": "bb10a83baa8b4fa40c3d5ce1",
+      "title": "Zelensky: Letting Russia sell fuel means investing in its war",
+      "url": "https://www.ukrinform.net/rubric-economy/4172855-zelensky-letting-russia-sell-fuel-means-investing-in-its-war.html",
+      "original_url": "https://www.ukrinform.net/rubric-economy/4172855-zelensky-letting-russia-sell-fuel-means-investing-in-its-war.html",
+      "source": "ukrinform",
+      "published_at": "2026-10-09T20:45:00Z",
+      "date_basis": "published",
+      "excerpt": "Gifts to Putin will not bring peace or any benefit to the civilized world; Russia will “repay” the diesel gesture with further terror and atrocities.",
+      "category": "russia-ukraine",
+      "language": "en"
     },
     {
       "id": "bb150cc4350d536c452f8777",
@@ -13934,6 +14570,18 @@
       "language": "en"
     },
     {
+      "id": "c2c055514d19898877a7158f",
+      "title": "Heina klubi tegi võrratu tagasituleku ja napsas Dortmundi Borussialt punkti",
+      "url": "https://sport.err.ee/1610162389/heina-klubi-tegi-vorratu-tagasituleku-ja-napsas-dortmundi-borussialt-punkti",
+      "original_url": "https://sport.err.ee/1610162389/heina-klubi-tegi-vorratu-tagasituleku-ja-napsas-dortmundi-borussialt-punkti",
+      "source": "err-sport",
+      "published_at": "2026-10-09T20:40:00Z",
+      "date_basis": "published",
+      "excerpt": "Eesti jalgpallur Karl Jakob Heina klubi Bremeni Werder tuli viimastel minutitel välja kaheväravalisest kaotusseisust ja viigistas Saksamaa kõrgliiga viiendas voorus võõrsil Dortmundi Borussiaga 2:2.",
+      "category": "estonia",
+      "language": "et"
+    },
+    {
       "id": "c2de5dcd3c872cb111971a3e",
       "title": "Macron and Steinmeier struggle to revive Franco-German ties",
       "url": "https://www.dw.com/en/macron-and-steinmeier-struggle-to-revive-franco-german-ties/a-79618635?maca=en-rss-en-all-1573-rdf",
@@ -14067,11 +14715,11 @@
     },
     {
       "id": "c45fa1c52924b109f31c0a64",
-      "title": "Черногория намерена депортировать российского провоенного блогера Михаила Звинчука из «Рыбаря» как угрозу нацбезопасности",
+      "title": "Черногория депортировала российского провоенного блогера Михаила Звинчука из «Рыбаря» как угрозу нацбезопасности",
       "url": "https://www.bbc.com/russian/articles/c5lye97kjxgjo?at_campaign=rss&at_medium=RSS",
       "original_url": "https://www.bbc.com/russian/articles/c5lye97kjxgjo?at_medium=RSS&at_campaign=rss",
       "source": "bbc-ru",
-      "published_at": "2026-10-09T15:27:35Z",
+      "published_at": "2026-10-09T21:08:30Z",
       "date_basis": "published",
       "excerpt": "Основатель известного российского провоенного телеграм-канала «Рыбарь» Михаил Звинчук, который был задержан в Черногории вместе с женой и несколькими сотрудниками, объявлен угрозой национальной безопасности и будет выслан, объявило МВД Черногории.",
       "category": "russia-ukraine",
@@ -14318,6 +14966,18 @@
       "language": "en"
     },
     {
+      "id": "c75d498eb0763fa17c07d4f3",
+      "title": "Zelenskyy furious as Trump announces deal to buy Russian diesel",
+      "url": "https://www.theguardian.com/us-news/2026/oct/09/trump-putin-russian-diesel-ukraine",
+      "original_url": "https://www.theguardian.com/us-news/2026/oct/09/trump-putin-russian-diesel-ukraine",
+      "source": "guardian-world",
+      "published_at": "2026-10-09T23:39:31Z",
+      "date_basis": "published",
+      "excerpt": "President says deal essential to lower US fuel prices but move set to create fresh crisis with Ukraine and Nato allies US politics – live updates Donald Trump was on a fresh collision course with the Ukrainian president, Volodymyr Zelenskyy, and European allies on Friday after a stunning agreement to buy Russian…",
+      "category": "world",
+      "language": "en"
+    },
+    {
       "id": "c796ba90cf9d503156c74fd2",
       "title": "Two Renoir paintings stolen from French museum are recovered",
       "url": "https://www.bbc.co.uk/news/articles/cwkg50v1vn07o?at_campaign=rss&at_medium=RSS",
@@ -14426,6 +15086,18 @@
       "language": "en"
     },
     {
+      "id": "c8cce7e0db318840c2ab1855",
+      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+      "original_url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+      "source": "techcrunch-ai",
+      "published_at": "2026-10-09T21:41:29Z",
+      "date_basis": "published",
+      "excerpt": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
+      "category": "technology",
+      "language": "en"
+    },
+    {
       "id": "c8e48f4b36d24ce7890fe2f2",
       "title": "Европарламент назвал новую Госдуму нелегитимной",
       "url": "https://meduza.io/news/2026/10/08/evroparlament-nazval-novuyu-gosdumu-nelegitimnoy",
@@ -14436,6 +15108,18 @@
       "excerpt": "Европарламент принял резолюцию, в которой отказался признать результаты выборов в Госдуму РФ. В резолюции говорится, что российское голосование было «фиктивным» и проходило в атмосфере страха и на фоне продолжающегося вторжения в Украину.",
       "category": "russia-ukraine",
       "language": "ru"
+    },
+    {
+      "id": "c90764c549ba8834492dd961",
+      "title": "What to expect as Hurricane Isaias bears down on the Gulf Coast as a major storm",
+      "url": "https://www.pbs.org/newshour/show/what-to-expect-as-hurricane-isaias-bears-down-on-the-gulf-coast-as-a-major-storm",
+      "original_url": "https://www.pbs.org/newshour/show/what-to-expect-as-hurricane-isaias-bears-down-on-the-gulf-coast-as-a-major-storm",
+      "source": "pbs-world",
+      "published_at": "2026-10-09T22:55:07Z",
+      "date_basis": "published",
+      "excerpt": "Hurricane Isaias has strengthened into a Category 3 hurricane as it heads toward the Gulf Coast. Residents are rushing to prepare for the storm, which is packing winds up to 120 mph and is expected to make landfall Friday night. Amna Nawaz speaks with Michael Brennan, director of the National Hurricane Center, for…",
+      "category": "world",
+      "language": "en"
     },
     {
       "id": "c92d0fdec32a04dbcd8d3f75",
@@ -14556,6 +15240,18 @@
       "excerpt": "В США на 3 декабря запланирована казнь военнослужащего Нидала Хасана, который в 2009 году убил 13 сослуживцев на военной базе Форт-Худ. Пентагон объявил, что казнь будет публичной — такое произойдет впервые за много десятилетий.",
       "category": "russia-ukraine",
       "language": "ru"
+    },
+    {
+      "id": "ca61f6a53dd750dfdce4f75c",
+      "title": "Ke Huy Quan reflects on his family's escape from post-war Vietnam on 'Settle In'",
+      "url": "https://www.pbs.org/newshour/show/ke-huy-quan-reflects-on-his-familys-escape-from-post-war-vietnam-on-settle-in",
+      "original_url": "https://www.pbs.org/newshour/show/ke-huy-quan-reflects-on-his-familys-escape-from-post-war-vietnam-on-settle-in",
+      "source": "pbs-world",
+      "published_at": "2026-10-09T22:15:31Z",
+      "date_basis": "published",
+      "excerpt": "Actor Ke Huy Quan went from arriving in America as a refugee to starring in Indiana Jones and The Goonies. Decades later, he made an Oscar-winning comeback. In the latest episode of our PBS News podcast \"Settle In,\" Amna Nawaz spoke with him about his debut memoir \"Never Say Die,\" which starts with his family's…",
+      "category": "world",
+      "language": "en"
     },
     {
       "id": "ca93e53989e5f46b10d384cb",
@@ -14882,6 +15578,18 @@
       "language": "en"
     },
     {
+      "id": "ce9730979e1f91e72e3ba37a",
+      "title": "'Everyone hates the police' – what France's school protests reveal about a divided nation",
+      "url": "https://www.bbc.co.uk/news/articles/crq5nlqnn184o?at_campaign=rss&at_medium=RSS",
+      "original_url": "https://www.bbc.co.uk/news/articles/crq5nlqnn184o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "published_at": "2026-10-09T23:24:33Z",
+      "date_basis": "published",
+      "excerpt": "Students taking to the streets in France have become a focal point in the country's increasingly polarised politics.",
+      "category": "world",
+      "language": "en"
+    },
+    {
       "id": "ceded04f23e12ed1abdcb376",
       "title": "Возможна ли в России вспышка чумы?",
       "url": "https://www.bbc.com/russian/podcasts/p076qqzl/p0pf1q03?at_campaign=rss&at_medium=RSS",
@@ -15075,7 +15783,7 @@
     },
     {
       "id": "d21a4e95cd8251471a151e71",
-      "title": "Man shot by ICE agents in NYC still has bullet in his body, lawyer says",
+      "title": "Anti-ICE protests continue in NYC after agents shoot man in car with child",
       "url": "https://www.cbc.ca/news/world/livestory/nyc-ice-shooting-dhs-mamdani-mullin-new-york-dominican-9.7375447?cmp=rss",
       "original_url": "https://www.cbc.ca/news/world/livestory/nyc-ice-shooting-dhs-mamdani-mullin-new-york-dominican-9.7375447?cmp=rss",
       "source": "cbc-world",
@@ -15155,6 +15863,18 @@
       "date_basis": "published",
       "excerpt": "",
       "category": "technology",
+      "language": "en"
+    },
+    {
+      "id": "d315fbf26c7c6ef945710924",
+      "title": "Human rights veteran Navi Pillay wins 2026 Nobel Peace Prize",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/human-rights-veteran-navi-pillay-wins-2026-nobel-peace-prize?traffic_source=rss",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/human-rights-veteran-navi-pillay-wins-2026-nobel-peace-prize?traffic_source=rss",
+      "source": "al-jazeera",
+      "published_at": "2026-10-09T20:29:30Z",
+      "date_basis": "published",
+      "excerpt": "South African jurist Navanethem Pillay has been awarded the 2026 Nobel Peace Prize for her work to promote peace.",
+      "category": "world",
       "language": "en"
     },
     {
@@ -15398,6 +16118,18 @@
       "language": "en"
     },
     {
+      "id": "d67f786ce66529f0bbbe8529",
+      "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+      "original_url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+      "source": "verge",
+      "published_at": "2026-10-09T21:15:38Z",
+      "date_basis": "published",
+      "excerpt": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.com on July 18th, but the investigators never reviewed…",
+      "category": "technology",
+      "language": "en"
+    },
+    {
       "id": "d68580f4965b46cd1f69ced4",
       "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
       "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
@@ -15480,6 +16212,18 @@
       "excerpt": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons software, and surveillance.",
       "category": "technology",
       "language": "en"
+    },
+    {
+      "id": "d770e11917525f0e3ebc4133",
+      "title": "Viipekeelsed uudised",
+      "url": "https://www.err.ee/1610162395/viipekeelsed-uudised",
+      "original_url": "https://www.err.ee/1610162395/viipekeelsed-uudised",
+      "source": "err-uudised",
+      "published_at": "2026-10-09T17:00:00Z",
+      "date_basis": "published",
+      "excerpt": "",
+      "category": "estonia",
+      "language": "et"
     },
     {
       "id": "d77e3a80551db16063d36b6e",
@@ -15575,6 +16319,18 @@
       "date_basis": "published",
       "excerpt": "Drone attacks target Russian digital giant Yandex, as well as continuing strikes on missile plants and oil refineries.",
       "category": "world",
+      "language": "en"
+    },
+    {
+      "id": "d88a502e1a94487c2852cef2",
+      "title": "A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis",
+      "url": "https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/",
+      "original_url": "https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/",
+      "source": "ars",
+      "published_at": "2026-10-09T21:51:12Z",
+      "date_basis": "published",
+      "excerpt": "Stylish upcycling, with a retro flare, at Spain's Museo de Historia de la Computación.",
+      "category": "technology",
       "language": "en"
     },
     {
@@ -15698,6 +16454,18 @@
       "language": "en"
     },
     {
+      "id": "d9fc025ec699a868969d03e4",
+      "title": "Trump names new press secretary to succeed Karoline Leavitt",
+      "url": "https://www.dw.com/en/trump-names-new-press-secretary-to-succeed-karoline-leavitt/a-79623824?maca=en-rss-en-all-1573-rdf",
+      "original_url": "https://www.dw.com/en/trump-names-new-press-secretary-to-succeed-karoline-leavitt/a-79623824?maca=en-rss-en-all-1573-rdf",
+      "source": "dw-en",
+      "published_at": "2026-10-09T23:12:00Z",
+      "date_basis": "updated",
+      "excerpt": "Trump has appointed Katie Zacharia to take over the White House press secretary role vacated by Karoline Leavitt. She assumes the role with Trump struggling with low approval ratings driven by the US war with Iran.",
+      "category": "world",
+      "language": "en"
+    },
+    {
       "id": "da9a2ec006290ac7d182f3f7",
       "title": "Нобелевскую премию мира получила бывший Верховный комиссар ООН по правам человека Наванетхем Пиллей",
       "url": "https://novayagazeta.eu/articles/2026/10/09/nobelevskuiu-premiiu-mira-poluchila-byvshii-verkhovnyi-komissar-oon-po-pravam-cheloveka-navanetkhem-pillei-news",
@@ -15818,6 +16586,18 @@
       "language": "et"
     },
     {
+      "id": "dcc7825b0be2110983d24005",
+      "title": "Tornado rips through Sicilian town and city",
+      "url": "https://www.bbc.co.uk/news/videos/cm4g1wwl0lxko?at_campaign=rss&at_medium=RSS",
+      "original_url": "https://www.bbc.co.uk/news/videos/cm4g1wwl0lxko?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "published_at": "2026-10-09T16:25:00Z",
+      "date_basis": "published",
+      "excerpt": "Dramatic footage shows huge tornado moving through Marsala and Petrosino, causing damage to buildings and cars.",
+      "category": "world",
+      "language": "en"
+    },
+    {
       "id": "dcd16d6b64fc2463d3b31a10",
       "title": "Студент РГГУ получил 19 лет по делу о подготовке теракта в мечети; семья сообщала, что юношу пытали при задержании и подбросили ему телефон, где нашли переписку с «кураторами»",
       "url": "https://zona.media/news/2026/10/07/bokov",
@@ -15911,6 +16691,18 @@
       "date_basis": "published",
       "excerpt": "PRESS REVIEW – Friday, October 9: US Defence Secretary Pete Hegseth announces that the military execution of Fort Hood shooter Nidal Malik Hasan will be \"livestreamed\". But first: we look at reactions in Italy after the country's parliament passes a controversial electoral reform that critics say serves to benefit…",
       "category": "world",
+      "language": "en"
+    },
+    {
+      "id": "dd8e8cab9f774d74d32423f6",
+      "title": "What's been driving Hawaii's lava fountains?",
+      "url": "https://arstechnica.com/science/2026/10/whats-been-driving-hawaiis-lava-fountains/",
+      "original_url": "https://arstechnica.com/science/2026/10/whats-been-driving-hawaiis-lava-fountains/",
+      "source": "ars",
+      "published_at": "2026-10-09T21:05:01Z",
+      "date_basis": "published",
+      "excerpt": "Before the lava fountains started, the ground was expanding by half a meter a day.",
+      "category": "technology",
       "language": "en"
     },
     {
@@ -16068,6 +16860,18 @@
       "excerpt": "Vaba aja kvaliteeti ei tohi hinnata ainult selle järgi, kui vähe see meilt nõuab. Mõnikord võib just vabalt valitud pingutus muuta vaba aja üheks kõige tähenduslikumaks osaks meie elust, leiab minutiloengus Tallinna Ülikooli rekreatsioonikorralduse lektor Karel Kulbin.",
       "category": "estonia",
       "language": "et"
+    },
+    {
+      "id": "e03599bac591226024148d41",
+      "title": "Трамп заявил, что договорился с Путиным о поставках дизеля из России. Зеленский назвал это инвестицией в войну",
+      "url": "https://www.bbc.com/russian/articles/c6d93q02dgqeo?at_campaign=rss&at_medium=RSS",
+      "original_url": "https://www.bbc.com/russian/articles/c6d93q02dgqeo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-ru",
+      "published_at": "2026-10-09T20:33:03Z",
+      "date_basis": "published",
+      "excerpt": "Президент США заявил, что в ходе разговора с Владимиром Путиным была достигнута договоренность о поставках российского дизельного топлива на американский и другие рынки. Владимир Зеленский заявил, что «подарки Путину не сработают на мир», а разрешение России продавать дизель — это инвестиция в войну.",
+      "category": "russia-ukraine",
+      "language": "ru"
     },
     {
       "id": "e042f4eed8f83812f268a3ed",
@@ -16706,6 +17510,18 @@
       "language": "et"
     },
     {
+      "id": "ea10e097b2a686fece42c941",
+      "title": "NASA issues long-awaited call to industry for private space stations",
+      "url": "https://arstechnica.com/space/2026/10/nasa-issues-long-awaited-call-to-industry-for-private-space-stations/",
+      "original_url": "https://arstechnica.com/space/2026/10/nasa-issues-long-awaited-call-to-industry-for-private-space-stations/",
+      "source": "ars",
+      "published_at": "2026-10-09T21:34:09Z",
+      "date_basis": "published",
+      "excerpt": "\"We’ve made it clear that NASA will never give up its presence in low Earth orbit.\"",
+      "category": "technology",
+      "language": "en"
+    },
+    {
       "id": "ea188853adc39cc16e53ea7b",
       "title": "Bangladesh’s mango diplomacy with India has reached its limits",
       "url": "https://www.aljazeera.com/opinions/2026/10/9/bangladeshs-mango-diplomacy-with-india-has-reached-its-limits?traffic_source=rss",
@@ -16895,6 +17711,18 @@
       "date_basis": "published",
       "excerpt": "",
       "category": "technology",
+      "language": "en"
+    },
+    {
+      "id": "ecf75a312892a97d9d3d65a9",
+      "title": "South African judge awarded Nobel Peace Prize",
+      "url": "https://www.france24.com/en/south-african-judge-awarded-nobel-peace-prize",
+      "original_url": "https://www.france24.com/en/south-african-judge-awarded-nobel-peace-prize",
+      "source": "france24",
+      "published_at": "2026-10-09T21:53:23Z",
+      "date_basis": "published",
+      "excerpt": "In tonight's programme, South African judge and human rights champion Navi Pillay has been awarded the Nobel Peace Prize. Also in Kenya health officials in Nairobi are still racing to track dozens of people linked to the man who died from the virus earlier this week. And finally, Moroccan-British photographer Hassan…",
+      "category": "world",
       "language": "en"
     },
     {
@@ -17210,6 +18038,30 @@
       "language": "ru"
     },
     {
+      "id": "f1bc33aab9441af885f684c3",
+      "title": "Ukrainians in Rome hold charity dinner to raise funds for AFU",
+      "url": "https://www.ukrinform.net/rubric-society/4172580-ukrainians-in-rome-hold-charity-dinner-to-raise-funds-for-afu.html",
+      "original_url": "https://www.ukrinform.net/rubric-society/4172580-ukrainians-in-rome-hold-charity-dinner-to-raise-funds-for-afu.html",
+      "source": "ukrinform",
+      "published_at": "2026-10-09T21:38:00Z",
+      "date_basis": "published",
+      "excerpt": "During the sixth charity “Warm Dinner” event in Rome, Ukrainians raised 2,880 euros to purchase medications, medical supplies, and equipment for a stabilization center run by a unit of the Armed Forces of Ukraine.",
+      "category": "russia-ukraine",
+      "language": "en"
+    },
+    {
+      "id": "f1d3131ea8d68376aaa80f02",
+      "title": "Israeli drone attack wounds six in Lebanon near Syria border",
+      "url": "https://www.aljazeera.com/news/2026/10/10/israeli-drone-attack-wounds-six-in-lebanon-near-syria-border?traffic_source=rss",
+      "original_url": "https://www.aljazeera.com/news/2026/10/10/israeli-drone-attack-wounds-six-in-lebanon-near-syria-border?traffic_source=rss",
+      "source": "al-jazeera",
+      "published_at": "2026-10-10T00:22:52Z",
+      "date_basis": "published",
+      "excerpt": "Five Syrians and one Lebanese wounded in latest Israeli attack, Lebanon's health authorities say.",
+      "category": "world",
+      "language": "en"
+    },
+    {
       "id": "f20b2f80d91766a4cd0c9734",
       "title": "Men accused of shooting Australian surfer brothers and US friend dead in Mexico to learn fate as trial concludes",
       "url": "https://www.theguardian.com/australia-news/2026/oct/09/jake-callum-robinson-australian-surfers-carter-rhoad-mexico-murder-trial-ntwnfb",
@@ -17315,6 +18167,18 @@
       "date_basis": "published",
       "excerpt": "When Microsoft released Windows 11 five years ago, it felt like an operating system that was still being renovated, a work in progress. You'd think by now that those renovations would be complete, with Microsoft turning its attention to Windows 12. Instead, Windows 11 feels like it's here to stay, forming the…",
       "category": "technology",
+      "language": "en"
+    },
+    {
+      "id": "f4d57b855c6569d4f82be270",
+      "title": "Why won’t the world call Russia’s theft of Ukrainian children genocide? A Ukrainian lawyer has the evidence, and says only the will is missing.",
+      "url": "https://euromaidanpress.com/2026/10/10/why-wont-the-world-call-russias-theft-of-ukrainian-children-genocide-a-ukrainian-lawyer-has-the-evidence-and-says-only-the-will-is-missing/",
+      "original_url": "https://euromaidanpress.com/2026/10/10/why-wont-the-world-call-russias-theft-of-ukrainian-children-genocide-a-ukrainian-lawyer-has-the-evidence-and-says-only-the-will-is-missing/",
+      "source": "euromaidan",
+      "published_at": "2026-10-10T00:13:10Z",
+      "date_basis": "published",
+      "excerpt": "Kateryna Rashevska can walk you through exactly how one Ukrainian child disappears into Russia: the occupied-territory orphanage, the foster placement with a Kremlin-connected family, the re-education camp, the military uniform, the draft notice that arrives at sixteen.",
+      "category": "russia-ukraine",
       "language": "en"
     },
     {
@@ -17487,13 +18351,13 @@
     },
     {
       "id": "f79d78a447ab71cbc41e747c",
-      "title": "Vance casts doubt on whether execution livestream ‘is actually going to happen’ as more Republicans join outcry – US politics live",
+      "title": "‘I want to thank President Putin’, Trump says after agreeing to lift sanctions on Russian diesel – US politics live",
       "url": "https://www.theguardian.com/us-news/live/2026/oct/09/pentagon-fort-hood-livestream-firing-squad-execution-reaction-backlash-pete-hegseth-donald-trump-mussolini-latest-news-updates",
       "original_url": "https://www.theguardian.com/us-news/live/2026/oct/09/pentagon-fort-hood-livestream-firing-squad-execution-reaction-backlash-pete-hegseth-donald-trump-mussolini-latest-news-updates",
       "source": "guardian-world",
-      "published_at": "2026-10-09T19:49:14Z",
+      "published_at": "2026-10-10T00:29:35Z",
       "date_basis": "published",
-      "excerpt": "Utah senator John Curtis says decision to broadcast execution of Nidal Hasan ‘risks feeding the appetite’ as Vance says he won’t watch if livestream goes ahead ‘Medieval’ and ‘disturbing’: US plan to livestream execution elicits global condemnation Sign up for the US Breaking News email In a statement to the Guardian,…",
+      "excerpt": "Prominent Republicans joined Democrats to condemn president for lifting sanctions on Russian diesel and administration’s plan to livestream execution of Fort Hood attacker Zelenskyy furious as Trump announces deal to buy Russian diesel Sign up for the US Breaking News email In a statement to the Guardian, Robin M…",
       "category": "world",
       "language": "en"
     },
@@ -17551,7 +18415,7 @@
       "url": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_campaign=rss&at_medium=RSS",
       "original_url": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&at_campaign=rss",
       "source": "bbc-world",
-      "published_at": "2026-10-09T19:58:27Z",
+      "published_at": "2026-10-09T22:41:21Z",
       "date_basis": "published",
       "excerpt": "The conservative commentator currently works as a communications adviser at Trump Media & Technology Group.",
       "category": "world",
@@ -17592,6 +18456,18 @@
       "excerpt": "The men were arrested for breaching a perimeter fence at a UK air base that houses US and NATO intelligence operations. The incident comes after an alleged terror plot at another air base in England was foiled recently.",
       "category": "world",
       "language": "en"
+    },
+    {
+      "id": "f88c218fd55c7335b8dd552f",
+      "title": "Heina klubi tegi võrratu tagasituleku ja napsas Dortmundi Borussialt punkti",
+      "url": "https://sport.err.ee/1610162389/heina-klubi-tegi-vorratu-tagasituleku-ja-napsas-dortmundi-borussialt-punkti",
+      "original_url": "https://sport.err.ee/1610162389/heina-klubi-tegi-vorratu-tagasituleku-ja-napsas-dortmundi-borussialt-punkti",
+      "source": "err-uudised",
+      "published_at": "2026-10-09T20:40:00Z",
+      "date_basis": "published",
+      "excerpt": "Eesti jalgpallur Karl Jakob Heina klubi Bremeni Werder tuli viimastel minutitel välja kaheväravalisest kaotusseisust ja viigistas Saksamaa kõrgliiga viiendas voorus võõrsil Dortmundi Borussiaga 2:2.",
+      "category": "estonia",
+      "language": "et"
     },
     {
       "id": "f8a40053adcd5b593c377fd4",
@@ -17918,6 +18794,18 @@
       "language": "ru"
     },
     {
+      "id": "fdbe0ea80c44938d5d5996f4",
+      "title": "Zelensky: Ukrainian negotiating team used as “smokescreen” amid US-Russia diesel deal",
+      "url": "https://www.ukrinform.net/rubric-polytics/4172858-zelensky-ukrainian-negotiating-team-used-as-smokescreen-amid-usrussia-diesel-deal.html",
+      "original_url": "https://www.ukrinform.net/rubric-polytics/4172858-zelensky-ukrainian-negotiating-team-used-as-smokescreen-amid-usrussia-diesel-deal.html",
+      "source": "ukrinform",
+      "published_at": "2026-10-09T21:03:00Z",
+      "date_basis": "published",
+      "excerpt": "Commenting on U.S. President Donald Trump’s decision to lift sanctions on Russian diesel, President Volodymyr Zelensky said the Ukrainian negotiating team currently in Florida holding peace talks is being used as a “smokescreen,” and “that is definitely not fair.”",
+      "category": "russia-ukraine",
+      "language": "en"
+    },
+    {
       "id": "fdd78518db2265ce67512766",
       "title": "«Каждый день кого-то убивают». Жители Газы продолжают гибнуть под израильскими ударами, мирные переговоры в тупике",
       "url": "https://www.bbc.com/russian/articles/ck3r5q422yyyo?at_campaign=rss&at_medium=RSS",
@@ -17928,6 +18816,18 @@
       "excerpt": "Ранним утром в прошлом месяце 31-летняя Фида аль-Тута, мать пятерых детей, расчесывала волосы дочери в своей палатке в центральной части сектора Газа, когда внезапно раздалась стрельба.",
       "category": "russia-ukraine",
       "language": "ru"
+    },
+    {
+      "id": "fdefa2555e99e1a8f92e98b3",
+      "title": "Iran war live: Kremlin says Trump welcomed Russia’s effort in Iran deal",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/10/iran-war-live-kremlin-says-trump-welcomed-russia-effort-in-iran-deal?traffic_source=rss",
+      "original_url": "https://www.aljazeera.com/news/liveblog/2026/10/10/iran-war-live-kremlin-says-trump-welcomed-russia-effort-in-iran-deal?traffic_source=rss",
+      "source": "al-jazeera",
+      "published_at": "2026-10-10T00:00:00Z",
+      "date_basis": "published",
+      "excerpt": "The Kremlin says the US president welcomes Russia's involvement in efforts aimed at reaching a settlement over Iran.",
+      "category": "world",
+      "language": "en"
     },
     {
       "id": "fdf9e044427ca4c0e40777b5",
