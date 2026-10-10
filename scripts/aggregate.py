@@ -171,7 +171,10 @@ def fetch_source(source, now):
             if re.search(r"sponsored|partner content|press release", tags, re.I):
                 continue
             if source.get("region_filter") == "southeast-asia":
-                topic = " ".join((title, plain_text(entry.get("summary", "")), tags,
+                summary = plain_text(entry.get("summary", ""))
+                # A publisher credit (e.g. Cambodia Investment Review) is not a location in the story.
+                summary = re.sub(re.escape(source["name"]), "", summary, flags=re.I)
+                topic = " ".join((title, summary, tags,
                                   urllib.parse.unquote(urllib.parse.urlsplit(url).path).replace("-", " ")))
                 if not SEA_TOPIC.search(topic):
                     continue
