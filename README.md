@@ -1,6 +1,6 @@
 # News · lolol.party
 
-A small, public, text-only RSS reader for World, Estonia, AI & Technology, and Russia & Ukraine. Original headlines and short feed excerpts link to the publishers. Times use Europe/Tallinn. No article images, AI rewriting, accounts, tracking, or database.
+A small, public, text-only RSS reader for World, Estonia, AI & Technology, Russia & Ukraine, and Southeast Asia. Original headlines and short feed excerpts link to the publishers. Times use Europe/Tallinn. No article images, AI rewriting, accounts, tracking, or database.
 
 ## Hosting
 
@@ -19,6 +19,18 @@ Articles without usable dates are omitted. Original published dates are preferre
 Tracking parameters are removed from URLs. Identical URLs are consolidated. Identical meaningful headlines and very close variants within 18 hours can be grouped, keeping every original report accessible. Matching does not cross languages; different numbers, negations, or substantive wording keep reports separate. This deliberately favors preserving distinct developments and analyses over aggressive merging.
 
 Source and category filters inspect all reports in a group. Search checks original headlines. The initial view contains 25 stories, with an explicit Load more control. `noindex` discourages search indexing; this remains a public website, not password protection.
+
+## Southeast Asia
+
+Added 11 English-language publications on 10 October 2026, with the largest source selection devoted to Thailand:
+
+- Thailand: Bangkok Post, Khaosod English, Thai Enquirer, The Thaiger.
+- Vietnam: VnExpress International, Viet Nam News (society feed).
+- Cambodia: Khmer Times, The Phnom Penh Post.
+- Laos: The Laotian Times.
+- Regional coverage: CNA (Asia feed, filtered to Southeast Asian countries, cities, ASEAN and the Mekong); The Irrawaddy (Myanmar).
+
+Feed URLs and publisher websites are in `sources.json`. Only publisher feeds with recent, dated English-language articles were selected; Thai PBS World did not provide a usable feed, and Tuoi Tre News supplied no parseable publication dates in its tested feed. Headlines and excerpts remain in their original form. Feed availability is checked on every scheduled refresh.
 
 ## Local use
 

@@ -25,11 +25,12 @@ ROOT = Path(__file__).resolve().parent.parent
 MAX_BYTES = 4 * 1024 * 1024
 MAX_ITEMS = 3000
 DAYS = 7
-CATEGORIES = {"world": "World", "estonia": "Estonia", "technology": "AI & Technology", "russia-ukraine": "Russia & Ukraine"}
+CATEGORIES = {"world": "World", "estonia": "Estonia", "technology": "AI & Technology", "russia-ukraine": "Russia & Ukraine", "southeast-asia": "Southeast Asia"}
 TRACKERS = {"fbclid", "gclid", "dclid", "mc_cid", "mc_eid", "ref", "ref_src", "ocid", "xtor", "cmpid"}
 STOPWORDS = set("a an the of to in on for with and at by from is are as its it this that".split())
 CRYPTO_NOISE = re.compile(r"price (prediction|analysis|forecast|today)|presale|sponsored|press release|\b100x\b", re.I)
 TECH_NOISE = re.compile(r"\b(deals?|coupon|discount|sale)\b", re.I)
+SEA_TOPIC = re.compile(r"\b(thailand|thai|thais|vietnam|vietnamese|viet nam|cambodia|cambodian|khmer|laos|lao|laotian|myanmar|burma|burmese|malaysia|malaysian|singapore|singaporean|indonesia|indonesian|philippines|philippine|filipino|brunei|timor|asean|mekong|southeast asia|south-east asia|bangkok|hanoi|ho chi minh|phnom penh|vientiane|jakarta|manila|kuala lumpur|yangon|chiang mai|chiang rai|phuket)\b", re.I)
 
 
 def utc_now():
@@ -169,6 +170,11 @@ def fetch_source(source, now):
             tags = " ".join(tag.get("term", "") for tag in entry.get("tags", []))
             if re.search(r"sponsored|partner content|press release", tags, re.I):
                 continue
+            if source.get("region_filter") == "southeast-asia":
+                topic = " ".join((title, plain_text(entry.get("summary", "")), tags,
+                                  urllib.parse.unquote(urllib.parse.urlsplit(url).path).replace("-", " ")))
+                if not SEA_TOPIC.search(topic):
+                    continue
             language = entry.get("language") or entry.get("title_detail", {}).get("language") or source["language"]
             language = language.lower().split("-")[0]
             if language not in ("en", "et", "ru", "uk"):
