@@ -1,5 +1,5 @@
 {
-  "last_successful_refresh": "2026-10-11T00:43:07Z",
+  "last_successful_refresh": "2026-10-11T04:33:13Z",
   "articles": [
     {
       "id": "003546a021782802198a1060",
@@ -1490,6 +1490,18 @@
       "language": "ru"
     },
     {
+      "id": "105ad456aec89a5d28720694",
+      "title": "Restaurant owner buys top workers BMWs after seeing them ride e-bikes to work in the cold",
+      "url": "https://e.vnexpress.net/news/news/restaurant-owner-buys-top-workers-bmws-after-seeing-them-ride-e-bikes-to-work-in-the-cold-5130122.html",
+      "original_url": "https://e.vnexpress.net/news/news/restaurant-owner-buys-top-workers-bmws-after-seeing-them-ride-e-bikes-to-work-in-the-cold-5130122.html",
+      "source": "vnexpress-en",
+      "published_at": "2026-10-11T04:00:00Z",
+      "date_basis": "published",
+      "excerpt": "A restaurant owner in China's Henan Province has given top-performing employees BMWs worth about 300,000 yuan (US$44,700) each after seeing them ride electric bikes to work in the cold.",
+      "category": "southeast-asia",
+      "language": "en"
+    },
+    {
       "id": "10784ed854d194dd52a761a1",
       "title": "Will AI Break Crypto Encryption? Ethereum’s Vitalik Buterin Weighs In on 'Bunker Mode' Shift",
       "url": "https://decrypt.co/380503/ai-break-crypto-encryption-ethereum-vitalik-buterin-bunker-mode",
@@ -2546,6 +2558,18 @@
       "language": "en"
     },
     {
+      "id": "188755d33d25da75b66a4e07",
+      "title": "Civilians evacuated from Russian-occupied territories, including Chornobyl disaster responder",
+      "url": "https://kyivindependent.com/civilians-evacuated-from-russian-occupied-territories-including-chornobyl-disaster-responder/",
+      "original_url": "https://kyivindependent.com/civilians-evacuated-from-russian-occupied-territories-including-chornobyl-disaster-responder/",
+      "source": "kyiv-independent",
+      "published_at": "2026-10-11T00:38:48Z",
+      "date_basis": "published",
+      "excerpt": "Ukraine continues to quietly coordinate evacuations from temporarily Russian-occupied territories, where residents’ quality of life is severely diminished, particularly those who are elderly, disabled or require medical treatment.",
+      "category": "russia-ukraine",
+      "language": "en"
+    },
+    {
       "id": "18a3928618e276b499856f19",
       "title": "Singaporeans rank third among 1,346 foreigners caught in Malaysian state's traffic crackdown",
       "url": "https://e.vnexpress.net/news/news/traffic/singaporeans-rank-third-among-1-346-foreigners-caught-in-malaysian-state-s-traffic-crackdown-5127713.html",
@@ -2919,13 +2943,13 @@
     },
     {
       "id": "1c0080ebf927ccbbe1b4d48c",
-      "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
+      "title": "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
       "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_campaign=rss&at_medium=RSS",
       "original_url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
       "source": "bbc-world",
-      "published_at": "2026-10-11T00:21:52Z",
+      "published_at": "2026-10-11T03:57:22Z",
       "date_basis": "published",
-      "excerpt": "Another 309 people are injured, with the Saudi-led coalition saying the attack by Yemen's Houthis is \"war crime\".",
+      "excerpt": "Saudi and US officials blame the attack on Yemen's Houthis, who have not taken responsibility for the latest strike.",
       "category": "world",
       "language": "en"
     },
@@ -3024,18 +3048,6 @@
       "excerpt": "Sony plans to cease physical disc production in 2028. A former PlayStation exec claims it has caused reputational damage.",
       "category": "technology",
       "language": "en"
-    },
-    {
-      "id": "1cae857e913e9a3907014179",
-      "title": "Roose hinnangul ei anna ERR-i seaduse muutmine rahalist kindlustunnet",
-      "url": "https://www.err.ee/1610161825/roose-hinnangul-ei-anna-err-i-seaduse-muutmine-rahalist-kindlustunnet",
-      "original_url": "https://www.err.ee/1610161825/roose-hinnangul-ei-anna-err-i-seaduse-muutmine-rahalist-kindlustunnet",
-      "source": "err-uudised",
-      "published_at": "2026-10-09T07:41:00Z",
-      "date_basis": "published",
-      "excerpt": "Eesti Rahvusringhäälingu (ERR) juhatuse esimees Erik Roose ütles usutluses Postimehele, et valitsuse heakskiidu saanud ja riigikokku saadetud ERR-i seaduse muutmise eelnõust, mis peab ametlike seletuste kohaselt tegema rahvusringhäälingu rahastuse edaspidi läbipaistvamaks ja prognoositavamaks, on puudu kõige tähtsam…",
-      "category": "estonia",
-      "language": "et"
     },
     {
       "id": "1cd720386078fe36be2d8065",
@@ -3815,6 +3827,18 @@
       "date_basis": "published",
       "excerpt": "A British unit at Tapa has deployed Nyan attack drone systems with a range of over 250 kilometers, boosting the allies' long-range strike capability, Postimees reported.",
       "category": "estonia",
+      "language": "en"
+    },
+    {
+      "id": "248cced488901e52493943a6",
+      "title": "Finnish PM calls Trump–Putin diesel deal 'terrible disappointment'",
+      "url": "https://www.ukrinform.net/rubric-polytics/4173025-finnish-pm-calls-trumpputin-diesel-deal-terrible-disappointment.html",
+      "original_url": "https://www.ukrinform.net/rubric-polytics/4173025-finnish-pm-calls-trumpputin-diesel-deal-terrible-disappointment.html",
+      "source": "ukrinform",
+      "published_at": "2026-10-11T01:30:00Z",
+      "date_basis": "published",
+      "excerpt": "Finnish Prime Minister Petteri Orpo has criticized the agreement between the U.S. President Donald Trump and Russian leader Vladimir Putin concerning supplies of Russian diesel fuel.",
+      "category": "russia-ukraine",
       "language": "en"
     },
     {
@@ -4610,6 +4634,18 @@
       "language": "en"
     },
     {
+      "id": "298cb35438b1809b55d737c1",
+      "title": "Twelve killed, more than 300 injured in Riyadh airport attack",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-reported-latest-attack-on-riyadh-king-khalid-airport-houthis?traffic_source=rss",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-reported-latest-attack-on-riyadh-king-khalid-airport-houthis?traffic_source=rss",
+      "source": "al-jazeera",
+      "published_at": "2026-10-11T01:02:07Z",
+      "date_basis": "published",
+      "excerpt": "Saudi Arabia has confirmed at least 12 people were killed and more than 300 injured after Houthi fighters struck Riyadh.",
+      "category": "world",
+      "language": "en"
+    },
+    {
       "id": "29d21cdfa0b6b43832a5321f",
       "title": "Palju kära ei millestki",
       "url": "https://www.sirp.ee/palju-kara-ei-millestki/",
@@ -4750,6 +4786,18 @@
       "published_at": "2026-10-10T15:21:39Z",
       "date_basis": "published",
       "excerpt": "Trump Accounts promise children a financial head start. Al Jazeera’s Emma Withrow spoke with one parent.",
+      "category": "world",
+      "language": "en"
+    },
+    {
+      "id": "2adc7f273a20b5433749c351",
+      "title": "US: Justice Department probes Trump's press pool boycott for antitrust violation",
+      "url": "https://www.dw.com/en/us-justice-department-probes-trump-s-press-pool-boycott-for-antitrust-violation/a-79631008?maca=en-rss-en-all-1573-rdf",
+      "original_url": "https://www.dw.com/en/us-justice-department-probes-trump-s-press-pool-boycott-for-antitrust-violation/a-79631008?maca=en-rss-en-all-1573-rdf",
+      "source": "dw-en",
+      "published_at": "2026-10-11T03:59:00Z",
+      "date_basis": "updated",
+      "excerpt": "The Department of Justice is investigating whether the five news organizations violated antitrust laws when they suspended their coverage of Trump in protest. The networks under probe are ABC, CBS, CNN, NBC and Fox News.",
       "category": "world",
       "language": "en"
     },
@@ -5112,6 +5160,30 @@
       "excerpt": "Президент США заявил об \"очень успешных\" переговорах с президентом РФ, а также о том, что Россия \"незамедлительно\" поставит более 300 000 тонн дизельного топлива в США и на мировой рынок.",
       "category": "russia-ukraine",
       "language": "ru"
+    },
+    {
+      "id": "2e779be09932b430e8b67e0d",
+      "title": "Thailand weather today, 11 October: heavy rain in 33 provinces, Bangkok heavy rain",
+      "url": "https://thethaiger.com/hot-news/weather/thailand-weather-today-11-october-2026",
+      "original_url": "https://thethaiger.com/hot-news/weather/thailand-weather-today-11-october-2026",
+      "source": "thaiger",
+      "published_at": "2026-10-10T23:30:27Z",
+      "date_basis": "published",
+      "excerpt": "The Thai Meteorological Department forecasts heavy rain in 33 provinces today, with the Central region, East and South hit hardest, while Bangkok faces thundershowers and isolated heavy rain. The story Thailand weather today, 11 October: heavy rain in 33 provinces, Bangkok heavy rain as seen on Thaiger News.",
+      "category": "southeast-asia",
+      "language": "en"
+    },
+    {
+      "id": "2e8fb54ffb3a3915d5dfd586",
+      "title": "Karis: kõrvalejäetuna on raske teiste sõnumeid esitada",
+      "url": "https://www.err.ee/1610162122/karis-korvalejaetuna-on-raske-teiste-sonumeid-esitada",
+      "original_url": "https://www.err.ee/1610162122/karis-korvalejaetuna-on-raske-teiste-sonumeid-esitada",
+      "source": "err-uudised",
+      "published_at": "2026-10-11T03:51:00Z",
+      "date_basis": "published",
+      "excerpt": "Esmaspäeval oma ametikoha Ülle Madisele loovutav president Alar Karis rääkis usutluses ERR-ile, et riigikogu võiks seadusi vastu võttes mõelda rohkem nende laiemale mõjule ning kutsus laiendama riigipea välispoliitilist rolli sellega, et president hakkaks Eesti esindama NATO tippkohtumistel. President tunnistas, et…",
+      "category": "estonia",
+      "language": "et"
     },
     {
       "id": "2e9355cd0f708083201f8577",
@@ -5666,6 +5738,18 @@
       "language": "en"
     },
     {
+      "id": "339001ac9765a56289788610",
+      "title": "Russia spending huge sums on production of jet-powered drones – military spox",
+      "url": "https://www.ukrinform.net/rubric-ato/4173151-russia-spending-huge-sums-on-production-of-jetpowered-drones-military-spox.html",
+      "original_url": "https://www.ukrinform.net/rubric-ato/4173151-russia-spending-huge-sums-on-production-of-jetpowered-drones-military-spox.html",
+      "source": "ukrinform",
+      "published_at": "2026-10-11T04:00:00Z",
+      "date_basis": "published",
+      "excerpt": "Russia is spending huge sums on producing the jet-powered drones it uses to strike Ukraine, which are quite expensive.",
+      "category": "russia-ukraine",
+      "language": "en"
+    },
+    {
       "id": "33dba05057698a9485dd52e5",
       "title": "Ex-German Chancellor Schröder attends Putin's birthday bash",
       "url": "https://www.dw.com/en/ex-german-chancellor-schröder-attends-putin-s-birthday-bash/a-79606017?maca=en-rss-en-all-1573-rdf",
@@ -5688,6 +5772,18 @@
       "excerpt": "Им отказываются выдавать воду",
       "category": "russia-ukraine",
       "language": "ru"
+    },
+    {
+      "id": "3413b4d8ae3b575da6e0babc",
+      "title": "Japan to buy Ukrainian interceptor drones from SkyFall",
+      "url": "https://www.ukrinform.net/rubric-economy/4173126-japan-to-buy-ukrainian-interceptor-drones-from-skyfall.html",
+      "original_url": "https://www.ukrinform.net/rubric-economy/4173126-japan-to-buy-ukrainian-interceptor-drones-from-skyfall.html",
+      "source": "ukrinform",
+      "published_at": "2026-10-11T02:22:00Z",
+      "date_basis": "published",
+      "excerpt": "Japan's Ministry of Defense has signed a contract to purchase interceptor drones manufactured by Ukrainian company SkyFall.",
+      "category": "russia-ukraine",
+      "language": "en"
     },
     {
       "id": "3425ec3a4fc009f049fc5736",
@@ -6266,6 +6362,18 @@
       "language": "en"
     },
     {
+      "id": "3864f306ed07144af6be4b23",
+      "title": "Shooter kills 8 people and himself in Pennsylvania — police",
+      "url": "https://www.dw.com/en/shooter-kills-8-people-and-himself-in-pennsylvania-police/a-79630735?maca=en-rss-en-all-1573-rdf",
+      "original_url": "https://www.dw.com/en/shooter-kills-8-people-and-himself-in-pennsylvania-police/a-79630735?maca=en-rss-en-all-1573-rdf",
+      "source": "dw-en",
+      "published_at": "2026-10-11T01:52:00Z",
+      "date_basis": "updated",
+      "excerpt": "The 45-year-old shooter, who is yet to be identified, carried out the killings at his home in Erie. Pennsylvania Governor Josh Shapiro offered support as the lakeside city grieves.",
+      "category": "world",
+      "language": "en"
+    },
+    {
       "id": "386cd275b204483f80a2d7e5",
       "title": "Foreign aid to Africa falls by over 25%: How women and children are bearing the brunt",
       "url": "https://www.france24.com/en/tv-shows/the-51/20261009-foreign-aid-to-africa-falls-by-over-25-how-women-and-children-are-bearing-the-brunt",
@@ -6323,6 +6431,18 @@
       "date_basis": "published",
       "excerpt": "New investments promising to create jobs may not always deliver broad employment opportunities in Thailand, warns Tanit Sorat, vice‑chairman of the Employers' Confederation of Thai Trade and Industry.",
       "category": "southeast-asia",
+      "language": "en"
+    },
+    {
+      "id": "38d0e765004d58c88458f5c9",
+      "title": "Global pro-Palestinian protests one year after Gaza ‘ceasefire’",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-sv-global-protests-for-gaza-solidarity-uk?traffic_source=rss",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-sv-global-protests-for-gaza-solidarity-uk?traffic_source=rss",
+      "source": "al-jazeera",
+      "published_at": "2026-10-11T01:11:10Z",
+      "date_basis": "published",
+      "excerpt": "Pro-Palestinian demonstrations have been held worldwide to mark one year since the so-called Gaza ‘ceasefire'.",
+      "category": "world",
       "language": "en"
     },
     {
@@ -7238,6 +7358,18 @@
       "language": "en"
     },
     {
+      "id": "412e4abe8821b37f9d05545a",
+      "title": "15 small US colleges where graduates earn over $100,000 decade after graduating",
+      "url": "https://e.vnexpress.net/news/news/education/15-small-us-colleges-where-graduates-earn-over-100-000-decade-after-graduating-5129087.html",
+      "original_url": "https://e.vnexpress.net/news/news/education/15-small-us-colleges-where-graduates-earn-over-100-000-decade-after-graduating-5129087.html",
+      "source": "vnexpress-en",
+      "published_at": "2026-10-11T03:00:00Z",
+      "date_basis": "published",
+      "excerpt": "The California Institute of Technology tops Forbes's 2027 ranking of small private U.S. colleges, a list whose top 15 schools all have alumni earning median salaries above US$100,000 a decade after graduation.",
+      "category": "southeast-asia",
+      "language": "en"
+    },
+    {
       "id": "4171a8458960ed836fdcd7ea",
       "title": "Полиция нашла две картины Ренуара, похищенные из музея во Французской Ривьере",
       "url": "https://www.bbc.com/russian/articles/c639811n323vo?at_campaign=rss&at_medium=RSS",
@@ -7718,18 +7850,6 @@
       "language": "en"
     },
     {
-      "id": "458ad13b13033d711f2f7640",
-      "title": "Everton’s US owners seek sale of controlling stake in Premier League club",
-      "url": "https://www.aljazeera.com/sports/2026/10/9/evertons-us-owners-seek-sale-of-controlling-stake-in-premier-league-club?traffic_source=rss",
-      "original_url": "https://www.aljazeera.com/sports/2026/10/9/evertons-us-owners-seek-sale-of-controlling-stake-in-premier-league-club?traffic_source=rss",
-      "source": "al-jazeera",
-      "published_at": "2026-10-09T09:26:58Z",
-      "date_basis": "published",
-      "excerpt": "Premier League club Everton open to selling controlling stake after 'safely' balancing historical financial troubles.",
-      "category": "world",
-      "language": "en"
-    },
-    {
       "id": "4599e6dc1f5c3572b1e66279",
       "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
       "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
@@ -7860,6 +7980,18 @@
       "excerpt": "Indian authorities deployed a sweeping security crackdown across New Delhi and detained thousands of protesters Saturday as India’s youth \"Cockroach\" movement sought to intensify a nationwide campaign against a contentious voter list revision that has fuelled anger at Prime Minister Narendra Modi’s Hindu nationalist…",
       "category": "world",
       "language": "en"
+    },
+    {
+      "id": "46c00bce500d5002dc0b25e4",
+      "title": "Sõja 1690. päev: Ukraina jätkab naftatehaste ründamist",
+      "url": "https://www.err.ee/1610162830/soja-1690-paev-ukraina-jatkab-naftatehaste-rundamist",
+      "original_url": "https://www.err.ee/1610162830/soja-1690-paev-ukraina-jatkab-naftatehaste-rundamist",
+      "source": "err-uudised",
+      "published_at": "2026-10-10T03:19:00Z",
+      "date_basis": "published",
+      "excerpt": "Väljaande Financial Times teatel jätkab Ukraina Venemaa naftatöötlemistehaste ründamist hoolimata USA ja Venemaa presidendi kokkuleppest. Venemaal Doni-äärses Rostovis puhkes ööl vastu laupäeva arvatava droonirünnaku käigus naftaterminalis ulatuslik tulekahju. Vene väed ründasid liugpommidega Zaporižžjas asuvat…",
+      "category": "estonia",
+      "language": "et"
     },
     {
       "id": "46c489ab45c9619227e68212",
@@ -8702,8 +8834,20 @@
       "language": "en"
     },
     {
+      "id": "4edff7cc671c11e581ca95f6",
+      "title": "Trump ‘may’ join Saudi strikes on Houthis after Riyadh airport attack",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/10-10-clip-trump-weighs-joining-saudi-strikes-on-houthis-us?traffic_source=rss",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/10-10-clip-trump-weighs-joining-saudi-strikes-on-houthis-us?traffic_source=rss",
+      "source": "al-jazeera",
+      "published_at": "2026-10-11T01:59:02Z",
+      "date_basis": "published",
+      "excerpt": "President Donald Trump says the US ‘may’ join Saudi strikes against Yemen’s Houthis.",
+      "category": "world",
+      "language": "en"
+    },
+    {
       "id": "4f00021f8c20501117bfea7f",
-      "title": "Iran war live: 12 killed in Riyadh, US weighs joining fight against Houthis",
+      "title": "Iran war live: 12 killed in Riyadh, Trump to speak with Saudi Arabia’s MBS",
       "url": "https://www.aljazeera.com/news/liveblog/2026/10/11/iran-war-live-12-killed-in-riyadh-us-weighs-joining-fight-against-houthis?traffic_source=rss",
       "original_url": "https://www.aljazeera.com/news/liveblog/2026/10/11/iran-war-live-12-killed-in-riyadh-us-weighs-joining-fight-against-houthis?traffic_source=rss",
       "source": "al-jazeera",
@@ -9614,6 +9758,18 @@
       "language": "ru"
     },
     {
+      "id": "56d6e89eaa773b82b697a509",
+      "title": "ICE agent in New York shooting also involved in assault of pregnant woman",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/ice-agent-in-new-york-shooting-also-involved-in-assault-of-pregnant-woman?traffic_source=rss",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/ice-agent-in-new-york-shooting-also-involved-in-assault-of-pregnant-woman?traffic_source=rss",
+      "source": "al-jazeera",
+      "published_at": "2026-10-11T04:10:08Z",
+      "date_basis": "published",
+      "excerpt": "An ICE agent involved in the Oct 8 shooting in New York was also filmed during a controversial arrest in Minneapolis.",
+      "category": "world",
+      "language": "en"
+    },
+    {
       "id": "56d78e16ab21ba978b9dd35b",
       "title": "Ajaleht: Hein on vigastusest taastunud ja mängib ilmselt Dortmundi vastu",
       "url": "https://sport.err.ee/1610161714/ajaleht-hein-on-vigastusest-taastunud-ja-mangib-ilmselt-dortmundi-vastu",
@@ -9708,6 +9864,18 @@
       "excerpt": "276,000 muertes confirmadas hasta el 9 de octubre",
       "category": "russia-ukraine",
       "language": "ru"
+    },
+    {
+      "id": "573aaebe7a058aa94f12f68c",
+      "title": "Man dies after entering tiger enclosure at England wildlife park",
+      "url": "https://www.aljazeera.com/news/2026/10/11/man-dies-after-entering-tiger-enclosure-at-england-wildlife-park?traffic_source=rss",
+      "original_url": "https://www.aljazeera.com/news/2026/10/11/man-dies-after-entering-tiger-enclosure-at-england-wildlife-park?traffic_source=rss",
+      "source": "al-jazeera",
+      "published_at": "2026-10-11T01:16:18Z",
+      "date_basis": "published",
+      "excerpt": "Emergency services called to the scene after reports of a man entering the tiger enclosure at a UK wildlife park.",
+      "category": "world",
+      "language": "en"
     },
     {
       "id": "57fd728305d03fed8400bbf1",
@@ -9984,18 +10152,6 @@
       "excerpt": "Саудовская Аравия начала масштабную военную операцию в Йемене, чтобы помочь правительственным силам отбить у поддерживаемых Ираном хуситов территории на побережье Красного моря. В ответ повстанцы атакуют саудовские города, аэропорты и нефтяную инфраструктуру. Боевики заявили о нанесении ударов по международному…",
       "category": "russia-ukraine",
       "language": "ru"
-    },
-    {
-      "id": "5a706bb153131c4cefd4fd1f",
-      "title": "Ex-OpenAI staff say they were fired for raising safety concerns",
-      "url": "https://www.aljazeera.com/economy/2026/10/9/ex-openai-staff-say-they-were-fired-for-raising-safety-concerns?traffic_source=rss",
-      "original_url": "https://www.aljazeera.com/economy/2026/10/9/ex-openai-staff-say-they-were-fired-for-raising-safety-concerns?traffic_source=rss",
-      "source": "al-jazeera",
-      "published_at": "2026-10-09T10:39:07Z",
-      "date_basis": "published",
-      "excerpt": "Three former researchers pen open letter warning of 'chilling' effect on company culture.",
-      "category": "world",
-      "language": "en"
     },
     {
       "id": "5a9406f78d830bd96d063221",
@@ -10466,18 +10622,6 @@
       "language": "en"
     },
     {
-      "id": "5f2fb6b768d5cf00659e704e",
-      "title": "2026 Nobel Peace Prize awarded to Navi Pillay",
-      "url": "https://www.aljazeera.com/news/2026/10/9/2026-nobel-peace-prize-awarded-to-navi-pillay?traffic_source=rss",
-      "original_url": "https://www.aljazeera.com/news/2026/10/9/2026-nobel-peace-prize-awarded-to-navi-pillay?traffic_source=rss",
-      "source": "al-jazeera",
-      "published_at": "2026-10-09T09:06:43Z",
-      "date_basis": "published",
-      "excerpt": "Pillay has been instrumental in ensuring war crimes and genocide are prosecuted, Nobel committee says.",
-      "category": "world",
-      "language": "en"
-    },
-    {
       "id": "5f3494e377681802d3eb35c8",
       "title": "Navi Pillay wins the Nobel Peace Prize for her work in international justice",
       "url": "https://www.france24.com/en/video/20261009-navi-pillay-wins-the-nobel-peace-prize-for-her-work-in-international-justice",
@@ -10850,6 +10994,18 @@
       "language": "en"
     },
     {
+      "id": "62dfd7345be67015c20dcf48",
+      "title": "В Конгресс США внесут законопроект о запрете закупок нефти из РФ",
+      "url": "https://www.dw.com/ru/в-конгресс-сша-внесут-законопроект-о-запрете-закупок-нефти-из-рф/a-79630889?maca=rus-rss-ru-all-1126-rdf",
+      "original_url": "https://www.dw.com/ru/в-конгресс-сша-внесут-законопроект-о-запрете-закупок-нефти-из-рф/a-79630889?maca=rus-rss-ru-all-1126-rdf",
+      "source": "dw-ru",
+      "published_at": "2026-10-11T03:34:00Z",
+      "date_basis": "updated",
+      "excerpt": "По словам члена Палаты представителей Фицпатрика, \"Закон Рональда Рейгана \"Мир через силу\" будет направлен на \"запрет любых закупок российской нефти\". В Конгрессе критикуют решение Трампа о дизельном топливе из РФ.",
+      "category": "russia-ukraine",
+      "language": "ru"
+    },
+    {
       "id": "62e901a310b34603677e3814",
       "title": "После поездки в Москву и встречи с Путиным Шрёдер столкнулся с жесткой критикой со стороны немецких политиков, экономистов и СМИ",
       "url": "https://www.dw.com/ru/после-поездки-в-москву-и-встречи-с-путиным-шрёдер-столкнулся-с-жесткой-критикой-со-стороны-немецких-политиков-экономистов-и-сми/a-79608078?maca=rus-rss-ru-all-1126-rdf",
@@ -10871,6 +11027,18 @@
       "date_basis": "published",
       "excerpt": "President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like \"Little Marco\" and \"Crooked Hillary\"; he changed \"fake news\" from a phrase describing scammy media outlets to a derogatory term for the press at large. Over the past few weeks,…",
       "category": "technology",
+      "language": "en"
+    },
+    {
+      "id": "6321ccf83009da16edee38d8",
+      "title": "Ukraine issues postage stamp honoring Logistics Forces of AFU",
+      "url": "https://www.ukrinform.net/rubric-society/4173024-ukraine-issues-postage-stamp-honoring-logistics-forces-of-afu.html",
+      "original_url": "https://www.ukrinform.net/rubric-society/4173024-ukraine-issues-postage-stamp-honoring-logistics-forces-of-afu.html",
+      "source": "ukrinform",
+      "published_at": "2026-10-11T00:26:00Z",
+      "date_basis": "published",
+      "excerpt": "Ukraine has held a special ceremonial cancellation of a new Ukrposhta postage stamp titled \"Logistics Forces of the Armed Forces of Ukraine: Steel Strength and Unwavering Will.\"",
+      "category": "russia-ukraine",
       "language": "en"
     },
     {
@@ -11299,7 +11467,7 @@
       "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_campaign=rss&at_medium=RSS",
       "original_url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
       "source": "bbc-world",
-      "published_at": "2026-10-10T19:28:28Z",
+      "published_at": "2026-10-11T01:41:29Z",
       "date_basis": "published",
       "excerpt": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
       "category": "world",
@@ -11364,6 +11532,18 @@
       "excerpt": "Kuigi inimesed pelgavad üha rohkem toidus leiduvat mikroplasti, peitub suurem oht tihti tuhandetes kemikaalides, mida tööstused plasti sisse panevad. Keemilise ja Bioloogilise Füüsika Instituudi (KBFI) keskkonnatoksikoloogia labori teadlased uurivad, millist kahju need kemikaalid loodusele tekitavad ja kas väidetavalt…",
       "category": "estonia",
       "language": "et"
+    },
+    {
+      "id": "67800222736859daf920211c",
+      "title": "Ebola spreads in eastern DRC as Kenya confirms imported case",
+      "url": "https://www.aljazeera.com/news/2026/10/11/ebola-spreads-in-eastern-drc-as-kenya-confirms-imported-case?traffic_source=rss",
+      "original_url": "https://www.aljazeera.com/news/2026/10/11/ebola-spreads-in-eastern-drc-as-kenya-confirms-imported-case?traffic_source=rss",
+      "source": "al-jazeera",
+      "published_at": "2026-10-11T00:23:50Z",
+      "date_basis": "published",
+      "excerpt": "New cases in eastern DRC and a fatal imported infection in Kenya highlight the challenges of containing Ebola.",
+      "category": "world",
+      "language": "en"
     },
     {
       "id": "679c19de322554a95afcf989",
@@ -11795,6 +11975,18 @@
       "date_basis": "published",
       "excerpt": "The suspicious death last week of a worker at a research lab in Siberia that has fueled global concerns about suspected pneumonic plague is just the latest example of how leaders in Moscow manage the official narrative that often covers up the truth for years.",
       "category": "world",
+      "language": "en"
+    },
+    {
+      "id": "6b5d7749e0e414852e61f7b4",
+      "title": "Johor extends school closures to Oct 16 as haze worsens",
+      "url": "https://www.channelnewsasia.com/asia/malaysia-johor-school-closure-extended-oct-16-6449831",
+      "original_url": "https://www.channelnewsasia.com/asia/malaysia-johor-school-closure-extended-oct-16-6449831",
+      "source": "cna-asia",
+      "published_at": "2026-10-11T01:35:18Z",
+      "date_basis": "published",
+      "excerpt": "The southern Malaysian state of Johor first began closing its schools on Oct 8.",
+      "category": "southeast-asia",
       "language": "en"
     },
     {
@@ -13322,6 +13514,18 @@
       "language": "en"
     },
     {
+      "id": "79dcaf685e3a959d9de1dbf8",
+      "title": "Глава ПНА Махмуд Аббас перенес выборы",
+      "url": "https://www.dw.com/ru/глава-пна-махмуд-аббас-перенес-выборы/a-79630850?maca=rus-rss-ru-all-1126-rdf",
+      "original_url": "https://www.dw.com/ru/глава-пна-махмуд-аббас-перенес-выборы/a-79630850?maca=rus-rss-ru-all-1126-rdf",
+      "source": "dw-ru",
+      "published_at": "2026-10-11T01:29:00Z",
+      "date_basis": "updated",
+      "excerpt": "Выборы на палестинских территориях перенесены с конца ноября на 11 сентября 2027 года, сообщило WAFA. Предстоит избрать парламент и президента. Речь - о первых общенациональных выборах за более чем два десятилетия.",
+      "category": "russia-ukraine",
+      "language": "ru"
+    },
+    {
       "id": "79dcce48d9347eff9c2bc0cd",
       "title": "NFL joins pushback against prediction markets as U.S. Supreme Court asked to act",
       "url": "https://www.coindesk.com/policy/2026/10/08/nfl-joins-pushback-against-prediction-markets-as-u-s-supreme-court-asked-to-act",
@@ -13356,6 +13560,18 @@
       "excerpt": "Министерство иностранных дел Латвии в ответ на запрос «Новой-Европа» официально подтвердило включение гражданина России в список персон нон грата. Имя ведомство не назвало, но, по информации портала Delfi, речь идет о журналисте Леониде Рагозине. Решение принято на основании иммиграционного закона: живущий в Латвии с…",
       "category": "russia-ukraine",
       "language": "ru"
+    },
+    {
+      "id": "7a1439705d161a82435b96ce",
+      "title": "At least 12 dead in Riyadh airport attack: Saudi officials",
+      "url": "https://e.vnexpress.net/news/news/at-least-12-dead-in-riyadh-airport-attack-saudi-officials-5130882.html",
+      "original_url": "https://e.vnexpress.net/news/news/at-least-12-dead-in-riyadh-airport-attack-saudi-officials-5130882.html",
+      "source": "vnexpress-en",
+      "published_at": "2026-10-11T01:09:15Z",
+      "date_basis": "published",
+      "excerpt": "At least 12 people were killed and 309 others wounded Saturday in a strike on Riyadh's international airport, Saudi Arabia's civil aviation officials said -- an attack that a diplomatic source blamed on Yemen's Houthis.",
+      "category": "southeast-asia",
+      "language": "en"
     },
     {
       "id": "7a15692cc05f019cadfbbf48",
@@ -14170,18 +14386,6 @@
       "published_at": "2026-10-08T16:20:00Z",
       "date_basis": "updated",
       "excerpt": "The EU's diplomatic service, Canada and host nation Lithuania all pulled support from a disinformation event in Vilnius. Amid reports of US pressure, the EU said it was \"uncomfortable with the framing\" of some panels.",
-      "category": "world",
-      "language": "en"
-    },
-    {
-      "id": "82fb5ab4460719b256e844c1",
-      "title": "A’ja Wilson wins her third straight WNBA MVP and record fifth overall",
-      "url": "https://www.aljazeera.com/sports/2026/10/9/aja-wilson-wins-her-third-straight-wnba-mvp-and-record-fifth-overall?traffic_source=rss",
-      "original_url": "https://www.aljazeera.com/sports/2026/10/9/aja-wilson-wins-her-third-straight-wnba-mvp-and-record-fifth-overall?traffic_source=rss",
-      "source": "al-jazeera",
-      "published_at": "2026-10-09T10:03:52Z",
-      "date_basis": "published",
-      "excerpt": "Former US Vice President Kamala Harris among those to hail Wilson as Las Vegas Aces centre continues record run.",
       "category": "world",
       "language": "en"
     },
@@ -15273,7 +15477,7 @@
       "source": "guardian-world",
       "published_at": "2026-10-10T23:37:27Z",
       "date_basis": "published",
-      "excerpt": "Donald Trump evaluating whether US should join Saudi strikes against the Iran-backed Yemeni rebels Yemen’s Houthis have launched a missile attack on Riyadh’s international airport in Saudi Arabia, killing at least 12 people and leaving hundreds wounded, the Saudi Civil Aviation Authority has said. Operations at King…",
+      "excerpt": "Donald Trump evaluating whether US should join Saudi strikes against the Iran-backed Yemeni rebels The latest attack on the international airport in Saudi Arabia’s capital of Riyadh killed 12 people and injured more than 300 others, civil aviation authorities said early Sunday, with some in a critical condition. A…",
       "category": "world",
       "language": "en"
     },
@@ -15357,7 +15561,7 @@
       "source": "guardian-world",
       "published_at": "2026-10-10T17:13:31Z",
       "date_basis": "published",
-      "excerpt": "Police say man was pronounced dead at the scene after being attacked by tiger A man has died after being attacked by a tiger after jumping into its enclosure at a zoo in Yorkshire, police have said. Yorkshire Wildlife Park was evacuated shortly after the incident and the site will remain closed on Sunday. Continue…",
+      "excerpt": "Police say man was pronounced dead at the scene after being attacked by tiger A man has died after being attacked by a tiger after jumping into its enclosure at a zoo in Yorkshire, police have said. Emergency services were contacted shortly after 1.30pm on Saturday when the man entered the enclosure at Yorkshire…",
       "category": "world",
       "language": "en"
     },
@@ -15491,6 +15695,18 @@
       "date_basis": "updated",
       "excerpt": "US Pentagon chief Pete Hegseth had said that Nidal Hasan would be executed by firing squad and that it would be done \"in public.\" Hasan's execution will be the first by the US military since 1961.",
       "category": "world",
+      "language": "en"
+    },
+    {
+      "id": "8e9a0078725b6b16228ba1ec",
+      "title": "Chinese boy abducted at 3 now gets direct admission to PhD program",
+      "url": "https://e.vnexpress.net/news/news/education/chinese-boy-abducted-at-3-now-gets-direct-admission-to-phd-program-5130355.html",
+      "original_url": "https://e.vnexpress.net/news/news/education/chinese-boy-abducted-at-3-now-gets-direct-admission-to-phd-program-5130355.html",
+      "source": "vnexpress-en",
+      "published_at": "2026-10-11T01:00:00Z",
+      "date_basis": "published",
+      "excerpt": "Peng Wenle was abducted at three years old and taken hundreds of kilometers from his parents, who he was only reunited with three years later.",
+      "category": "southeast-asia",
       "language": "en"
     },
     {
@@ -16238,6 +16454,18 @@
       "language": "en"
     },
     {
+      "id": "959a0995251fc7443289204f",
+      "title": "Taiz hospitals near collapse as Houthis tighten siege: Yemen government",
+      "url": "https://www.aljazeera.com/news/2026/10/11/taiz-hospitals-near-collapse-as-houthis-tighten-siege-yemen-government?traffic_source=rss",
+      "original_url": "https://www.aljazeera.com/news/2026/10/11/taiz-hospitals-near-collapse-as-houthis-tighten-siege-yemen-government?traffic_source=rss",
+      "source": "al-jazeera",
+      "published_at": "2026-10-11T03:41:58Z",
+      "date_basis": "published",
+      "excerpt": "Medical services in Taiz risk shutting down as fuel, medicines, and supplies run alarmingly low under Houthi blockade.",
+      "category": "world",
+      "language": "en"
+    },
+    {
       "id": "95a6a3881d3345539fd213dd",
       "title": "В России нельзя протестовать даже маргиналам",
       "url": "https://www.dw.com/ru/в-россии-нельзя-протестовать-даже-маргиналам/a-79562923?maca=rus-rss-ru-all-1126-rdf",
@@ -16248,18 +16476,6 @@
       "excerpt": "Путин и его команда, бывшие на стороне Ельцина в 1993 году, использовали реваншистов, но теперь разгоняют их митинги, которые могут привлечь молодежь, лишенную другой возможности протестовать, пишет Иван Преображенский.",
       "category": "russia-ukraine",
       "language": "ru"
-    },
-    {
-      "id": "95c7494aa0511c6303a23bb6",
-      "title": "Nobel chair admits they haven’t reached Peace Prize winner Pillay",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/nobel-chair-admits-they-havent-reached-peace-prize-winner-pillay?traffic_source=rss",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/nobel-chair-admits-they-havent-reached-peace-prize-winner-pillay?traffic_source=rss",
-      "source": "al-jazeera",
-      "published_at": "2026-10-09T10:18:41Z",
-      "date_basis": "published",
-      "excerpt": "The Nobel Committee has admitted that it has been unable to reach the ICJ judge to tell her the news.",
-      "category": "world",
-      "language": "en"
     },
     {
       "id": "9603e8e6ebe99a493385b87f",
@@ -16598,6 +16814,18 @@
       "language": "et"
     },
     {
+      "id": "9883b51ca3408929c9450a4e",
+      "title": "US forces disable ship ‘attempting to run’ Iran blockade in Gulf of Oman",
+      "url": "https://www.aljazeera.com/news/2026/10/11/us-forces-disable-ship-attempting-to-run-iran-blockade-in-gulf-of-oman?traffic_source=rss",
+      "original_url": "https://www.aljazeera.com/news/2026/10/11/us-forces-disable-ship-attempting-to-run-iran-blockade-in-gulf-of-oman?traffic_source=rss",
+      "source": "al-jazeera",
+      "published_at": "2026-10-11T03:13:53Z",
+      "date_basis": "published",
+      "excerpt": "US military jet strikes stern of commercial cargo ship 'without harming the crew', CENTCOM says.",
+      "category": "world",
+      "language": "en"
+    },
+    {
       "id": "9888b8084571f041aac710c7",
       "title": "Постепенный доступ к выгодам ЕС, защитные механизмы и особые условия для украинского АПК",
       "url": "https://www.dw.com/ru/постепенный-доступ-к-выгодам-ес-защитные-механизмы-и-особые-условия-для-украинского-апк/a-79610056?maca=rus-rss-ru-all-1126-rdf",
@@ -16667,18 +16895,6 @@
       "date_basis": "published",
       "excerpt": "A Russian missile flattened an apartment block in Pryluky.",
       "category": "russia-ukraine",
-      "language": "en"
-    },
-    {
-      "id": "98f1c8ae458645c6a07bfa6f",
-      "title": "New York police push politician to ground during anti-ICE protest",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/new-york-police-push-politician-to-ground-during-anti-ice-protest?traffic_source=rss",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/new-york-police-push-politician-to-ground-during-anti-ice-protest?traffic_source=rss",
-      "source": "al-jazeera",
-      "published_at": "2026-10-09T08:59:49Z",
-      "date_basis": "published",
-      "excerpt": "New York police push politician to ground during anti-ICE protest",
-      "category": "world",
       "language": "en"
     },
     {
@@ -17174,6 +17390,18 @@
       "language": "en"
     },
     {
+      "id": "9cb27020682ab427c5a30faf",
+      "title": "Four injured in overnight Russian strikes on Dnipro, including two children",
+      "url": "https://www.ukrinform.net/rubric-ato/4173150-four-injured-in-overnight-russian-strikes-on-dnipro-including-two-children.html",
+      "original_url": "https://www.ukrinform.net/rubric-ato/4173150-four-injured-in-overnight-russian-strikes-on-dnipro-including-two-children.html",
+      "source": "ukrinform",
+      "published_at": "2026-10-11T03:39:00Z",
+      "date_basis": "published",
+      "excerpt": "Four people were injured in overnight Russian strikes on Dnipro, including two 8-year-old children. One of the girls was hospitalized.",
+      "category": "russia-ukraine",
+      "language": "en"
+    },
+    {
       "id": "9cbb0a25b61dcc0cf67e7c67",
       "title": "Trump administration hits International Criminal Court with sweeping sanctions",
       "url": "https://www.cbc.ca/news/world/icc-sanctions-trump-9.7375734?cmp=rss",
@@ -17494,18 +17722,6 @@
       "published_at": "2026-10-08T17:16:32Z",
       "date_basis": "published",
       "excerpt": "More than 500 migrants have been expelled from the US to African countries, HRW says, citing US data.",
-      "category": "world",
-      "language": "en"
-    },
-    {
-      "id": "9e9bee575a2aedac0a016dca",
-      "title": "The girls in the Gaza school photograph",
-      "url": "https://www.aljazeera.com/features/longform/2026/10/9/the-girls-in-the-gaza-school-photograph?traffic_source=rss",
-      "original_url": "https://www.aljazeera.com/features/longform/2026/10/9/the-girls-in-the-gaza-school-photograph?traffic_source=rss",
-      "source": "al-jazeera",
-      "published_at": "2026-10-09T10:23:42Z",
-      "date_basis": "published",
-      "excerpt": "Just before the genocide, 15 Gaza schoolgirls posed for a photograph. Three years on, Al Jazeera went looking for them.",
       "category": "world",
       "language": "en"
     },
@@ -18446,6 +18662,18 @@
       "language": "et"
     },
     {
+      "id": "a65fd470551e520cc5290a0a",
+      "title": "‘My body is still peaking’: Eliud Kipchoge wins first marathon in three years",
+      "url": "https://www.theguardian.com/sport/2026/oct/11/eliud-kipchoge-sends-message-melbourne-marathon-win-record",
+      "original_url": "https://www.theguardian.com/sport/2026/oct/11/eliud-kipchoge-sends-message-melbourne-marathon-win-record",
+      "source": "guardian-world",
+      "published_at": "2026-10-11T02:54:21Z",
+      "date_basis": "published",
+      "excerpt": "Kenyan breaks Melbourne Marathon record by two seconds ‘I’m happy to run with the gen Zs,’ 41-year-old says Marathon’s greatest competitor, Eliud Kipchoge, has sent a message to the next generation declaring that he’s not done yet. The 41-year-old Kenyan revelled in his Melbourne Marathon debut on Sunday, breaking the…",
+      "category": "world",
+      "language": "en"
+    },
+    {
       "id": "a6796038f12e6a63da8326cc",
       "title": "Ограбление века по-итальянски: из одной из старейших виноделен страны похищено вино на 5 млн евро",
       "url": "https://www.bbc.com/russian/articles/c317kegjrzljo?at_campaign=rss&at_medium=RSS",
@@ -19022,6 +19250,18 @@
       "language": "en"
     },
     {
+      "id": "ac35e06403eb62174f090875",
+      "title": "Trump: Putin sooviks Ukraina sõjas kokkulepet",
+      "url": "https://www.err.ee/1610163271/trump-putin-sooviks-ukraina-sojas-kokkulepet",
+      "original_url": "https://www.err.ee/1610163271/trump-putin-sooviks-ukraina-sojas-kokkulepet",
+      "source": "err-uudised",
+      "published_at": "2026-10-11T03:24:00Z",
+      "date_basis": "published",
+      "excerpt": "USA vabariiklasest president Donald Trump ütles laupäeval, et tema Vene ametivend Vladimir Putin sooviks saavutada Ukraina sõjas kokkuleppe, süüdistades Ukraina riigipead Volodõmõr Zelenskit kompromissist keeldumises. Samal ajal valmistub kongress ette parteideülest eelnõu, mis keelustab igasuguse Venemaalt nafta…",
+      "category": "estonia",
+      "language": "et"
+    },
+    {
       "id": "ac94c8cbf43939882689e692",
       "title": "EC users should be afraid of a US kill switch - not some new software",
       "url": "https://www.theregister.com/columnists/2026/10/10/ec-users-should-be-afraid-of-a-us-kill-switch-not-some-new-software/5301875",
@@ -19250,6 +19490,18 @@
       "language": "en"
     },
     {
+      "id": "ae714c867b882e254d473bd6",
+      "title": "ВС США вывели из строя судно в Оманском заливе",
+      "url": "https://www.dw.com/ru/вс-сша-вывели-из-строя-судно-в-оманском-заливе/a-79630869?maca=rus-rss-ru-all-1126-rdf",
+      "original_url": "https://www.dw.com/ru/вс-сша-вывели-из-строя-судно-в-оманском-заливе/a-79630869?maca=rus-rss-ru-all-1126-rdf",
+      "source": "dw-ru",
+      "published_at": "2026-10-11T02:23:00Z",
+      "date_basis": "updated",
+      "excerpt": "Истребитель ВВС США с помощью высокоточного боеприпаса нанес удар по корме M/V Ocean Molica в Оманском заливе, выведена из строя двигательная установка судна, экипаж не пострадал. В Ормузском проливе обстрелян танкер.",
+      "category": "russia-ukraine",
+      "language": "ru"
+    },
+    {
       "id": "aeb4862465dfeb1384690d0a",
       "title": "Koroonatõendit võltsinud Šveitsi koondise kaptenile määrati hiigeltrahv",
       "url": "https://sport.err.ee/1610161882/koroonatoendit-voltsinud-sveitsi-koondise-kaptenile-maarati-hiigeltrahv",
@@ -19284,6 +19536,18 @@
       "excerpt": "",
       "category": "estonia",
       "language": "et"
+    },
+    {
+      "id": "aee19443c88d51ff7ca47039",
+      "title": "Indian YouTuber travelling penniless turned away from Thai temple",
+      "url": "https://thethaiger.com/news/national/indian-youtuber-travelling-penniless-turned-away-thai-temple",
+      "original_url": "https://thethaiger.com/news/national/indian-youtuber-travelling-penniless-turned-away-thai-temple",
+      "source": "thaiger",
+      "published_at": "2026-10-11T04:13:13Z",
+      "date_basis": "published",
+      "excerpt": "Police asked an Indian YouTuber to leave a temple in Udon Thani after he tried to stay there overnight while travelling through Thailand without money. The incident drew attention online after the YouTuber posted a video titled, “Temple Thailand Good Police Say Get Out of The Temple Now Thailand Bad Experience fo[r]…",
+      "category": "southeast-asia",
+      "language": "en"
     },
     {
       "id": "aef75098f9782273323da498",
@@ -19427,6 +19691,18 @@
       "date_basis": "published",
       "excerpt": "The US midterm election campaign has been filled with political ads featuring AI deepfakes that can mislead voters.",
       "category": "world",
+      "language": "en"
+    },
+    {
+      "id": "b09b2a19d3d47f8ff63803f4",
+      "title": "FM Sybiha responds to Trump’s statement on election of new Ukrainian President",
+      "url": "https://www.ukrinform.net/rubric-polytics/4173149-fm-sybiha-responds-to-trumps-statement-on-election-of-new-ukrainian-president.html",
+      "original_url": "https://www.ukrinform.net/rubric-polytics/4173149-fm-sybiha-responds-to-trumps-statement-on-election-of-new-ukrainian-president.html",
+      "source": "ukrinform",
+      "published_at": "2026-10-11T03:20:00Z",
+      "date_basis": "published",
+      "excerpt": "Minister of Foreign Affairs of Ukraine Andrii Sybiha said that Volodymyr Zelensky has the support of the Ukrainian people and that only the people have the right to decide this issue.",
+      "category": "russia-ukraine",
       "language": "en"
     },
     {
@@ -19886,6 +20162,18 @@
       "language": "en"
     },
     {
+      "id": "b3a7f88c78c4e9b502eadda7",
+      "title": "Third Yandex data center in Russia shut down following reported drone attack",
+      "url": "https://kyivindependent.com/third-yandex-data-center-in-russia-shut-down-following-reported-drone-attack/",
+      "original_url": "https://kyivindependent.com/third-yandex-data-center-in-russia-shut-down-following-reported-drone-attack/",
+      "source": "kyiv-independent",
+      "published_at": "2026-10-11T03:32:31Z",
+      "date_basis": "published",
+      "excerpt": "On Oct. 10, Yandex updated its user agreement to include drone and missile attacks among circumstances of force majeure that could exempt the company from contractual obligations.",
+      "category": "russia-ukraine",
+      "language": "en"
+    },
+    {
       "id": "b3b6f8674f2aa69803a6b297",
       "title": "От удара ВСУ по Донецку в конце августа погибли 20 офицеров — это самые большие известные потери командного состава от одной атаки",
       "url": "https://novayagazeta.eu/articles/2026/10/09/ot-udara-vsu-po-donetsku-v-kontse-avgusta-pogibli-20-ofitserov-eto-samye-bolshie-izvestnye-poteri-komandnogo-sostava-ot-odnoi-ataki-news",
@@ -19899,13 +20187,13 @@
     },
     {
       "id": "b3c2c040b99bb98430a3a7a6",
-      "title": "Falling international student numbers create ‘massive problems’ for Australian universities, expert warns",
+      "title": "Regional universities struggle to enrol international students amid visa refusals and heated political rhetoric",
       "url": "https://www.theguardian.com/australia-news/2026/oct/11/falling-international-student-numbers-australian-universities",
       "original_url": "https://www.theguardian.com/australia-news/2026/oct/11/falling-international-student-numbers-australian-universities",
       "source": "guardian-world",
       "published_at": "2026-10-10T19:00:05Z",
       "date_basis": "published",
-      "excerpt": "Immigration debate and visa uncertainty are putting students off and increasing pressure on budgets Get our breaking news email, free app or daily news podcast University leaders warn they’re struggling to fill international student places due to visa uncertainty and heated political debate on immigration, with…",
+      "excerpt": "Expert says declining numbers are causing ‘massive problems’ as international students are ‘basically the only profitable aspect of university operations’ Get our breaking news email, free app or daily news podcast University leaders warn they’re struggling to fill international student places due to visa uncertainty…",
       "category": "world",
       "language": "en"
     },
@@ -20234,6 +20522,18 @@
       "language": "en"
     },
     {
+      "id": "b72bb3c5c2ab4c63a94f3c28",
+      "title": "Минюст США расследует бойкот телеканалами из президентского пула мероприятий Трампа. Ранее он ограничивал им доступ в Белый дом",
+      "url": "https://www.bbc.com/russian/articles/c65yn0pwp79eo?at_campaign=rss&at_medium=RSS",
+      "original_url": "https://www.bbc.com/russian/articles/c65yn0pwp79eo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-ru",
+      "published_at": "2026-10-11T02:55:26Z",
+      "date_basis": "published",
+      "excerpt": "Белый дом блокировал доступ для CNN, MS Now и Politico, в результате чего эти СМИ были вынуждены ограничить освещение событий в рамках пула.",
+      "category": "russia-ukraine",
+      "language": "ru"
+    },
+    {
       "id": "b78eb9cdc959bedd79c18998",
       "title": "Литва отправит военных на границу с Калининградской областью",
       "url": "https://novayagazeta.eu/articles/2026/10/08/litva-otpravit-voennykh-na-granitsu-s-kaliningradskoi-oblastiu-news",
@@ -20339,6 +20639,18 @@
       "date_basis": "published",
       "excerpt": "",
       "category": "technology",
+      "language": "en"
+    },
+    {
+      "id": "b85ea21ebe6d968e36b415c1",
+      "title": "Pattaya heist gang flees Thailand with 37 million baht",
+      "url": "https://thethaiger.com/news/pattaya/pattaya-heist-gang-flees-thailand-with-37-million-baht",
+      "original_url": "https://thethaiger.com/news/pattaya/pattaya-heist-gang-flees-thailand-with-37-million-baht",
+      "source": "thaiger",
+      "published_at": "2026-10-11T02:00:55Z",
+      "date_basis": "published",
+      "excerpt": "A Pattaya court has issued arrest warrants for five suspects over the armed robbery of a Turkish businessman’s luxury home in Chon Buri, but police say all five have already left Thailand. Provincial Police Region 2 is coordinating with the Chinese embassy and taking steps to request an Interpol Red Notice, an…",
+      "category": "southeast-asia",
       "language": "en"
     },
     {
@@ -20590,6 +20902,18 @@
       "published_at": "2026-10-06T12:00:00Z",
       "date_basis": "published",
       "excerpt": "U.K. graduates face a shrinking job market, with advertised graduate vacancies plunging 45.6% year-on-year to a record low in July as employers cut hiring amid wider economic pressures and growing use of AI.",
+      "category": "southeast-asia",
+      "language": "en"
+    },
+    {
+      "id": "bb72dadc4455fa7d4ad768de",
+      "title": "60yo mother logs 8,000 hours in Counter-Strike, becomes esports star after opposing son's gaming",
+      "url": "https://e.vnexpress.net/news/news/60yo-mother-logs-8-000-hours-in-counter-strike-becomes-esports-star-after-opposing-son-s-gaming-5129177.html",
+      "original_url": "https://e.vnexpress.net/news/news/60yo-mother-logs-8-000-hours-in-counter-strike-becomes-esports-star-after-opposing-son-s-gaming-5129177.html",
+      "source": "vnexpress-en",
+      "published_at": "2026-10-11T03:00:00Z",
+      "date_basis": "published",
+      "excerpt": "A 60-year-old Chinese woman who once hauled her son out of internet cafes now plays Counter-Strike seven to eight hours a day and livestreams to more than 400,000 followers.",
       "category": "southeast-asia",
       "language": "en"
     },
@@ -21218,18 +21542,6 @@
       "language": "en"
     },
     {
-      "id": "c33996600ffa61ff35e15409",
-      "title": "Koroonatõendit võltsinud Šveitsi koondise kaptenile määrati hiigeltrahv",
-      "url": "https://sport.err.ee/1610161882/koroonatoendit-voltsinud-sveitsi-koondise-kaptenile-maarati-hiigeltrahv",
-      "original_url": "https://sport.err.ee/1610161882/koroonatoendit-voltsinud-sveitsi-koondise-kaptenile-maarati-hiigeltrahv",
-      "source": "err-uudised",
-      "published_at": "2026-10-09T07:57:00Z",
-      "date_basis": "published",
-      "excerpt": "Šveitsi jalgpallikoondise kapten ja Sunderlandi poolkaitsja Granit Xhaka mõisteti süüdi võltsitud koroonatõendi kasutamises. Jalgpallurile määrati tingimisi rahaline karistus, mille kogusumma ulatub 150 000 Šveitsi frangini ehk ligikaudu 160 000 euroni.",
-      "category": "estonia",
-      "language": "et"
-    },
-    {
       "id": "c3399903b1c5e93ae7ea7a97",
       "title": "Eestluse hoidja Torontos Ellen Valter: kõige alus on kogukond",
       "url": "https://eeter.err.ee/1610163004/eestluse-hoidja-torontos-ellen-valter-koige-alus-on-kogukond",
@@ -21444,6 +21756,18 @@
       "excerpt": "Пользователи жалуются на сбои, акции компании падают",
       "category": "russia-ukraine",
       "language": "ru"
+    },
+    {
+      "id": "c569d534f863d17e2e4a2b88",
+      "title": "Bangkok police arrest 11 foreigners in nominee property raids",
+      "url": "https://thethaiger.com/news/national/bangkok-police-arrest-11-foreigners-in-nominee-property-raids",
+      "original_url": "https://thethaiger.com/news/national/bangkok-police-arrest-11-foreigners-in-nominee-property-raids",
+      "source": "thaiger",
+      "published_at": "2026-10-11T03:00:28Z",
+      "date_basis": "published",
+      "excerpt": "Police arrested 11 foreign suspects and seized assets worth more than 6 billion baht (US$179 million) yesterday, October 10, in raids on four luxury housing estates in Bangkok. The operation targeted foreigners accused of using Thai nominees to own houses and land. It was the eighth phase of a crackdown on illegal…",
+      "category": "southeast-asia",
+      "language": "en"
     },
     {
       "id": "c58952edd2ddb9cae9a12477",
@@ -22380,18 +22704,6 @@
       "excerpt": "4 октября Кировский райсуд Иркутска арестовал предпринимателя из Усолья-Сибирского Сергея Угляницу по обвинению в оправдании терроризма в интернете, заметила «Медиазона». Что конкретно ему вменяют, пока неизвестно. Кто это. Сергей Угляница — бывший депутат гордумы Усолья-Сибирского от КПРФ, владелец компании…",
       "category": "russia-ukraine",
       "language": "ru"
-    },
-    {
-      "id": "ce0435c752eaa7791369e46b",
-      "title": "Suure muusikamängu juht Birgit Sarrap: tuleb ette ka ootamatuid olukordi",
-      "url": "https://eeter.err.ee/1610161831/suure-muusikamangu-juht-birgit-sarrap-tuleb-ette-ka-ootamatuid-olukordi",
-      "original_url": "https://eeter.err.ee/1610161831/suure-muusikamangu-juht-birgit-sarrap-tuleb-ette-ka-ootamatuid-olukordi",
-      "source": "err-uudised",
-      "published_at": "2026-10-09T07:34:00Z",
-      "date_basis": "published",
-      "excerpt": "\"Suure muusikamängu\" saatejuht Birgit Sarrap rääkis \"Terevisioonis\", et saade on tema jaoks väga põnev väljakutse ja ka ääretult lõbus. Sarrapi sõnul teevad külalised saates palju nalja, sest räägivad oma humoorikatest kogemustest, aga ette tuleb ka ootamatuid olukordi.",
-      "category": "estonia",
-      "language": "et"
     },
     {
       "id": "ce15dea144ff2891e69823b0",
@@ -23570,6 +23882,18 @@
       "language": "ru"
     },
     {
+      "id": "d81582424d2987a9e25d5ed7",
+      "title": "31 test positive for drugs in Khao San Road bar raid",
+      "url": "https://thethaiger.com/hot-news/crime/31-test-positive-for-drugs-in-khao-san-road-bar-raid",
+      "original_url": "https://thethaiger.com/hot-news/crime/31-test-positive-for-drugs-in-khao-san-road-bar-raid",
+      "source": "thaiger",
+      "published_at": "2026-10-11T04:00:00Z",
+      "date_basis": "published",
+      "excerpt": "The Deputy Interior Minister led a raid on an unlicensed bar on Khao San Road in Bangkok, where officials found 30 youths, the youngest aged 15, and 31 people who tested positive for drugs. The Department of Provincial Administration’s special task force (DOPA S.W.A.T.) raided OK Bar at 3.30am on Saturday, October 10,…",
+      "category": "southeast-asia",
+      "language": "en"
+    },
+    {
       "id": "d837cf64a6d7ad4f7fde2823",
       "title": "Месси сыграл прощальный матч за сборную Аргентины",
       "url": "https://www.bbc.com/russian/articles/crkg7dellzezo?at_campaign=rss&at_medium=RSS",
@@ -23580,18 +23904,6 @@
       "excerpt": "Лионель Месси провел последнюю игру за национальную команду. В своем прощальном матче за сборную Месси забил гол, а после игры обратился к трибунам с 10-минутной речью.",
       "category": "russia-ukraine",
       "language": "ru"
-    },
-    {
-      "id": "d87124771147f11fe87753cc",
-      "title": "Navi Pillay wins Nobel Peace Prize",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/navi-pillay-wins-nobel-peace-prize?traffic_source=rss",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/navi-pillay-wins-nobel-peace-prize?traffic_source=rss",
-      "source": "al-jazeera",
-      "published_at": "2026-10-09T09:28:18Z",
-      "date_basis": "published",
-      "excerpt": "International Court of Justice judge Navi Pillay has been awarded this year’s Nobel Peace Prize.",
-      "category": "world",
-      "language": "en"
     },
     {
       "id": "d8808072cee7a5680055dccc",
@@ -25442,18 +25754,6 @@
       "language": "et"
     },
     {
-      "id": "eb031b7b4337cd8b7481634b",
-      "title": "NBA star Wembanyama to French students: ‘I hear you’",
-      "url": "https://www.aljazeera.com/sports/2026/10/9/nba-star-wembanyama-to-french-students-i-hear-you?traffic_source=rss",
-      "original_url": "https://www.aljazeera.com/sports/2026/10/9/nba-star-wembanyama-to-french-students-i-hear-you?traffic_source=rss",
-      "source": "al-jazeera",
-      "published_at": "2026-10-09T09:01:45Z",
-      "date_basis": "published",
-      "excerpt": "San ​Antonio Spurs player Victor Wembanyama offers solidarity to students protesting conditions in schools in France.",
-      "category": "world",
-      "language": "en"
-    },
-    {
       "id": "eb229ed8313cb59c458e6abe",
       "title": "Chinese American couple arrested for abusing 21 children, most born via surrogates, in California",
       "url": "https://e.vnexpress.net/news/news/crime/chinese-american-couple-arrested-for-abusing-21-children-most-born-via-surrogates-in-california-5129315.html",
@@ -26939,6 +27239,18 @@
       "date_basis": "published",
       "excerpt": "Chap who took the job left a trail of wreckage – and invaluable case studies – in his incompetent wake",
       "category": "technology",
+      "language": "en"
+    },
+    {
+      "id": "f918d04435ca194f9d27c447",
+      "title": "World condemns deadly Houthi attack on Saudi Arabia’s Riyadh airport",
+      "url": "https://www.aljazeera.com/news/2026/10/11/world-condemns-deadly-houthi-attack-on-saudi-arabias-riyadh-airport?traffic_source=rss",
+      "original_url": "https://www.aljazeera.com/news/2026/10/11/world-condemns-deadly-houthi-attack-on-saudi-arabias-riyadh-airport?traffic_source=rss",
+      "source": "al-jazeera",
+      "published_at": "2026-10-11T02:12:07Z",
+      "date_basis": "published",
+      "excerpt": "Trump condemns 'terrible' attack and says the US is evaluating whether to join Saudi Arabia's attacks on the Houthis.",
+      "category": "world",
       "language": "en"
     },
     {
