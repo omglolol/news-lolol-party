@@ -24,6 +24,8 @@ jobs:
       pages: read
     steps:
       - uses: actions/checkout@v6
+        with:
+          ref: main
       - uses: actions/setup-python@v6
         with:
           python-version: '3.13'
@@ -40,7 +42,15 @@ jobs:
           git add data/articles.json data/status.json
           if ! git diff --cached --quiet; then
             git commit -m 'Refresh news data'
-            git push
+            for attempt in 1 2 3; do
+              if git push origin HEAD:main; then
+                exit 0
+              fi
+              if [ "$attempt" -lt 3 ]; then
+                sleep "$((attempt * 5))"
+              fi
+            done
+            exit 1
           fi
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v4

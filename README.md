@@ -6,6 +6,8 @@ A small, public, text-only RSS reader for World, Estonia, AI & Technology, Russi
 
 GitHub Actions collects feeds and publishes the static `site/` directory to GitHub Pages. Refreshes run every four hours, at minute 17 in UTC, with a manual **Run workflow** trigger. Scheduled GitHub jobs can be delayed; the displayed update time reports the actual last successful collection.
 
+Each run starts from the current `main` branch. Saving refreshed data retries a failed GitHub push up to three times, with 5- and 10-second pauses. If all attempts fail, deployment stops and the last published edition stays available.
+
 Cloudflare is used only for the `news.lolol.party` DNS record. This project has no Cloudflare Worker, D1, R2, Pages build, billing integration, or connection to theye.news. The existing lolol.party gallery and forum are independent too.
 
 ## Collection and duplicates
