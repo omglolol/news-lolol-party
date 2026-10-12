@@ -1,5 +1,5 @@
 {
-  "last_successful_refresh": "2026-10-12T20:35:47Z",
+  "last_successful_refresh": "2026-10-12T20:54:11Z",
   "articles": [
     {
       "id": "003546a021782802198a1060",
@@ -1886,6 +1886,18 @@
       "language": "en"
     },
     {
+      "id": "0fd0c370a364f0fa57b16e1f",
+      "title": "Посетителя ресторана в Уфе оштрафовали за то, что после спетой песни «Червона рута» Софии Ротару он крикнул «Слава Украине»",
+      "url": "https://zona.media/news/2026/10/12/rotaru",
+      "original_url": "https://zona.media/news/2026/10/12/rotaru",
+      "source": "mediazona",
+      "published_at": "2026-10-12T20:50:57Z",
+      "date_basis": "published",
+      "excerpt": "",
+      "category": "russia-ukraine",
+      "language": "ru"
+    },
+    {
       "id": "100922f330fc4d66a0e8c17f",
       "title": "Silvia Lorenzi: filmifestivalid kui rõhumisele vastuhaku platvorm",
       "url": "https://kultuur.err.ee/1610163631/silvia-lorenzi-filmifestivalid-kui-rohumisele-vastuhaku-platvorm",
@@ -3266,6 +3278,18 @@
       "language": "en"
     },
     {
+      "id": "195d8da0952c7f3257be0b87",
+      "title": "Meta's New Muse Wonder Finally Puts Zuckerberg in the Frontier AI Race",
+      "url": "https://decrypt.co/380768/meta-muse-wonder-zuckerberg-frontier-ai-race",
+      "original_url": "https://decrypt.co/380768/meta-muse-wonder-zuckerberg-frontier-ai-race",
+      "source": "decrypt",
+      "published_at": "2026-10-12T20:46:04Z",
+      "date_basis": "published",
+      "excerpt": "Meta's new flagship beats GPT-6 Astra and Claude on memory, legal and marathon coding tests, but independent rankings still put Anthropic's Opus 5.5 on top.",
+      "category": "technology",
+      "language": "en"
+    },
+    {
       "id": "196b207eefd2cf49ae7288cc",
       "title": "Robinhood Chain slowdown spreads from fees to trading as transactions fall more than 40%",
       "url": "https://www.coindesk.com/markets/2026/10/10/robinhood-chain-slowdown-spreads-from-fees-to-trading-as-transactions-fall-more-than-40",
@@ -3707,18 +3731,6 @@
       "date_basis": "published",
       "excerpt": "Canadian poet, essayist and translator Anne Carson won the Nobel Prize in literature Thursday for “bold and inventive” works that fuse the classical and the modern and blur the boundaries of poetry and prose.",
       "category": "southeast-asia",
-      "language": "en"
-    },
-    {
-      "id": "1c6bc9931a956385a7c8dd6b",
-      "title": "Three men found guilty of murders of Australian surfer brothers and US friend in Mexico",
-      "url": "https://www.theguardian.com/world/2026/oct/10/jake-callum-robinson-australian-surfers-carter-rhoad-mexico-murder-guilty-verdict-ntwnfb",
-      "original_url": "https://www.theguardian.com/world/2026/oct/10/jake-callum-robinson-australian-surfers-carter-rhoad-mexico-murder-guilty-verdict-ntwnfb",
-      "source": "guardian-world",
-      "published_at": "2026-10-10T00:50:52Z",
-      "date_basis": "published",
-      "excerpt": "Australian brothers Jake and Callum Robinson, 30 and 33, and friend Carter Rhoad, 30, were killed on a surfing trip in 2024 Get our breaking news email, free app or daily news podcast The parents of Australian surfing brothers murdered in Mexico have said “no outcome can ever undo this tragedy” after three men were…",
-      "category": "world",
       "language": "en"
     },
     {
@@ -6974,6 +6986,18 @@
       "language": "en"
     },
     {
+      "id": "30b022024f028a6afb0752c7",
+      "title": "Archbishop of US military condemns Pentagon plans to livestream execution",
+      "url": "https://www.theguardian.com/us-news/2026/oct/12/archbishop-timothy-broglio-military-pentagon-livestreamed-execution",
+      "original_url": "https://www.theguardian.com/us-news/2026/oct/12/archbishop-timothy-broglio-military-pentagon-livestreamed-execution",
+      "source": "guardian-world",
+      "published_at": "2026-10-12T20:33:21Z",
+      "date_basis": "published",
+      "excerpt": "Timothy Broglio says Catholics on army firing squad should ask to be excused since it clashes with church teachings The archbishop who oversees the spiritual care of Catholics serving in the US military condemned the Pentagon’s proposed plans to livestream the firing squad execution of Nidal Hasan later this year.…",
+      "category": "world",
+      "language": "en"
+    },
+    {
       "id": "30d4d284bf551a734d7af1d0",
       "title": "Michigan Senate hopeful Mike Rogers faces pressure over Trump's trade war",
       "url": "https://www.cbc.ca/news/world/michigan-senate-rogers-pressure-trump-9.7375136?cmp=rss",
@@ -8038,6 +8062,18 @@
       "published_at": "2026-10-09T13:50:25Z",
       "date_basis": "published",
       "excerpt": "The missile attacks come amid an escalation in fighting between the Iran-backed group and Saudi Arabia, which backs Yemen's government.",
+      "category": "world",
+      "language": "en"
+    },
+    {
+      "id": "3815af4f657e0f554f12f821",
+      "title": "Both Russia and Ukraine are using AI-powered drones on the battlefield",
+      "url": "https://www.npr.org/2026/10/12/nx-s1-5984940/both-russia-and-ukraine-are-using-ai-powered-drones-on-the-battlefield",
+      "original_url": "https://www.npr.org/2026/10/12/nx-s1-5984940/both-russia-and-ukraine-are-using-ai-powered-drones-on-the-battlefield",
+      "source": "npr-world",
+      "published_at": "2026-10-12T20:42:49Z",
+      "date_basis": "published",
+      "excerpt": "A Ukrainian company that got rich making smartphone-controlled cameras to watch pets at home now outfits first-person-view drones with an image recognition system powered by artificial intelligence.",
       "category": "world",
       "language": "en"
     },
@@ -11462,18 +11498,6 @@
       "language": "en"
     },
     {
-      "id": "4fa98943ffc4e8a649cc351d",
-      "title": "Putin Orders Priority Rail Transit for Russian Grain – Kommersant",
-      "url": "https://www.themoscowtimes.com/2026/10/06/putin-orders-priority-rail-transit-for-russian-grain-kommersant-a93896",
-      "original_url": "https://www.themoscowtimes.com/2026/10/06/putin-orders-priority-rail-transit-for-russian-grain-kommersant-a93896",
-      "source": "moscow-times",
-      "published_at": "2026-10-06T14:53:00Z",
-      "date_basis": "published",
-      "excerpt": "Despite the workarounds, market analysts warn that Baltic and Arctic ports lack the storage capacity and specialized infrastructure needed.",
-      "category": "russia-ukraine",
-      "language": "en"
-    },
-    {
       "id": "4fc34fe88b579346059870a5",
       "title": "Armored assaults aren’t dead. Robots got the credit, but it was Ukrainian infantry in armored trucks that reversed a year of Russian gains near Lyman",
       "url": "https://euromaidanpress.com/2026/10/09/operation-vivaldi-mechanized/",
@@ -12710,18 +12734,6 @@
       "language": "ru"
     },
     {
-      "id": "573aaebe7a058aa94f12f68c",
-      "title": "Man dies after entering tiger enclosure at England wildlife park",
-      "url": "https://www.aljazeera.com/news/2026/10/11/man-dies-after-entering-tiger-enclosure-at-england-wildlife-park?traffic_source=rss",
-      "original_url": "https://www.aljazeera.com/news/2026/10/11/man-dies-after-entering-tiger-enclosure-at-england-wildlife-park?traffic_source=rss",
-      "source": "al-jazeera",
-      "published_at": "2026-10-11T01:16:18Z",
-      "date_basis": "published",
-      "excerpt": "Emergency services called to the scene after reports of a man entering the tiger enclosure at a UK wildlife park.",
-      "category": "world",
-      "language": "en"
-    },
-    {
       "id": "5789a7a5ab91bbbc8d5429d4",
       "title": "Can South Korea and Ukraine resolve their diplomatic spat over North Korean POWs?",
       "url": "https://www.dw.com/en/can-south-korea-and-ukraine-resolve-their-diplomatic-spat-over-north-korean-pows/a-79641352?maca=en-rss-en-all-1573-rdf",
@@ -12960,18 +12972,6 @@
       "excerpt": "Estonia transferred hundreds of millions of euros to state-backed venture capital funds before the money could be invested, leaving €261 million on deposit even as the finance ministry borrowed to cover day-to-day spending, the National Audit Office has found. Almost €466 million has been allocated from the state…",
       "category": "estonia",
       "language": "en"
-    },
-    {
-      "id": "595e3f01320996282d000d0b",
-      "title": "Уголовное дело против Лиды Мониавы прекратили",
-      "url": "https://istories.media/news/2026/10/06/ugolovnoe-delo-protiv-lidi-moniavi-prekratili/",
-      "original_url": "https://istories.media/news/2026/10/06/ugolovnoe-delo-protiv-lidi-moniavi-prekratili/",
-      "source": "istories",
-      "published_at": "2026-10-06T14:44:17Z",
-      "date_basis": "published",
-      "excerpt": "В нем не нашли состава преступления",
-      "category": "russia-ukraine",
-      "language": "ru"
     },
     {
       "id": "59b9032612a47b4204c7ba70",
@@ -13233,7 +13233,7 @@
       "source": "dw-en",
       "published_at": "2026-10-12T16:01:00Z",
       "date_basis": "updated",
-      "excerpt": "Chancellor Friedrich Merz has said that Donald Trump's diesel deal with Russia would be \"out of the question\" for Germany and the EU. Meanwhile, the ruling coalition has been rocked by a major resignation. DW has more.",
+      "excerpt": "Chancellor Friedrich Merz has said that Donald Trump's diesel deal with Russia would be \"out of the question\" for Germany and the EU. Meanwhile, the ruling coalition has been rocked by a major resignation.",
       "category": "world",
       "language": "en"
     },
@@ -16587,13 +16587,13 @@
     },
     {
       "id": "7341f4ff2e2eb97ad96a7183",
-      "title": "Australia politics live: Labor’s $630m funding boost for charities; Greens at odds about Ukraine weapons",
+      "title": "Australia politics live: Labor’s $630m pay boost for female-dominated care sector; Greens at odds about Ukraine weapons",
       "url": "https://www.theguardian.com/australia-news/live/2026/oct/13/labor-anthony-albanese-charity-boost-greens-ukraine-coalition-one-nation-ntwnfb",
       "original_url": "https://www.theguardian.com/australia-news/live/2026/oct/13/labor-anthony-albanese-charity-boost-greens-ukraine-coalition-one-nation-ntwnfb",
       "source": "guardian-world",
-      "published_at": "2026-10-12T20:20:00Z",
+      "published_at": "2026-10-12T20:34:32Z",
       "date_basis": "published",
-      "excerpt": "Follow the day’s news live Get our breaking news email, free app or daily news podcast Greens say big tech has been ‘laughing all the way to the bank’ and ‘we need proper regulations’ Sarah Hanson-Young is leading the Greens’ negotiations with the government over legislation designed to hold tech companies responsible…",
+      "excerpt": "Follow the day’s news live Get our breaking news email, free app or daily news podcast The eSafety commission says it “does not have powers to proactively prevent” the livestreaming of a US military execution, but says it will monitor and enforce existing standards that could obligate online platforms to block it…",
       "category": "world",
       "language": "en"
     },
@@ -20002,6 +20002,18 @@
       "published_at": "2026-10-07T19:33:00Z",
       "date_basis": "published",
       "excerpt": "Wiley fisherfolk spin up a new page just days after Meta's AI agent launch",
+      "category": "technology",
+      "language": "en"
+    },
+    {
+      "id": "8d827756b17702987ffd7e19",
+      "title": "Epic reportedly delays its Disney video game so it can be made using more AI",
+      "url": "https://www.engadget.com/2284680/epic-reportedly-delays-its-disney-video-game-so-it-can-be-made-using-more-ai/",
+      "original_url": "https://www.engadget.com/2284680/epic-reportedly-delays-its-disney-video-game-so-it-can-be-made-using-more-ai/",
+      "source": "engadget",
+      "published_at": "2026-10-12T20:48:19Z",
+      "date_basis": "published",
+      "excerpt": "Developers were apparently ordered to use AI for both code and asset creation.",
       "category": "technology",
       "language": "en"
     },
@@ -23906,18 +23918,6 @@
       "language": "et"
     },
     {
-      "id": "a712a53ee6c04bbb8bbb1501",
-      "title": "Уголовное дело о военных «фейках» против Лиды Мониавы прекращено",
-      "url": "https://novayagazeta.eu/articles/2026/10/06/ugolovnoe-delo-o-voennykh-feikakh-protiv-lidy-moniava-prekrashcheno-news",
-      "original_url": "https://novayagazeta.eu/articles/2026/10/06/ugolovnoe-delo-o-voennykh-feikakh-protiv-lidy-moniava-prekrashcheno-news",
-      "source": "novaya-europe",
-      "published_at": "2026-10-06T14:49:46Z",
-      "date_basis": "published",
-      "excerpt": "Уголовное дело о военных «фейках» против основательницы детского хосписа «Дом с маяком» Лиды Мониавы прекращено в связи с отсутствием состава преступления, сообщили в группе поддержки благотворительницы. Новая газета. Европа — Читайте также «Это какое-то чудесное чудо. Но случилось оно не само собой, а сделали его вы.…",
-      "category": "russia-ukraine",
-      "language": "ru"
-    },
-    {
       "id": "a733d0f2217043c5bd5b85b4",
       "title": "От \"полезного партнера\" Путина до требований сменить Зеленского: немецкая пресса о новом курсе Трампа",
       "url": "https://www.dw.com/ru/от-полезного-партнера-путина-до-требований-сменить-зеленского-немецкая-пресса-о-новом-курсе-трампа/a-79642078?maca=rus-rss-ru-all-1126-rdf",
@@ -25366,6 +25366,18 @@
       "published_at": "2026-10-09T09:09:03Z",
       "date_basis": "published",
       "excerpt": "The heist at the Florence-based winery is believed to be one of the largest thefts of its kind in Italy.",
+      "category": "world",
+      "language": "en"
+    },
+    {
+      "id": "b238dd4cb771831e03d2654d",
+      "title": "South Africa deputy police chief resigns amid sex offence charges",
+      "url": "https://www.aljazeera.com/news/2026/10/12/south-africa-deputy-police-chief-resigns-amid-sex-offence-charges?traffic_source=rss",
+      "original_url": "https://www.aljazeera.com/news/2026/10/12/south-africa-deputy-police-chief-resigns-amid-sex-offence-charges?traffic_source=rss",
+      "source": "al-jazeera",
+      "published_at": "2026-10-12T20:43:33Z",
+      "date_basis": "published",
+      "excerpt": "Shadrack Sibiya, who is in prison after his arrest last month, denies corruption, rape and child grooming allegations.",
       "category": "world",
       "language": "en"
     },
@@ -29040,18 +29052,6 @@
       "excerpt": "4 октября Кировский райсуд Иркутска арестовал предпринимателя из Усолья-Сибирского Сергея Угляницу по обвинению в оправдании терроризма в интернете, заметила «Медиазона». Что конкретно ему вменяют, пока неизвестно. Кто это. Сергей Угляница — бывший депутат гордумы Усолья-Сибирского от КПРФ, владелец компании…",
       "category": "russia-ukraine",
       "language": "ru"
-    },
-    {
-      "id": "ce16fda59ce194cbbe4452c4",
-      "title": "NFL Sides With States Against Kalshi in Supreme Court Prediction Market Fight",
-      "url": "https://decrypt.co/380530/nfl-kalshi-supreme-court-prediction-market",
-      "original_url": "https://decrypt.co/380530/nfl-kalshi-supreme-court-prediction-market",
-      "source": "decrypt",
-      "published_at": "2026-10-08T19:31:03Z",
-      "date_basis": "published",
-      "excerpt": "The NFL urged the Supreme Court to resolve a circuit split over whether states can regulate sports contracts on prediction markets, arguing they're gambling, not federally regulated swaps.",
-      "category": "technology",
-      "language": "en"
     },
     {
       "id": "ce1f05597516b9fe779dab1c",
