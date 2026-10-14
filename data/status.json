@@ -1,82 +1,82 @@
 {
-  "last_successful_refresh": "2026-10-13T20:49:32Z",
-  "successful_sources": 48,
+  "last_successful_refresh": "2026-10-14T00:59:04Z",
+  "successful_sources": 47,
   "article_counts": {
-    "world": 857,
-    "russia-ukraine": 940,
-    "technology": 442,
-    "estonia": 447,
-    "southeast-asia": 314
+    "world": 868,
+    "russia-ukraine": 941,
+    "technology": 458,
+    "southeast-asia": 319,
+    "estonia": 414
   },
   "sources": [
     {
       "id": "al-jazeera",
-      "checked_at": "2026-10-13T20:49:32Z",
+      "checked_at": "2026-10-14T00:59:04Z",
       "status": "ok",
       "http_status": 200,
       "parsed_entries": 25,
       "recent_articles": 25,
-      "latest_article": "2026-10-13T20:33:10Z",
+      "latest_article": "2026-10-14T00:27:52Z",
       "skipped_dates": 0,
       "feed_format": "rss20",
       "final_feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "last_success": "2026-10-13T20:49:32Z"
+      "last_success": "2026-10-14T00:59:04Z"
     },
     {
       "id": "ars",
-      "checked_at": "2026-10-13T20:49:32Z",
+      "checked_at": "2026-10-14T00:59:04Z",
       "status": "ok",
       "http_status": 200,
       "parsed_entries": 20,
       "recent_articles": 20,
-      "latest_article": "2026-10-13T17:33:20Z",
+      "latest_article": "2026-10-13T22:48:12Z",
       "skipped_dates": 0,
       "feed_format": "rss20",
       "final_feed_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "last_success": "2026-10-13T20:49:32Z"
+      "last_success": "2026-10-14T00:59:04Z"
     },
     {
       "id": "bangkok-post",
-      "checked_at": "2026-10-13T20:49:32Z",
+      "checked_at": "2026-10-14T00:59:04Z",
       "status": "ok",
       "http_status": 200,
       "parsed_entries": 10,
       "recent_articles": 10,
-      "latest_article": "2026-10-13T07:31:00Z",
+      "latest_article": "2026-10-13T22:41:00Z",
       "skipped_dates": 0,
       "feed_format": "rss20",
       "final_feed_url": "https://www.bangkokpost.com/rss/data/topstories.xml",
-      "last_success": "2026-10-13T20:49:32Z"
+      "last_success": "2026-10-14T00:59:04Z"
     },
     {
       "id": "bbc-ru",
-      "checked_at": "2026-10-13T20:49:32Z",
+      "checked_at": "2026-10-14T00:59:04Z",
       "status": "ok",
       "http_status": 200,
       "parsed_entries": 36,
       "recent_articles": 33,
-      "latest_article": "2026-10-13T20:37:22Z",
+      "latest_article": "2026-10-13T23:02:43Z",
       "skipped_dates": 2,
       "feed_format": "rss20",
       "final_feed_url": "https://feeds.bbci.co.uk/russian/rss.xml",
-      "last_success": "2026-10-13T20:49:32Z"
+      "last_success": "2026-10-14T00:59:04Z"
     },
     {
       "id": "bbc-world",
-      "checked_at": "2026-10-13T20:49:32Z",
+      "checked_at": "2026-10-14T00:59:04Z",
       "status": "ok",
       "http_status": 200,
-      "parsed_entries": 26,
-      "recent_articles": 26,
-      "latest_article": "2026-10-13T20:46:06Z",
+      "parsed_entries": 23,
+      "recent_articles": 23,
+      "latest_article": "2026-10-14T00:17:00Z",
       "skipped_dates": 0,
       "feed_format": "rss20",
       "final_feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "last_success": "2026-10-13T20:49:32Z"
+      "last_success": "2026-10-14T00:59:04Z"
     },
     {
       "id": "cambodia-investment-review",
-      "checked_at": "2026-10-13T20:49:32Z",
+      "checked_at": "2026-10-14T00:59:04Z",
       "status": "ok",
       "http_status": 200,
       "parsed_entries": 10,
@@ -85,50 +85,50 @@
       "skipped_dates": 0,
       "feed_format": "rss20",
       "final_feed_url": "https://cambodiainvestmentreview.com/feed/",
-      "last_success": "2026-10-13T20:49:32Z"
+      "last_success": "2026-10-14T00:59:04Z"
     },
     {
       "id": "cbc-world",
-      "checked_at": "2026-10-13T20:49:32Z",
+      "checked_at": "2026-10-14T00:59:04Z",
       "status": "ok",
       "http_status": 200,
       "parsed_entries": 20,
       "recent_articles": 20,
-      "latest_article": "2026-10-13T19:38:16Z",
+      "latest_article": "2026-10-13T21:05:12Z",
       "skipped_dates": 0,
       "feed_format": "rss20",
       "final_feed_url": "https://www.cbc.ca/webfeed/rss/rss-world",
-      "last_success": "2026-10-13T20:49:32Z"
+      "last_success": "2026-10-14T00:59:04Z"
     },
     {
       "id": "cna-asia",
-      "checked_at": "2026-10-13T20:49:32Z",
+      "checked_at": "2026-10-14T00:59:04Z",
       "status": "ok",
       "http_status": 200,
       "parsed_entries": 20,
-      "recent_articles": 9,
-      "latest_article": "2026-10-13T10:47:00Z",
+      "recent_articles": 10,
+      "latest_article": "2026-10-13T22:00:00Z",
       "skipped_dates": 0,
       "feed_format": "rss20",
       "final_feed_url": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6511",
-      "last_success": "2026-10-13T20:49:32Z"
+      "last_success": "2026-10-14T00:59:04Z"
     },
     {
       "id": "coindesk",
-      "checked_at": "2026-10-13T20:49:32Z",
+      "checked_at": "2026-10-14T00:59:04Z",
       "status": "ok",
       "http_status": 200,
       "parsed_entries": 25,
       "recent_articles": 25,
-      "latest_article": "2026-10-13T15:52:09Z",
+      "latest_article": "2026-10-13T23:23:05Z",
       "skipped_dates": 0,
       "feed_format": "rss20",
       "final_feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss",
-      "last_success": "2026-10-13T20:49:32Z"
+      "last_success": "2026-10-14T00:59:04Z"
     },
     {
       "id": "conversation",
-      "checked_at": "2026-10-13T20:49:32Z",
+      "checked_at": "2026-10-14T00:59:04Z",
       "status": "ok",
       "http_status": 200,
       "parsed_entries": 50,
@@ -137,11 +137,11 @@
       "skipped_dates": 0,
       "feed_format": "atom10",
       "final_feed_url": "https://theconversation.com/global/articles.atom",
-      "last_success": "2026-10-13T20:49:32Z"
+      "last_success": "2026-10-14T00:59:04Z"
     },
     {
       "id": "decoder",
-      "checked_at": "2026-10-13T20:49:32Z",
+      "checked_at": "2026-10-14T00:59:04Z",
       "status": "ok",
       "http_status": 200,
       "parsed_entries": 10,
@@ -150,63 +150,63 @@
       "skipped_dates": 0,
       "feed_format": "rss20",
       "final_feed_url": "https://the-decoder.com/feed/",
-      "last_success": "2026-10-13T20:49:32Z"
+      "last_success": "2026-10-14T00:59:04Z"
     },
     {
       "id": "decrypt",
-      "checked_at": "2026-10-13T20:49:32Z",
+      "checked_at": "2026-10-14T00:59:04Z",
       "status": "ok",
       "http_status": 200,
       "parsed_entries": 33,
       "recent_articles": 33,
-      "latest_article": "2026-10-13T20:16:03Z",
+      "latest_article": "2026-10-13T21:46:04Z",
       "skipped_dates": 0,
       "feed_format": "rss20",
       "final_feed_url": "https://decrypt.co/feed",
-      "last_success": "2026-10-13T20:49:32Z"
+      "last_success": "2026-10-14T00:59:04Z"
     },
     {
       "id": "dw-en",
-      "checked_at": "2026-10-13T20:49:32Z",
+      "checked_at": "2026-10-14T00:59:04Z",
       "status": "ok",
       "http_status": 200,
-      "parsed_entries": 139,
-      "recent_articles": 67,
-      "latest_article": "2026-10-13T19:50:00Z",
+      "parsed_entries": 137,
+      "recent_articles": 69,
+      "latest_article": "2026-10-14T00:50:00Z",
       "skipped_dates": 0,
       "feed_format": "rss10",
       "final_feed_url": "https://rss.dw.com/rdf/rss-en-all",
-      "last_success": "2026-10-13T20:49:32Z"
+      "last_success": "2026-10-14T00:59:04Z"
     },
     {
       "id": "dw-ru",
-      "checked_at": "2026-10-13T20:49:32Z",
+      "checked_at": "2026-10-14T00:59:04Z",
       "status": "ok",
       "http_status": 200,
       "parsed_entries": 75,
       "recent_articles": 36,
-      "latest_article": "2026-10-13T20:03:00Z",
+      "latest_article": "2026-10-14T00:14:00Z",
       "skipped_dates": 0,
       "feed_format": "rss10",
       "final_feed_url": "https://rss.dw.com/rdf/rss-ru-all",
-      "last_success": "2026-10-13T20:49:32Z"
+      "last_success": "2026-10-14T00:59:04Z"
     },
     {
       "id": "engadget",
-      "checked_at": "2026-10-13T20:49:32Z",
+      "checked_at": "2026-10-14T00:59:04Z",
       "status": "ok",
       "http_status": 200,
       "parsed_entries": 20,
       "recent_articles": 20,
-      "latest_article": "2026-10-13T18:30:00Z",
+      "latest_article": "2026-10-14T00:00:00Z",
       "skipped_dates": 0,
       "feed_format": "rss20",
       "final_feed_url": "https://www.engadget.com/rss.xml",
-      "last_success": "2026-10-13T20:49:32Z"
+      "last_success": "2026-10-14T00:59:04Z"
     },
     {
       "id": "err-en",
-      "checked_at": "2026-10-13T20:49:32Z",
+      "checked_at": "2026-10-14T00:59:04Z",
       "status": "ok",
       "http_status": 200,
       "parsed_entries": 50,
@@ -215,11 +215,11 @@
       "skipped_dates": 0,
       "feed_format": "rss20",
       "final_feed_url": "https://news.err.ee/rss",
-      "last_success": "2026-10-13T20:49:32Z"
+      "last_success": "2026-10-14T00:59:04Z"
     },
     {
       "id": "err-novaator",
-      "checked_at": "2026-10-13T20:49:32Z",
+      "checked_at": "2026-10-14T00:59:04Z",
       "status": "ok",
       "http_status": 200,
       "parsed_entries": 50,
@@ -228,37 +228,37 @@
       "skipped_dates": 0,
       "feed_format": "rss20",
       "final_feed_url": "https://novaator.err.ee/rss",
-      "last_success": "2026-10-13T20:49:32Z"
+      "last_success": "2026-10-14T00:59:04Z"
     },
     {
       "id": "err-sport",
-      "checked_at": "2026-10-13T20:49:32Z",
+      "checked_at": "2026-10-14T00:59:04Z",
       "status": "ok",
       "http_status": 200,
       "parsed_entries": 50,
       "recent_articles": 50,
-      "latest_article": "2026-10-13T19:56:00Z",
+      "latest_article": "2026-10-13T20:58:00Z",
       "skipped_dates": 0,
       "feed_format": "rss20",
       "final_feed_url": "https://sport.err.ee/rss",
-      "last_success": "2026-10-13T20:49:32Z"
+      "last_success": "2026-10-14T00:59:04Z"
     },
     {
       "id": "err-uudised",
-      "checked_at": "2026-10-13T20:49:32Z",
+      "checked_at": "2026-10-14T00:59:04Z",
       "status": "ok",
       "http_status": 200,
       "parsed_entries": 50,
       "recent_articles": 50,
-      "latest_article": "2026-10-13T19:56:00Z",
+      "latest_article": "2026-10-13T20:58:00Z",
       "skipped_dates": 0,
       "feed_format": "rss20",
       "final_feed_url": "https://www.err.ee/rss",
-      "last_success": "2026-10-13T20:49:32Z"
+      "last_success": "2026-10-14T00:59:04Z"
     },
     {
       "id": "estonian-world",
-      "checked_at": "2026-10-13T20:49:32Z",
+      "checked_at": "2026-10-14T00:59:04Z",
       "status": "ok",
       "http_status": 200,
       "parsed_entries": 20,
@@ -267,50 +267,50 @@
       "skipped_dates": 0,
       "feed_format": "rss20",
       "final_feed_url": "https://estonianworld.com/feed/",
-      "last_success": "2026-10-13T20:49:32Z"
+      "last_success": "2026-10-14T00:59:04Z"
     },
     {
       "id": "euromaidan",
-      "checked_at": "2026-10-13T20:49:32Z",
+      "checked_at": "2026-10-14T00:59:04Z",
       "status": "ok",
       "http_status": 200,
       "parsed_entries": 29,
       "recent_articles": 29,
-      "latest_article": "2026-10-13T20:45:57Z",
+      "latest_article": "2026-10-13T22:40:48Z",
       "skipped_dates": 0,
       "feed_format": "rss20",
       "final_feed_url": "https://euromaidanpress.com/feed/",
-      "last_success": "2026-10-13T20:49:32Z"
+      "last_success": "2026-10-14T00:59:04Z"
     },
     {
       "id": "france24",
-      "checked_at": "2026-10-13T20:49:32Z",
+      "checked_at": "2026-10-14T00:59:04Z",
       "status": "ok",
       "http_status": 200,
       "parsed_entries": 24,
       "recent_articles": 24,
-      "latest_article": "2026-10-13T20:44:58Z",
+      "latest_article": "2026-10-14T00:41:22Z",
       "skipped_dates": 0,
       "feed_format": "rss20",
       "final_feed_url": "https://www.france24.com/en/rss",
-      "last_success": "2026-10-13T20:49:32Z"
+      "last_success": "2026-10-14T00:59:04Z"
     },
     {
       "id": "guardian-world",
-      "checked_at": "2026-10-13T20:49:32Z",
+      "checked_at": "2026-10-14T00:59:04Z",
       "status": "ok",
       "http_status": 200,
       "parsed_entries": 45,
       "recent_articles": 45,
-      "latest_article": "2026-10-13T20:42:10Z",
+      "latest_article": "2026-10-14T00:39:32Z",
       "skipped_dates": 0,
       "feed_format": "rss20",
       "final_feed_url": "https://www.theguardian.com/world/rss",
-      "last_success": "2026-10-13T20:49:32Z"
+      "last_success": "2026-10-14T00:59:04Z"
     },
     {
       "id": "hugging-face",
-      "checked_at": "2026-10-13T20:49:32Z",
+      "checked_at": "2026-10-14T00:59:04Z",
       "status": "ok",
       "http_status": 200,
       "parsed_entries": 876,
@@ -319,11 +319,11 @@
       "skipped_dates": 0,
       "feed_format": "rss20",
       "final_feed_url": "https://huggingface.co/blog/feed.xml",
-      "last_success": "2026-10-13T20:49:32Z"
+      "last_success": "2026-10-14T00:59:04Z"
     },
     {
       "id": "ieee",
-      "checked_at": "2026-10-13T20:49:32Z",
+      "checked_at": "2026-10-14T00:59:04Z",
       "status": "ok",
       "http_status": 200,
       "parsed_entries": 30,
@@ -332,11 +332,11 @@
       "skipped_dates": 0,
       "feed_format": "rss20",
       "final_feed_url": "https://spectrum.ieee.org/feeds/feed.rss",
-      "last_success": "2026-10-13T20:49:32Z"
+      "last_success": "2026-10-14T00:59:04Z"
     },
     {
       "id": "irrawaddy",
-      "checked_at": "2026-10-13T20:49:32Z",
+      "checked_at": "2026-10-14T00:59:04Z",
       "status": "ok",
       "http_status": 200,
       "parsed_entries": 10,
@@ -345,11 +345,11 @@
       "skipped_dates": 0,
       "feed_format": "rss20",
       "final_feed_url": "https://www.irrawaddy.com/feed",
-      "last_success": "2026-10-13T20:49:32Z"
+      "last_success": "2026-10-14T00:59:04Z"
     },
     {
       "id": "istories",
-      "checked_at": "2026-10-13T20:49:32Z",
+      "checked_at": "2026-10-14T00:59:04Z",
       "status": "ok",
       "http_status": 200,
       "parsed_entries": 30,
@@ -358,11 +358,11 @@
       "skipped_dates": 0,
       "feed_format": "rss20",
       "final_feed_url": "https://istories.media/rss/all.xml",
-      "last_success": "2026-10-13T20:49:32Z"
+      "last_success": "2026-10-14T00:59:04Z"
     },
     {
       "id": "khaosod-en",
-      "checked_at": "2026-10-13T20:49:32Z",
+      "checked_at": "2026-10-14T00:59:04Z",
       "status": "ok",
       "http_status": 200,
       "parsed_entries": 5,
@@ -371,24 +371,24 @@
       "skipped_dates": 0,
       "feed_format": "rss20",
       "final_feed_url": "https://www.khaosodenglish.com/feed/",
-      "last_success": "2026-10-13T20:49:32Z"
+      "last_success": "2026-10-14T00:59:04Z"
     },
     {
       "id": "kyiv-independent",
-      "checked_at": "2026-10-13T20:49:32Z",
+      "checked_at": "2026-10-14T00:59:04Z",
       "status": "ok",
       "http_status": 200,
       "parsed_entries": 15,
       "recent_articles": 15,
-      "latest_article": "2026-10-13T20:13:25Z",
+      "latest_article": "2026-10-14T00:00:27Z",
       "skipped_dates": 0,
       "feed_format": "rss20",
       "final_feed_url": "https://kyivindependent.com/news-archive/rss/",
-      "last_success": "2026-10-13T20:49:32Z"
+      "last_success": "2026-10-14T00:59:04Z"
     },
     {
       "id": "laotian-times",
-      "checked_at": "2026-10-13T20:49:32Z",
+      "checked_at": "2026-10-14T00:59:04Z",
       "status": "ok",
       "http_status": 200,
       "parsed_entries": 13,
@@ -397,11 +397,11 @@
       "skipped_dates": 0,
       "feed_format": "rss20",
       "final_feed_url": "https://laotiantimes.com/category/allnews/feed/",
-      "last_success": "2026-10-13T20:49:32Z"
+      "last_success": "2026-10-14T00:59:04Z"
     },
     {
       "id": "mediazona",
-      "checked_at": "2026-10-13T20:49:32Z",
+      "checked_at": "2026-10-14T00:59:04Z",
       "status": "ok",
       "http_status": 200,
       "parsed_entries": 50,
@@ -410,37 +410,37 @@
       "skipped_dates": 0,
       "feed_format": "rss20",
       "final_feed_url": "https://zona.media/rss",
-      "last_success": "2026-10-13T20:49:32Z"
+      "last_success": "2026-10-14T00:59:04Z"
     },
     {
       "id": "meduza",
-      "checked_at": "2026-10-13T20:49:32Z",
+      "checked_at": "2026-10-14T00:59:04Z",
       "status": "ok",
       "http_status": 200,
       "parsed_entries": 30,
       "recent_articles": 30,
-      "latest_article": "2026-10-13T20:35:24Z",
+      "latest_article": "2026-10-13T20:49:45Z",
       "skipped_dates": 0,
       "feed_format": "rss20",
       "final_feed_url": "https://meduza.io/rss/all",
-      "last_success": "2026-10-13T20:49:32Z"
+      "last_success": "2026-10-14T00:59:04Z"
     },
     {
       "id": "mit-ai",
-      "checked_at": "2026-10-13T20:49:32Z",
+      "checked_at": "2026-10-14T00:59:04Z",
       "status": "ok",
       "http_status": 200,
       "parsed_entries": 50,
       "recent_articles": 6,
-      "latest_article": "2026-10-13T20:40:00Z",
+      "latest_article": "2026-10-13T21:00:00Z",
       "skipped_dates": 0,
       "feed_format": "rss20",
       "final_feed_url": "https://news.mit.edu/rss/topic/artificial-intelligence2",
-      "last_success": "2026-10-13T20:49:32Z"
+      "last_success": "2026-10-14T00:59:04Z"
     },
     {
       "id": "moscow-times",
-      "checked_at": "2026-10-13T20:49:32Z",
+      "checked_at": "2026-10-14T00:59:04Z",
       "status": "ok",
       "http_status": 200,
       "parsed_entries": 50,
@@ -449,11 +449,11 @@
       "skipped_dates": 0,
       "feed_format": "rss20",
       "final_feed_url": "https://www.themoscowtimes.com/rss/news",
-      "last_success": "2026-10-13T20:49:32Z"
+      "last_success": "2026-10-14T00:59:04Z"
     },
     {
       "id": "muurileht",
-      "checked_at": "2026-10-13T20:49:32Z",
+      "checked_at": "2026-10-14T00:59:04Z",
       "status": "ok",
       "http_status": 200,
       "parsed_entries": 100,
@@ -462,11 +462,11 @@
       "skipped_dates": 0,
       "feed_format": "rss20",
       "final_feed_url": "https://www.muurileht.ee/feed/",
-      "last_success": "2026-10-13T20:49:32Z"
+      "last_success": "2026-10-14T00:59:04Z"
     },
     {
       "id": "novaya-europe",
-      "checked_at": "2026-10-13T20:49:32Z",
+      "checked_at": "2026-10-14T00:59:04Z",
       "status": "ok",
       "http_status": 200,
       "parsed_entries": 100,
@@ -475,11 +475,11 @@
       "skipped_dates": 0,
       "feed_format": "rss20",
       "final_feed_url": "https://novayagazeta.eu/feed/rss",
-      "last_success": "2026-10-13T20:49:32Z"
+      "last_success": "2026-10-14T00:59:04Z"
     },
     {
       "id": "npr-world",
-      "checked_at": "2026-10-13T20:49:32Z",
+      "checked_at": "2026-10-14T00:59:04Z",
       "status": "ok",
       "http_status": 200,
       "parsed_entries": 10,
@@ -488,37 +488,31 @@
       "skipped_dates": 0,
       "feed_format": "rss20",
       "final_feed_url": "https://feeds.npr.org/1004/rss.xml",
-      "last_success": "2026-10-13T20:49:32Z"
+      "last_success": "2026-10-14T00:59:04Z"
     },
     {
       "id": "pbs-world",
-      "checked_at": "2026-10-13T20:49:32Z",
+      "checked_at": "2026-10-14T00:59:04Z",
       "status": "ok",
       "http_status": 200,
       "parsed_entries": 20,
       "recent_articles": 20,
-      "latest_article": "2026-10-13T20:29:07Z",
+      "latest_article": "2026-10-13T23:32:57Z",
       "skipped_dates": 0,
       "feed_format": "rss20",
       "final_feed_url": "https://www.pbs.org/newshour/feeds/rss/world",
-      "last_success": "2026-10-13T20:49:32Z"
+      "last_success": "2026-10-14T00:59:04Z"
     },
     {
       "id": "register",
-      "checked_at": "2026-10-13T20:49:32Z",
-      "status": "ok",
-      "http_status": 200,
-      "parsed_entries": 50,
-      "recent_articles": 50,
-      "latest_article": "2026-10-13T19:16:53Z",
-      "skipped_dates": 0,
-      "feed_format": "rss20",
-      "final_feed_url": "https://api.theregister.com/api/v1/article?orderBy=published&site_id=2&remapper=rss",
+      "checked_at": "2026-10-14T00:59:04Z",
+      "status": "error",
+      "error": "ValueError: Endpoint did not provide a nonempty RSS/Atom feed",
       "last_success": "2026-10-13T20:49:32Z"
     },
     {
       "id": "rest-of-world",
-      "checked_at": "2026-10-13T20:49:32Z",
+      "checked_at": "2026-10-14T00:59:04Z",
       "status": "ok",
       "http_status": 200,
       "parsed_entries": 12,
@@ -527,11 +521,11 @@
       "skipped_dates": 0,
       "feed_format": "rss20",
       "final_feed_url": "https://restofworld.org/feed/latest",
-      "last_success": "2026-10-13T20:49:32Z"
+      "last_success": "2026-10-14T00:59:04Z"
     },
     {
       "id": "sirp",
-      "checked_at": "2026-10-13T20:49:32Z",
+      "checked_at": "2026-10-14T00:59:04Z",
       "status": "ok",
       "http_status": 200,
       "parsed_entries": 100,
@@ -540,24 +534,24 @@
       "skipped_dates": 0,
       "feed_format": "rss20",
       "final_feed_url": "https://www.sirp.ee/feed/",
-      "last_success": "2026-10-13T20:49:32Z"
+      "last_success": "2026-10-14T00:59:04Z"
     },
     {
       "id": "techcrunch-ai",
-      "checked_at": "2026-10-13T20:49:32Z",
+      "checked_at": "2026-10-14T00:59:04Z",
       "status": "ok",
       "http_status": 200,
       "parsed_entries": 20,
       "recent_articles": 20,
-      "latest_article": "2026-10-13T20:36:44Z",
+      "latest_article": "2026-10-13T23:13:31Z",
       "skipped_dates": 0,
       "feed_format": "rss20",
       "final_feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "last_success": "2026-10-13T20:49:32Z"
+      "last_success": "2026-10-14T00:59:04Z"
     },
     {
       "id": "thai-enquirer",
-      "checked_at": "2026-10-13T20:49:32Z",
+      "checked_at": "2026-10-14T00:59:04Z",
       "status": "ok",
       "http_status": 200,
       "parsed_entries": 10,
@@ -566,11 +560,11 @@
       "skipped_dates": 0,
       "feed_format": "rss20",
       "final_feed_url": "https://www.thaienquirer.com/feed/",
-      "last_success": "2026-10-13T20:49:32Z"
+      "last_success": "2026-10-14T00:59:04Z"
     },
     {
       "id": "thaiger",
-      "checked_at": "2026-10-13T20:49:32Z",
+      "checked_at": "2026-10-14T00:59:04Z",
       "status": "ok",
       "http_status": 200,
       "parsed_entries": 10,
@@ -579,50 +573,50 @@
       "skipped_dates": 0,
       "feed_format": "rss20",
       "final_feed_url": "https://thethaiger.com/feed",
-      "last_success": "2026-10-13T20:49:32Z"
+      "last_success": "2026-10-14T00:59:04Z"
     },
     {
       "id": "ukrinform",
-      "checked_at": "2026-10-13T20:49:32Z",
+      "checked_at": "2026-10-14T00:59:04Z",
       "status": "ok",
       "http_status": 200,
       "parsed_entries": 30,
       "recent_articles": 30,
-      "latest_article": "2026-10-13T20:26:00Z",
+      "latest_article": "2026-10-13T23:45:00Z",
       "skipped_dates": 0,
       "feed_format": "rss20",
       "final_feed_url": "https://www.ukrinform.net/rss/block-lastnews",
-      "last_success": "2026-10-13T20:49:32Z"
+      "last_success": "2026-10-14T00:59:04Z"
     },
     {
       "id": "verge",
-      "checked_at": "2026-10-13T20:49:32Z",
+      "checked_at": "2026-10-14T00:59:04Z",
       "status": "ok",
       "http_status": 200,
       "parsed_entries": 10,
       "recent_articles": 10,
-      "latest_article": "2026-10-13T20:45:25Z",
+      "latest_article": "2026-10-13T22:10:00Z",
       "skipped_dates": 0,
       "feed_format": "atom10",
       "final_feed_url": "https://www.theverge.com/rss/index.xml",
-      "last_success": "2026-10-13T20:49:32Z"
+      "last_success": "2026-10-14T00:59:04Z"
     },
     {
       "id": "vietnam-news",
-      "checked_at": "2026-10-13T20:49:32Z",
+      "checked_at": "2026-10-14T00:59:04Z",
       "status": "ok",
       "http_status": 200,
       "parsed_entries": 20,
       "recent_articles": 20,
-      "latest_article": "2026-10-12T13:39:46Z",
+      "latest_article": "2026-10-13T16:07:30Z",
       "skipped_dates": 0,
       "feed_format": "rss20",
       "final_feed_url": "https://vietnamnews.vn/rss/society.rss",
-      "last_success": "2026-10-13T20:49:32Z"
+      "last_success": "2026-10-14T00:59:04Z"
     },
     {
       "id": "vnexpress-en",
-      "checked_at": "2026-10-13T20:49:32Z",
+      "checked_at": "2026-10-14T00:59:04Z",
       "status": "ok",
       "http_status": 200,
       "parsed_entries": 60,
@@ -631,7 +625,7 @@
       "skipped_dates": 0,
       "feed_format": "rss20",
       "final_feed_url": "https://e.vnexpress.net/rss/news.rss",
-      "last_success": "2026-10-13T20:49:32Z"
+      "last_success": "2026-10-14T00:59:04Z"
     }
   ]
 }
