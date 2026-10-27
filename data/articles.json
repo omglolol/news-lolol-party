@@ -1,5 +1,5 @@
 {
-  "last_successful_refresh": "2026-10-27T01:03:49Z",
+  "last_successful_refresh": "2026-10-27T04:48:47Z",
   "articles": [
     {
       "id": "0004392e0757d5cf70c9568b",
@@ -132,18 +132,6 @@
       "excerpt": "The Transport Ministry will propose the extension of the 40-baht day-tripper rate on the two Red Lines and the Purple line for another year, with the current promotion due to end on Nov 30.",
       "category": "southeast-asia",
       "language": "en"
-    },
-    {
-      "id": "017601fbaba473eebe1ea1c6",
-      "title": "Medvedev kaitses esmakordselt karjääris tiitlit",
-      "url": "https://sport.err.ee/1610176558/medvedev-kaitses-esmakordselt-karjaaris-tiitlit",
-      "original_url": "https://sport.err.ee/1610176558/medvedev-kaitses-esmakordselt-karjaaris-tiitlit",
-      "source": "err-uudised",
-      "published_at": "2026-10-25T13:29:00Z",
-      "date_basis": "published",
-      "excerpt": "Maailma viies reket Daniil Medvedev võitis Kasahstanis Almatõs toimunud ATP 250 turniiri finaalis grusiini Nikoloz Basilašvilit (ATP 128.) 6:7 (6), 6:1, 6:3. See on esimene kord, kui Medvedevil on õnnestunud ATP karussellis oma tiitlit kaitsta.",
-      "category": "estonia",
-      "language": "et"
     },
     {
       "id": "01bb838024087872895de843",
@@ -398,6 +386,30 @@
       "language": "ru"
     },
     {
+      "id": "0372e57c89d8674ee5162543",
+      "title": "Harry Kane wins Ballon d’Or, ending England’s 25-year wait",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/harry-kane-wins-ballon-dor-ending-englands-25-year-wait?traffic_source=rss",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/harry-kane-wins-ballon-dor-ending-englands-25-year-wait?traffic_source=rss",
+      "source": "al-jazeera",
+      "published_at": "2026-10-27T01:20:56Z",
+      "date_basis": "published",
+      "excerpt": "Bayern Munich and England striker Harry Kane has won his first Ballon d’Or after a record-breaking season.",
+      "category": "world",
+      "language": "en"
+    },
+    {
+      "id": "038b41bf1893c144ebc939e2",
+      "title": "Japanese virtual desktop cloud hacked so hard it asks to be banned",
+      "url": "https://www.theregister.com/security/2026/10/27/japanese-virtual-desktop-cloud-hacked-so-hard-it-asks-to-be-banned/5305610",
+      "original_url": "https://www.theregister.com/security/2026/10/27/japanese-virtual-desktop-cloud-hacked-so-hard-it-asks-to-be-banned/5305610",
+      "source": "register",
+      "published_at": "2026-10-27T01:06:22Z",
+      "date_basis": "published",
+      "excerpt": "CEO admits service used for foreign exchange trading had holes company was slow to fix",
+      "category": "technology",
+      "language": "en"
+    },
+    {
       "id": "03b7bbf63d90f070e0db0dfe",
       "title": "French far-right leader Le Pen seeks to leverage unrest in presidential campaign kick-off",
       "url": "https://www.france24.com/en/france/20261025-french-far-right-leader-le-pen-seeks-to-leverage-unrest-in-presidential-campaign-kick-off",
@@ -480,18 +492,6 @@
       "excerpt": "Победу в многолетнем споре о судьбе карет одержали защитники животных. Кучеры и владельцы лошадей обещают подать в суд.",
       "category": "russia-ukraine",
       "language": "ru"
-    },
-    {
-      "id": "043bd9f1977dc66fd3e7af1b",
-      "title": "General Staff: Ukraine to implement ceasefire in Oleshky area starting October 27",
-      "url": "https://www.ukrinform.net/rubric-ato/4177661-general-staff-ukraine-to-implement-ceasefire-in-oleshky-area-starting-october-27.html",
-      "original_url": "https://www.ukrinform.net/rubric-ato/4177661-general-staff-ukraine-to-implement-ceasefire-in-oleshky-area-starting-october-27.html",
-      "source": "ukrinform",
-      "published_at": "2026-10-23T20:59:00Z",
-      "date_basis": "published",
-      "excerpt": "Starting at midnight on October 27, Ukraine is implementing a ceasefire in a designated area to conduct a humanitarian operation in the temporarily occupied town of Oleshky.",
-      "category": "russia-ukraine",
-      "language": "en"
     },
     {
       "id": "044e9ddc62a519463b9f0b36",
@@ -1154,6 +1154,30 @@
       "language": "en"
     },
     {
+      "id": "085eb849c8e61374ab9c8e5b",
+      "title": "Beau Lamarre-Condon tells jury he wanted to report deaths but friend encouraged him to dispose of bodies",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/27/beau-lamarre-condon-claims-friend-lied-to-police-first-statement-to-trial-ntwnfb",
+      "original_url": "https://www.theguardian.com/australia-news/2026/oct/27/beau-lamarre-condon-claims-friend-lied-to-police-first-statement-to-trial-ntwnfb",
+      "source": "guardian-world",
+      "published_at": "2026-10-27T02:18:46Z",
+      "date_basis": "published",
+      "excerpt": "NSW police officer accused of murdering Jesse Baird and Luke Davies tells court he wanted to do ‘right thing’ by their families Follow our Australian politics live blog for latest updates Get our breaking news email, free app or daily news podcast Beau Lamarre-Condon has accused a friend of encouraging him to dispose…",
+      "category": "world",
+      "language": "en"
+    },
+    {
+      "id": "08635bef77b0428f34d6f062",
+      "title": "Economy Ministry again revises 2026 GDP forecast downward",
+      "url": "https://www.ukrinform.net/rubric-economy/4178224-economy-ministry-again-revises-2026-gdp-forecast-downward.html",
+      "original_url": "https://www.ukrinform.net/rubric-economy/4178224-economy-ministry-again-revises-2026-gdp-forecast-downward.html",
+      "source": "ukrinform",
+      "published_at": "2026-10-27T01:32:00Z",
+      "date_basis": "published",
+      "excerpt": "The Ministry of Economy is once again revising its forecast for GDP growth in 2026, this time toward a lower estimate.",
+      "category": "russia-ukraine",
+      "language": "en"
+    },
+    {
       "id": "086417e9803048283b965256",
       "title": "The FCC is beginning to block gadgets with ‘foreign surveillance chips’",
       "url": "https://www.theverge.com/policy/1017016/fcc-block-foreign-surveillance-chips-hivision-huawei-loophole",
@@ -1226,16 +1250,16 @@
       "language": "ru"
     },
     {
-      "id": "0981a0ad41578b18ad97ccd7",
-      "title": "Суд в России приговорил шестерых крымчан к срокам от 15 до 19 лет по делу о создании террористической ячейки и попытке насильственного захвата власти",
-      "url": "https://www.dw.com/ru/суд-в-россии-приговорил-шестерых-крымчан-к-срокам-от-15-до-19-лет-по-делу-о-создании-террористической-ячейки-и-попытке-насильственного-захвата-власти/a-79727415?maca=rus-rss-ru-all-1126-rdf",
-      "original_url": "https://www.dw.com/ru/суд-в-россии-приговорил-шестерых-крымчан-к-срокам-от-15-до-19-лет-по-делу-о-создании-террористической-ячейки-и-попытке-насильственного-захвата-власти/a-79727415?maca=rus-rss-ru-all-1126-rdf",
-      "source": "dw-ru",
-      "published_at": "2026-10-22T01:21:00Z",
-      "date_basis": "updated",
-      "excerpt": "В РФ дали от 15 до 19 лет заключения шестерым жителям аннексированного Крыма по делу о создании террористической ячейки и попытке захвата власти. Фигуранты, активисты \"Крымской солидарности\", назвали дело сфабрикованным.",
-      "category": "russia-ukraine",
-      "language": "ru"
+      "id": "094dcdbc377186762103e27f",
+      "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+      "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+      "original_url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+      "source": "techcrunch-ai",
+      "published_at": "2026-10-27T01:12:21Z",
+      "date_basis": "published",
+      "excerpt": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
+      "category": "technology",
+      "language": "en"
     },
     {
       "id": "09e0c2f99eebd6170226c9c1",
@@ -1490,18 +1514,6 @@
       "language": "en"
     },
     {
-      "id": "0b9d0159e2181eeab4ec942b",
-      "title": "A critical flaw affecting 70% of all websites has the cybersecurity world panicked",
-      "url": "https://theconversation.com/a-critical-flaw-affecting-70-of-all-websites-has-the-cybersecurity-world-panicked-294941",
-      "original_url": "https://theconversation.com/a-critical-flaw-affecting-70-of-all-websites-has-the-cybersecurity-world-panicked-294941",
-      "source": "conversation",
-      "published_at": "2026-10-22T00:43:33Z",
-      "date_basis": "published",
-      "excerpt": "Millions of websites and online tools have relied on the PHP language for decades – but newly disclosed bugs could let hackers easily take them over.",
-      "category": "world",
-      "language": "en"
-    },
-    {
       "id": "0ba724df50a99ace2371f500",
       "title": "Kui oled endas kodunenud, pole kesta vaja",
       "url": "https://www.sirp.ee/kui-oled-endas-kodunenud-pole-kesta-vaja/",
@@ -1608,6 +1620,18 @@
       "excerpt": "British Prime Minister Andy Burnham held a phone call with U.S. President Donald Trump on Friday and emphasized the importance of ensuring Ukraine has full access to Starlink so it can continue defending itself against Russian aggression.",
       "category": "russia-ukraine",
       "language": "en"
+    },
+    {
+      "id": "0c7d845c807ff954adcbcf2e",
+      "title": "В оккупированных армией РФ Алешках вступило в силу временное перемирие для эвакуации мирных жителей",
+      "url": "https://www.dw.com/ru/в-оккупированных-армией-рф-алешках-вступило-в-силу-временное-перемирие-для-эвакуации-мирных-жителей/a-79771450?maca=rus-rss-ru-all-1126-rdf",
+      "original_url": "https://www.dw.com/ru/в-оккупированных-армией-рф-алешках-вступило-в-силу-временное-перемирие-для-эвакуации-мирных-жителей/a-79771450?maca=rus-rss-ru-all-1126-rdf",
+      "source": "dw-ru",
+      "published_at": "2026-10-27T02:42:00Z",
+      "date_basis": "updated",
+      "excerpt": "По сообщениям Генштаба ВСУ и Минобороны РФ, с 03:00 по киевскому времени введен двусторонний режим прекращения огня для проведения гуманитарной операции в оккупированных Алешках Херсонской области.",
+      "category": "russia-ukraine",
+      "language": "ru"
     },
     {
       "id": "0c8c92e7b88ed7bf8fc33b8e",
@@ -2302,18 +2326,6 @@
       "published_at": "2026-10-23T10:40:34Z",
       "date_basis": "published",
       "excerpt": "",
-      "category": "russia-ukraine",
-      "language": "ru"
-    },
-    {
-      "id": "10c1da0e6ebb35fa60626e38",
-      "title": "Кто снова поссорил Украину и Польшу?",
-      "url": "https://www.bbc.com/russian/podcasts/p076qqzl/p0pj10lg?at_campaign=rss&at_medium=RSS",
-      "original_url": "https://www.bbc.com/russian/podcasts/p076qqzl/p0pj10lg?at_medium=RSS&at_campaign=rss",
-      "source": "bbc-ru",
-      "published_at": "2026-10-22T00:00:00Z",
-      "date_basis": "published",
-      "excerpt": "И чем это закончится?",
       "category": "russia-ukraine",
       "language": "ru"
     },
@@ -3026,18 +3038,6 @@
       "language": "ru"
     },
     {
-      "id": "14fb8453340674e6d9ae6a21",
-      "title": "Zelensky: Russia waging hybrid war against Europe to undermine aid to Ukraine",
-      "url": "https://www.ukrinform.net/rubric-ato/4177660-zelensky-russia-waging-hybrid-war-against-europe-to-undermine-aid-to-ukraine.html",
-      "original_url": "https://www.ukrinform.net/rubric-ato/4177660-zelensky-russia-waging-hybrid-war-against-europe-to-undermine-aid-to-ukraine.html",
-      "source": "ukrinform",
-      "published_at": "2026-10-23T20:31:00Z",
-      "date_basis": "published",
-      "excerpt": "President Volodymyr Zelensky stated that Russia is waging a hybrid war against European countries, attacking them with drones in order to weaken support for Ukraine.",
-      "category": "russia-ukraine",
-      "language": "en"
-    },
-    {
       "id": "150902c5af8dd5dbd0377287",
       "title": "Attack on actor Tiger Shroff is dark reminder of Bollywood's gangster past",
       "url": "https://www.bbc.co.uk/news/articles/c6vgjk1lp7njo?at_campaign=rss&at_medium=RSS",
@@ -3395,18 +3395,6 @@
       "date_basis": "published",
       "excerpt": "Tallinn's Town Hall Square is set to undergo renovations in the coming years. The winning design proposal \"Pusle\" envisions urban furniture that would suit both a summer park and the traditional Christmas market.",
       "category": "estonia",
-      "language": "en"
-    },
-    {
-      "id": "186322af76996a4748a14c26",
-      "title": "120-year-old Seoul university to open college exclusively for international students",
-      "url": "https://e.vnexpress.net/news/news/education/120-year-old-seoul-university-to-open-college-exclusively-for-international-students-5134227.html",
-      "original_url": "https://e.vnexpress.net/news/news/education/120-year-old-seoul-university-to-open-college-exclusively-for-international-students-5134227.html",
-      "source": "vnexpress-en",
-      "published_at": "2026-10-22T00:54:42Z",
-      "date_basis": "published",
-      "excerpt": "Seoul's Dongguk University will open a college exclusively for international students in March 2028, with six majors including Hallyu (Korean Wave) culture, filmmaking, and theater and acting.",
-      "category": "southeast-asia",
       "language": "en"
     },
     {
@@ -3831,13 +3819,13 @@
     },
     {
       "id": "1a67b406551a13ed88e4a81e",
-      "title": "Paramedics caught under fire, university campus struck as Russian ballistic missile attack kills 1, injures 10 in Kyiv",
+      "title": "Russian ballistic missiles hit Kyiv university, medical centers, major bridge — 1 dead, 10 injured",
       "url": "https://kyivindependent.com/paramedics-caught-under-fire-as-russian-ballistic-missiles-slam-kyiv/",
       "original_url": "https://kyivindependent.com/paramedics-caught-under-fire-as-russian-ballistic-missiles-slam-kyiv/",
       "source": "kyiv-independent",
       "published_at": "2026-10-26T20:16:41Z",
       "date_basis": "published",
-      "excerpt": "\"Russian ballistic missiles struck the grounds of a university in Kyiv and the area around it — effectively the campus, Kyoto Park, the area near a metro station, and residential buildings,\" President Volodymyr Zelensky said.",
+      "excerpt": "A new wave of Russian ballistic missiles targeted the city again at around 3 a.m. local time, according to Kyiv Independent journalists on the ground.",
       "category": "russia-ukraine",
       "language": "en"
     },
@@ -4250,6 +4238,18 @@
       "language": "en"
     },
     {
+      "id": "1d95a1f7759e7929c3cf32f3",
+      "title": "Canadia Group Welcomes Philippine Trade Delegation to Discuss Business Cooperation",
+      "url": "https://cambodiainvestmentreview.com/2026/10/27/canadia-group-welcomes-philippine-trade-delegation-to-discuss-business-cooperation/",
+      "original_url": "https://cambodiainvestmentreview.com/2026/10/27/canadia-group-welcomes-philippine-trade-delegation-to-discuss-business-cooperation/",
+      "source": "cambodia-investment-review",
+      "published_at": "2026-10-27T04:06:51Z",
+      "date_basis": "published",
+      "excerpt": "Cambodia Investment Review Canadia Group hosted a delegation from the Philippine Department of Trade and Industry (DTI), led by Philippine Trade Secretary Maria Cristina Aldeguer Roque and Ms Bianca Pearl R. Sykimte, Director of the DTI Export Marketing Bureau. The delegation was received at Canadia Tower by Oknha Dr…",
+      "category": "southeast-asia",
+      "language": "en"
+    },
+    {
       "id": "1d994d207b3a848702bf5044",
       "title": "Malaysia opposition bloc PN survives deregistration for now, but internal rifts cloud political future: Analysts",
       "url": "https://www.channelnewsasia.com/asia/malaysia-perikatan-nasional-deregistration-opposition-elections-political-future-6478011",
@@ -4296,18 +4296,6 @@
       "excerpt": "Clashes erupted in Paris as a mass march drew to a close Saturday, with more than 400,000 people rallying across France over school funding and soaring living costs in a fresh challenge to President Emmanuel Macron. Police made nearly 1,000 arrests, the government said.",
       "category": "world",
       "language": "en"
-    },
-    {
-      "id": "1dbf1f8fec229e458ff18bdf",
-      "title": "Sel reedel Sirbis",
-      "url": "https://www.sirp.ee/sel-reedel-sirbis-481/",
-      "original_url": "https://www.sirp.ee/sel-reedel-sirbis-481/",
-      "source": "sirp",
-      "published_at": "2026-10-22T04:00:00Z",
-      "date_basis": "published",
-      "excerpt": "Kerri Kotta vestles festivali „Afekt“ kunstilise juhi Monika Mattieseniga Kaspar Viilup, „Kõigi pühakute õhtu teejuht kodu- ja kinoekraanidel“ Ülo Mattheus, „Vene tehased põlegu!“ Raili Marling, „Michel Foucault intellektuaalsetes tõmbetuultes“ Tanel Mütt, „Klubi kui järelmõte“ Kai Lobjakas vestles Werkbundi arhiivi…",
-      "category": "estonia",
-      "language": "et"
     },
     {
       "id": "1dd4509556691cf6ae9a79d3",
@@ -4382,6 +4370,18 @@
       "language": "en"
     },
     {
+      "id": "1e8624508e8d6c9ae0417d46",
+      "title": "Thailand video news | Heavy rain expected across 35 provinces, Five young leopards spotted at Kaeng Krachan National Park",
+      "url": "https://thethaiger.com/video-podcasts/thailand-video-news-27-10-2026",
+      "original_url": "https://thethaiger.com/video-podcasts/thailand-video-news-27-10-2026",
+      "source": "thaiger",
+      "published_at": "2026-10-27T04:24:05Z",
+      "date_basis": "published",
+      "excerpt": "In Thailand video news, Alex covers the latest stories from across Thailand and Asia. Heavy rain continues to batter the kingdom, with more downpours forecast for Bangkok. A political scandal emerges over alleged forged bribery evidence against Anutin, while in Japan, a mother seeks justice after her teenage daughter…",
+      "category": "southeast-asia",
+      "language": "en"
+    },
+    {
       "id": "1e978c942ec4a681e3546450",
       "title": "«Би-би-си» рассказала о россиянине Фоме, который организует слежку за военными и помог подготовить убийство генерала Фанила Сарварова. Человек с таким же псевдонимом участвует в эфирах The Breakfast Show как военный эксперт",
       "url": "https://meduza.io/feature/2026/10/23/bi-bi-si-rasskazala-o-rossiyanine-fome-kotoryy-organizuet-slezhku-za-voennymi-i-pomog-podgotovit-ubiystvo-generala-fanila-sarvarova",
@@ -4419,13 +4419,13 @@
     },
     {
       "id": "1eb7333cd87d6526eda7dc21",
-      "title": "Trump continues midterm campaign blitz in Mississippi amid outcry over racist, Islamophobic attacks – live",
+      "title": "Trump continues midterm campaign blitz in Mississippi amid outcry over racist, Islamophobic attacks – as it happened",
       "url": "https://www.theguardian.com/us-news/live/2026/oct/26/donald-trump-abdul-el-sayed-midterms-michigan-rally-space-latest-us-politics-news-updates",
       "original_url": "https://www.theguardian.com/us-news/live/2026/oct/26/donald-trump-abdul-el-sayed-midterms-michigan-rally-space-latest-us-politics-news-updates",
       "source": "guardian-world",
-      "published_at": "2026-10-27T00:31:19Z",
+      "published_at": "2026-10-27T01:55:40Z",
       "date_basis": "published",
-      "excerpt": "President delivers familiar address to rally attendees and faces more protesters; NAACP denounces remarks from Trump and other Republicans in Michigan Senate race What are the US midterm elections and why do they matter? Sign up for Breaking News US email In a post to social media on Monday, Ukrainian president…",
+      "excerpt": "This live blog is now closed. What are the US midterm elections and why do they matter? Sign up for Breaking News US email In a post to social media on Monday, Ukrainian president Volodymyr Zelenskyy said that Ukraine was facing dwindling stocks of Patriot interceptor missiles after Pete Hegseth, Trump’s defense…",
       "category": "world",
       "language": "en"
     },
@@ -4658,18 +4658,6 @@
       "language": "en"
     },
     {
-      "id": "20c72a0316a6b897f38bb876",
-      "title": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_campaign=rss&at_medium=RSS",
-      "original_url": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss",
-      "source": "bbc-world",
-      "published_at": "2026-10-22T01:07:34Z",
-      "date_basis": "published",
-      "excerpt": "The warning to US officials comes as at least three people die in the latest strikes at an airport and an oil field.",
-      "category": "world",
-      "language": "en"
-    },
-    {
       "id": "20d52be12b24ee5d12a3f881",
       "title": "Apple reveals updated iPad mini with a bigger OLED screen for $700",
       "url": "https://arstechnica.com/apple/2026/10/apple-reveals-updated-ipad-mini-with-a-bigger-oled-screen-for-700/",
@@ -4730,18 +4718,6 @@
       "language": "en"
     },
     {
-      "id": "210c3de0b0bbd1221b2173bc",
-      "title": "Prominent Chinese biologist accuses top cancer journal's editor-in-chief of soliciting bribes",
-      "url": "https://e.vnexpress.net/news/news/prominent-chinese-biologist-accuses-top-cancer-journal-s-editor-in-chief-of-soliciting-bribes-5134740.html",
-      "original_url": "https://e.vnexpress.net/news/news/prominent-chinese-biologist-accuses-top-cancer-journal-s-editor-in-chief-of-soliciting-bribes-5134740.html",
-      "source": "vnexpress-en",
-      "published_at": "2026-10-22T03:06:09Z",
-      "date_basis": "published",
-      "excerpt": "Cell Press has commissioned an independent third party to investigate after prominent Chinese biologist Rao Yi accused the editor-in-chief of its journal Cancer Cell of soliciting bribes from Chinese authors.",
-      "category": "southeast-asia",
-      "language": "en"
-    },
-    {
       "id": "214cd95e01f98b79ff052401",
       "title": "Musk claims Ukraine violated Starlink terms of service, 'Flash' responds",
       "url": "https://www.ukrinform.net/rubric-ato/4177903-musk-claims-ukraine-violated-starlink-terms-of-service-flash-responds.html",
@@ -4776,18 +4752,6 @@
       "excerpt": "Словакия будет развивать сотрудничество с Россией в сферах, на которые не распространяются санкции, заявил глава МИД Юрай Бланар по итогам визита в Москву. Поездку раскритиковала словацкая оппоизция.",
       "category": "russia-ukraine",
       "language": "ru"
-    },
-    {
-      "id": "217990da34c1a4b0c6a64c88",
-      "title": "3 Asian cities lead world's top 10 for public transport",
-      "url": "https://e.vnexpress.net/photo/traffic/3-asian-cities-lead-worlds-top-10-for-public-transport-5134075.html",
-      "original_url": "https://e.vnexpress.net/photo/traffic/3-asian-cities-lead-worlds-top-10-for-public-transport-5134075.html",
-      "source": "vnexpress-en",
-      "published_at": "2026-10-22T04:02:13Z",
-      "date_basis": "published",
-      "excerpt": "People living in Taipei, Singapore, and Hong Kong are highly satisfied with their daily commute by bus, train, tram, and cable car, a survey by a leading U.K. travel magazine shows.",
-      "category": "southeast-asia",
-      "language": "en"
     },
     {
       "id": "217d451827ab864b8ec50b75",
@@ -5426,6 +5390,18 @@
       "language": "en"
     },
     {
+      "id": "266163f285c688d504f29672",
+      "title": "Serbia’s ‘students’ celebrate for a second night after election victory",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/serbias-students-celebrate-for-a-second-night-after-election-victory?traffic_source=rss",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/serbias-students-celebrate-for-a-second-night-after-election-victory?traffic_source=rss",
+      "source": "al-jazeera",
+      "published_at": "2026-10-27T01:06:50Z",
+      "date_basis": "published",
+      "excerpt": "Thousands gathered on the streets of Belgrade for a second night to celebrate the student-led movement's victory.",
+      "category": "world",
+      "language": "en"
+    },
+    {
       "id": "269083a8d3e0b1ae75f16c45",
       "title": "Герой фильма «Би-би-си» о российских диверсантах отверг сотрудничество с украинской разведкой",
       "url": "https://istories.media/news/2026/10/24/geroi-filma-bi-bi-si-o-rossiiskikh-diversantakh-otverg-sotrudnichestvo-s-ukrainskoi-razvedkoi/",
@@ -5966,18 +5942,6 @@
       "language": "en"
     },
     {
-      "id": "2a5369bc56c1031e9f27341b",
-      "title": "Telemedicine pilot to reach remote communities",
-      "url": "https://vietnamnews.vn/society/1802670/telemedicine-pilot-to-reach-remote-communities.html",
-      "original_url": "https://vietnamnews.vn/society/1802670/telemedicine-pilot-to-reach-remote-communities.html",
-      "source": "vietnam-news",
-      "published_at": "2026-10-22T02:49:45Z",
-      "date_basis": "published",
-      "excerpt": "The pilot will run until November 15 and facilities must report any difficulties or obstacles to the ministry so the guidelines can be revised before their formal issuance.",
-      "category": "southeast-asia",
-      "language": "en"
-    },
-    {
       "id": "2a53731c40c0260cc98bd5e8",
       "title": "Germany news: Government expecting increased tax revenue in 2027",
       "url": "https://www.dw.com/en/germany-news-government-expecting-increased-tax-revenue-in-2027/live-79728628?maca=en-rss-en-all-1573-rdf",
@@ -6247,7 +6211,7 @@
       "url": "https://www.channelnewsasia.com/asia/indonesia-gas-cut-singapore-energy-minister-bahlil-lahadalia-6492401",
       "original_url": "https://www.channelnewsasia.com/asia/indonesia-gas-cut-singapore-energy-minister-bahlil-lahadalia-6492401",
       "source": "cna-asia",
-      "published_at": "2026-10-26T11:17:49Z",
+      "published_at": "2026-10-26T11:17:00Z",
       "date_basis": "published",
       "excerpt": "The cuts fall within the minimum contractual limits of around 91 to 92 per cent of exports, says Coordinating Minister for Downstreaming and Energy Transition Bahlil Lahadalia.",
       "category": "southeast-asia",
@@ -7106,18 +7070,6 @@
       "language": "ru"
     },
     {
-      "id": "31617fc4d1106783a175666e",
-      "title": "Singapore's longevity industry: The quest for eternal youth",
-      "url": "https://www.france24.com/en/tv-shows/focus/20261023-singapore-s-longevity-industry-the-quest-for-eternal-youth",
-      "original_url": "https://www.france24.com/en/tv-shows/focus/20261023-singapore-s-longevity-industry-the-quest-for-eternal-youth",
-      "source": "france24",
-      "published_at": "2026-10-23T11:53:53Z",
-      "date_basis": "published",
-      "excerpt": "In Singapore, the quest for eternal youth is no longer just a billionaire's fantasy. It's becoming big business. High-tech clinics, longevity labs and specialist companies all promise the same thing: slowing down the ageing process. From continuous metabolic monitoring and genetic testing to supplements and oxygen…",
-      "category": "world",
-      "language": "en"
-    },
-    {
       "id": "318ca40fa090a690247c1643",
       "title": "Ink droplets in motion snag top prize in Nikon Small World contest",
       "url": "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/",
@@ -7223,6 +7175,18 @@
       "date_basis": "published",
       "excerpt": "Ars spends the weekend with the Audi Revolut F1 team at the Circuit of the Americas.",
       "category": "technology",
+      "language": "en"
+    },
+    {
+      "id": "32121343bffffa87ba72f96a",
+      "title": "Russia halts strikes on Ukraine’s Kherson as Oleshky ceasefire takes effect",
+      "url": "https://www.aljazeera.com/news/2026/10/27/russia-halts-strikes-on-ukraines-kherson-as-oleshky-ceasefire-takes-effect?traffic_source=rss",
+      "original_url": "https://www.aljazeera.com/news/2026/10/27/russia-halts-strikes-on-ukraines-kherson-as-oleshky-ceasefire-takes-effect?traffic_source=rss",
+      "source": "al-jazeera",
+      "published_at": "2026-10-27T02:29:00Z",
+      "date_basis": "published",
+      "excerpt": "The localised ceasefire, secured by US First Lady Melania Trump, will allow evacuations and aid deliveries to Oleshky.",
+      "category": "world",
       "language": "en"
     },
     {
@@ -7694,6 +7658,18 @@
       "language": "en"
     },
     {
+      "id": "368708710399fae2f1b7866d",
+      "title": "Moroccan police intercept migrant swimming back towards Ceuta",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/moroccan-police-intercept-migrant-swimming-back-towards-ceuta?traffic_source=rss",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/moroccan-police-intercept-migrant-swimming-back-towards-ceuta?traffic_source=rss",
+      "source": "al-jazeera",
+      "published_at": "2026-10-27T02:38:48Z",
+      "date_basis": "published",
+      "excerpt": "Moroccan police intercepted a migrant swimming towards Spain’s North African enclave of Ceuta",
+      "category": "world",
+      "language": "en"
+    },
+    {
       "id": "368af96aa1552afdb7f02e62",
       "title": "Karelson ja Nabi said teada MM-i avavastased",
       "url": "https://sport.err.ee/1610176045/karelson-ja-nabi-said-teada-mm-i-avavastased",
@@ -8027,6 +8003,18 @@
       "date_basis": "published",
       "excerpt": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election.",
       "category": "world",
+      "language": "en"
+    },
+    {
+      "id": "38935eea9878b7e75d0633d6",
+      "title": "OpenAI rolls out budget-priced mid-tier GPT-6.1 Terra",
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/26/openai-rolls-out-budget-priced-mid-tier-gpt-61-terra/5305574",
+      "original_url": "https://www.theregister.com/ai-and-ml/2026/10/26/openai-rolls-out-budget-priced-mid-tier-gpt-61-terra/5305574",
+      "source": "register",
+      "published_at": "2026-10-26T23:08:59Z",
+      "date_basis": "published",
+      "excerpt": "Not a bombshell, but it rivals pricier models on some tasks at a tenth of Astra's API price",
+      "category": "technology",
       "language": "en"
     },
     {
@@ -8762,18 +8750,6 @@
       "language": "en"
     },
     {
-      "id": "3e9bd86b870a9b6d36821b94",
-      "title": "The real reasons there are so few young politicians in the US",
-      "url": "https://www.bbc.co.uk/news/articles/cmde8rr2d6eno?at_campaign=rss&at_medium=RSS",
-      "original_url": "https://www.bbc.co.uk/news/articles/cmde8rr2d6eno?at_medium=RSS&at_campaign=rss",
-      "source": "bbc-world",
-      "published_at": "2026-10-21T23:52:12Z",
-      "date_basis": "published",
-      "excerpt": "No country for young men and women: why do older politicians seem to have such a tight grip on the US political system?",
-      "category": "world",
-      "language": "en"
-    },
-    {
       "id": "3ebb5360fd7552db6e185707",
       "title": "Covert recording of prison meeting between Beau Lamarre-Condon and friend played to double murder trial",
       "url": "https://www.theguardian.com/australia-news/2026/oct/26/beau-lamarre-condon-trial-covert-prison-recording-with-friend-played-to-court-ntwnfb",
@@ -9326,6 +9302,18 @@
       "language": "en"
     },
     {
+      "id": "42cd9e1440e2c9a264a9aab3",
+      "title": "Thai Enquirer News Summary – October 27, 2026",
+      "url": "https://www.thaienquirer.com/75501/thai-enquirer-news-summary-october-27-2026/",
+      "original_url": "https://www.thaienquirer.com/75501/thai-enquirer-news-summary-october-27-2026/",
+      "source": "thai-enquirer",
+      "published_at": "2026-10-27T02:21:03Z",
+      "date_basis": "published",
+      "excerpt": "October 27, 2026 Economic News Excise Tax set to be Cut for E20 and B20 Deputy PM and Finance Minister Ekniti Nitithanprapas announced that Cabinet will consider planned excise tax cuts for E20 petrol and B20 diesel, along with installation subsidies for household solar systems, on October 27. The proposed tax cuts…",
+      "category": "southeast-asia",
+      "language": "en"
+    },
+    {
       "id": "42d55c5b09d774b5ac83f580",
       "title": "Coolpad’s new $150 Android phone has a wider screen like the iPhone Duo, but doesn’t fold",
       "url": "https://www.theverge.com/tech/1016544/coolpad-cool-x-wide-widescreen-android-16-smartphone-china",
@@ -9336,18 +9324,6 @@
       "excerpt": "The design of widescreen folding phones like the Samsung Galaxy Z Fold 8, Huawei Pura X View, and now the iPhone Duo, is starting to influence traditional slab phones. Similar to the Huawei Pura X View that launched in China in August, the new Coolpad Cool X Wide has a much wider screen than what's […]",
       "category": "technology",
       "language": "en"
-    },
-    {
-      "id": "42ee1609cfeeb984dbdfed21",
-      "title": "ВКС России, возможно, потеряли за день два истребителя Су-30. Крушение первого признало Минобороны, о потере второго написали провоенные блогеры",
-      "url": "https://www.dw.com/ru/вкс-россии-возможно-потеряли-за-день-два-истребителя-су-30-крушение-первого-признало-минобороны-о-потере-второго-написали-провоенные-блогеры/a-79727175?maca=rus-rss-ru-all-1126-rdf",
-      "original_url": "https://www.dw.com/ru/вкс-россии-возможно-потеряли-за-день-два-истребителя-су-30-крушение-первого-признало-минобороны-о-потере-второго-написали-провоенные-блогеры/a-79727175?maca=rus-rss-ru-all-1126-rdf",
-      "source": "dw-ru",
-      "published_at": "2026-10-22T00:20:00Z",
-      "date_basis": "updated",
-      "excerpt": "В Калининградской области упал истребитель Су-30, его экипаж выжил, заявило Минобороны РФ. Позже российские военные блогеры сообщили о потере второго самолета той же модели. По их данным, в этом случае пилоты погибли.",
-      "category": "russia-ukraine",
-      "language": "ru"
     },
     {
       "id": "42fa529241439ab5b8791679",
@@ -9432,6 +9408,18 @@
       "excerpt": "",
       "category": "russia-ukraine",
       "language": "ru"
+    },
+    {
+      "id": "435bc41176f8361149bf8e15",
+      "title": "US bans vehicles from China’s BYD at Japan military base, calling them ‘unacceptable’ risk",
+      "url": "https://www.theguardian.com/world/2026/oct/27/us-bans-byd-electric-vehicles-kadena-military-base",
+      "original_url": "https://www.theguardian.com/world/2026/oct/27/us-bans-byd-electric-vehicles-kadena-military-base",
+      "source": "guardian-world",
+      "published_at": "2026-10-27T02:50:31Z",
+      "date_basis": "published",
+      "excerpt": "US military says the restrictions on the electric vehicles at Kadena airbase also apply to delivery drivers and taxis One of America’s biggest overseas military bases has banned vehicles made by the Chinese electric vehicle maker BYD over security concerns, the US military in Japan said on Tuesday. The ban, which went…",
+      "category": "world",
+      "language": "en"
     },
     {
       "id": "4369bf09b217418e66e46c3e",
@@ -9527,18 +9515,6 @@
       "date_basis": "published",
       "excerpt": "UN Chief Antonio Guterres has warned of devastating consequences from any military escalation in the Gulf region.",
       "category": "world",
-      "language": "en"
-    },
-    {
-      "id": "443e40abe1b841ac3cad8cda",
-      "title": "Chinese fugitive’s toddler registered as Thai child of ‘fake father’",
-      "url": "https://www.bangkokpost.com/thailand/general/3341544/chinese-fugitives-toddler-registered-as-thai-child-of-fake-father",
-      "original_url": "https://www.bangkokpost.com/thailand/general/3341544/chinese-fugitives-toddler-registered-as-thai-child-of-fake-father",
-      "source": "bangkok-post",
-      "published_at": "2026-10-22T03:50:00Z",
-      "date_basis": "published",
-      "excerpt": "PATTAYA - Immigration police say a Chinese man wanted in his home country for running a major gambling business had his biological daughter registered as the child of a Thai man to obtain Thai nationality.",
-      "category": "southeast-asia",
       "language": "en"
     },
     {
@@ -9754,6 +9730,18 @@
       "published_at": "2026-10-26T22:43:00Z",
       "date_basis": "published",
       "excerpt": "Legal uncertainty over the status of the National Broadcasting and Telecommunications Commission (NBTC) chairman is threatening to affect preparations to attend a key international telecom conference and planned flood-relief measures for affected mobile phone subscribers, according to an NBTC executive source.",
+      "category": "southeast-asia",
+      "language": "en"
+    },
+    {
+      "id": "46f0a627e9da5c949cfca3e8",
+      "title": "Slow visa processing disrupts travel to Thailand",
+      "url": "https://www.bangkokpost.com/business/general/3344239/slow-visa-processing-disrupts-travel-to-thailand",
+      "original_url": "https://www.bangkokpost.com/business/general/3344239/slow-visa-processing-disrupts-travel-to-thailand",
+      "source": "bangkok-post",
+      "published_at": "2026-10-27T00:30:00Z",
+      "date_basis": "published",
+      "excerpt": "Slow visa processing in countries whose visa-free privileges have been withdrawn has disrupted travel to Thailand, with many travellers opting for Vietnam instead. Airlines have also reported a large number of no-show passengers and urged the government to resolve the issue as soon as possible.",
       "category": "southeast-asia",
       "language": "en"
     },
@@ -10104,6 +10092,18 @@
       "excerpt": "Ameerika rokkbänd Thirty Seconds to Mars annab 22. mail kontserdi Tallinnas Unibet Arena Kvartalis.",
       "category": "estonia",
       "language": "et"
+    },
+    {
+      "id": "49cb30e92449095828cd8943",
+      "title": "Thai nationals rank first for overstaying in Japan with 10,260 cases",
+      "url": "https://thethaiger.com/news/world/thai-nationals-rank-first-overstay-japan",
+      "original_url": "https://thethaiger.com/news/world/thai-nationals-rank-first-overstay-japan",
+      "source": "thaiger",
+      "published_at": "2026-10-27T03:17:12Z",
+      "date_basis": "published",
+      "excerpt": "Thai nationals are now the largest group of foreign nationals overstaying in Japan, according to figures published by the Japanese immigration agency for the first half of the year. Data released by Japan’s Immigration Services Agency (ISA) showed that 10,260 Thai nationals were overstaying as of July 1, 2026,…",
+      "category": "southeast-asia",
+      "language": "en"
     },
     {
       "id": "49cc71c02f6f3813b75f4b73",
@@ -10550,6 +10550,18 @@
       "language": "en"
     },
     {
+      "id": "4c8e6d4432080ec005b06cc3",
+      "title": "Jay-Z to perform at Super Bowl half-time show",
+      "url": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo?at_campaign=rss&at_medium=RSS",
+      "original_url": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "published_at": "2026-10-27T03:10:55Z",
+      "date_basis": "published",
+      "excerpt": "Jay-Z has been involved with the show for years but has never before performed at the NFL championship game.",
+      "category": "world",
+      "language": "en"
+    },
+    {
       "id": "4cc8675b458f18de77945db8",
       "title": "At least 16 dead in Tibet quake: China state media",
       "url": "https://e.vnexpress.net/news/news/environment/at-least-16-dead-in-tibet-quake-china-state-media-5135825.html",
@@ -10802,6 +10814,18 @@
       "language": "et"
     },
     {
+      "id": "4e6b412ba6af76f669c94b57",
+      "title": "Russia expanding recruitment of African mercenaries amid heavy losses in Ukraine war – Bloomberg",
+      "url": "https://www.ukrinform.net/rubric-ato/4178288-russia-expanding-recruitment-of-african-mercenaries-amid-heavy-losses-in-ukraine-war-bloomberg.html",
+      "original_url": "https://www.ukrinform.net/rubric-ato/4178288-russia-expanding-recruitment-of-african-mercenaries-amid-heavy-losses-in-ukraine-war-bloomberg.html",
+      "source": "ukrinform",
+      "published_at": "2026-10-27T02:27:00Z",
+      "date_basis": "published",
+      "excerpt": "Russia is expanding the range of African countries from which it recruits men to address a shortage of personnel in its armed forces amid the war against Ukraine, where it is suffering heavy losses.",
+      "category": "russia-ukraine",
+      "language": "en"
+    },
+    {
       "id": "4e72568d448b8be76c0864c9",
       "title": "Трамп тянет республиканцев вниз. Чем это обернется на выборах в Конгресс?",
       "url": "https://istories.media/opinions/2026/10/23/tramp-tyanet-respublikantsev-vniz-chem-eto-obernetsya-na-viborakh-v-kongress/",
@@ -10824,6 +10848,18 @@
       "excerpt": "Nõmme Unitedi ja Pärnu Vapruse vahelise Premium liiga 33. vooru kohtumise teise poolaja algus hilines ligi veerand tundi, kuna Unitedi keskkaitsjat Ricky Chandat tabas vaheajal riietusruumis terviserike.",
       "category": "estonia",
       "language": "et"
+    },
+    {
+      "id": "4e8d34307ea939cce4364468",
+      "title": "Trump suggests renaming the Atlantic Ocean the ‘American Ocean’",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/trump-suggests-renaming-the-atlantic-ocean-the-american?traffic_source=rss",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/trump-suggests-renaming-the-atlantic-ocean-the-american?traffic_source=rss",
+      "source": "al-jazeera",
+      "published_at": "2026-10-27T02:17:06Z",
+      "date_basis": "published",
+      "excerpt": "US President Donald Trump has suggested renaming the Atlantic Ocean the ‘American Ocean’ at a Republican rally.",
+      "category": "world",
+      "language": "en"
     },
     {
       "id": "4ea987b7fc17016052e0d0a6",
@@ -10932,18 +10968,6 @@
       "excerpt": "Ajaleht The New York Times kirjutab, et Hiina juht Xi Jinping kasutab korruptsioonivastast kampaaniat oma võimu kindlustamiseks ja ametnike kuulekuse tagamiseks. Xi valmistub ka eelseisvaks parteikongressiks, kus ta eeldatavasti kindlustab endale järjekordse viieaastase ametiaja.",
       "category": "estonia",
       "language": "et"
-    },
-    {
-      "id": "4f77c3468718cf38243dde4f",
-      "title": "Ukrainian forces reportedly strike Moscow Oblast weapons plant",
-      "url": "https://kyivindependent.com/ukrainian-forces-reportedly-strike-moscow-oblast-weapons-plant/",
-      "original_url": "https://kyivindependent.com/ukrainian-forces-reportedly-strike-moscow-oblast-weapons-plant/",
-      "source": "kyiv-independent",
-      "published_at": "2026-10-22T03:15:02Z",
-      "date_basis": "published",
-      "excerpt": "Ukrainian forces struck a weapons plant in Serpukhov, Moscow Oblast, overnight on Oct. 22, monitoring channels reported.",
-      "category": "russia-ukraine",
-      "language": "en"
     },
     {
       "id": "4f8cff6c7a3eaa3a09cfb993",
@@ -11587,9 +11611,9 @@
       "url": "https://www.dw.com/en/brazil-elections-merz-world-leaders-congratulate-lula-on-his-win/live-79755630?maca=en-rss-en-all-1573-rdf",
       "original_url": "https://www.dw.com/en/brazil-elections-merz-world-leaders-congratulate-lula-on-his-win/live-79755630?maca=en-rss-en-all-1573-rdf",
       "source": "dw-en",
-      "published_at": "2026-10-26T15:08:00Z",
+      "published_at": "2026-10-27T04:46:00Z",
       "date_basis": "updated",
-      "excerpt": "Brazilian President Lula secured a surprise win over far-right challenger Flavio Bolsonaro, who has refused to concede. DW has the latest.",
+      "excerpt": "Brazilian President Lula secured a surprise win over far-right challenger Flavio Bolsonaro, whose party recognizes Lula's election victory.",
       "category": "world",
       "language": "en"
     },
@@ -11603,18 +11627,6 @@
       "date_basis": "published",
       "excerpt": "A Kanchanaburi high school student was arrested after police discovered 4,038 meth pills hidden in her jacket during a parcel delivery, which she claimed she had accepted for 2,000 baht without knowing it contained drugs. Police in Thong Pha Phum district detained the 15 year old girl yesterday, October 22, following…",
       "category": "southeast-asia",
-      "language": "en"
-    },
-    {
-      "id": "5469880a2151546de2b78388",
-      "title": "Explosions, fires reported amid overnight Ukrainian drone attack on Lipetsk, Russia",
-      "url": "https://kyivindependent.com/explosion-fires-reported-amid-overnight-ukrainian-drone-attack-on-lipetsk-russia/",
-      "original_url": "https://kyivindependent.com/explosion-fires-reported-amid-overnight-ukrainian-drone-attack-on-lipetsk-russia/",
-      "source": "kyiv-independent",
-      "published_at": "2026-10-21T23:46:05Z",
-      "date_basis": "published",
-      "excerpt": "Ukrainian drones struck a multi-story building in Lipetsk and caused multiple explosions around the city, according to Ukrainian monitoring channels. Eyewitness footage from the scene appears to show low-flying Ukrainian drones and fires lighting up the night sky.",
-      "category": "russia-ukraine",
       "language": "en"
     },
     {
@@ -11760,18 +11772,6 @@
       "excerpt": "При этом он сослался на «последние генетические исследования», чтобы обосновать претензии на территорию Украины",
       "category": "russia-ukraine",
       "language": "ru"
-    },
-    {
-      "id": "55a1c97643f3221d92995dc5",
-      "title": "German youth plan France-style mass protests",
-      "url": "https://www.dw.com/en/german-youth-plan-france-style-mass-protests/a-79727133?maca=en-rss-en-all-1573-rdf",
-      "original_url": "https://www.dw.com/en/german-youth-plan-france-style-mass-protests/a-79727133?maca=en-rss-en-all-1573-rdf",
-      "source": "dw-en",
-      "published_at": "2026-10-21T23:11:00Z",
-      "date_basis": "updated",
-      "excerpt": "A youth-led movement in Germany has called for demonstrations in major cities of the country on October 31. The group has categorically distanced itself from the violence that took hold in France.",
-      "category": "world",
-      "language": "en"
     },
     {
       "id": "55d11a4e724a482b067980a5",
@@ -12024,6 +12024,18 @@
       "excerpt": "Eesti jalgpallur Karol Metsa klubi Bochum viigistas Saksamaa esiliiga üheksandas voorus kodus Wolfsburgiga 1:1 ja lõpetas kolmemängulise kaotustejada.",
       "category": "estonia",
       "language": "et"
+    },
+    {
+      "id": "5784f0a6dd977be5effed343",
+      "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
+      "url": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_campaign=rss&at_medium=RSS",
+      "original_url": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "published_at": "2026-10-27T02:40:17Z",
+      "date_basis": "published",
+      "excerpt": "The attack on a village in Syria killed five people, including women and children, Syrian health officials said.",
+      "category": "world",
+      "language": "en"
     },
     {
       "id": "5785899465456a1e446f316b",
@@ -12362,18 +12374,6 @@
       "language": "en"
     },
     {
-      "id": "58f08c942f4efe65a31788f7",
-      "title": "Tesla says customers can add their own vehicles to the robotaxi fleet next year — will it happen?",
-      "url": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings",
-      "original_url": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings",
-      "source": "verge",
-      "published_at": "2026-10-21T23:36:31Z",
-      "date_basis": "published",
-      "excerpt": "For years, Elon Musk has been making big promises to Tesla owners about unsupervised autonomous driving and the ability to add their own vehicles to the company's robotaxi fleet. During today's third-quarter earnings call, the company finally gave itself a deadline. According to Tesla VP for Autonomous Driving Ashok…",
-      "category": "technology",
-      "language": "en"
-    },
-    {
       "id": "58f32ebe066c9b784f122355",
       "title": "Venezuelan opposition leader Machado returns from exile",
       "url": "https://www.dw.com/en/venezuelan-opposition-leader-machado-returns-from-exile/a-79759187?maca=en-rss-en-all-1573-rdf",
@@ -12410,6 +12410,18 @@
       "language": "en"
     },
     {
+      "id": "594df4f36026324c0abde6a9",
+      "title": "US court rules against Trump administration in California voting case",
+      "url": "https://www.aljazeera.com/news/2026/10/27/us-court-rules-against-trump-administration-in-california-voting-case?traffic_source=rss",
+      "original_url": "https://www.aljazeera.com/news/2026/10/27/us-court-rules-against-trump-administration-in-california-voting-case?traffic_source=rss",
+      "source": "al-jazeera",
+      "published_at": "2026-10-27T01:01:53Z",
+      "date_basis": "published",
+      "excerpt": "US appeals court blocks government effort to stop California from tabulating ballots from list of alleged non-citizens.",
+      "category": "world",
+      "language": "en"
+    },
+    {
       "id": "596746b663b32aee3d7c246b",
       "title": "Russian losses in the war with Ukraine. Mediazona count, updated",
       "url": "https://zona.media/article/2026/10/23/casualties_eng-trl",
@@ -12430,18 +12442,6 @@
       "published_at": "2026-10-22T08:16:00Z",
       "date_basis": "updated",
       "excerpt": "African health officials will hold a crisis meeting as the Ebola outbreak spreads from Congo to neighboring countries and beyond. The \"extraordinary virtual meeting\" will convene on October 28.",
-      "category": "world",
-      "language": "en"
-    },
-    {
-      "id": "598678a6d42a65dc978fb902",
-      "title": "Why Israel’s latest assault on Hebron is so significant for the West Bank",
-      "url": "https://www.aljazeera.com/economy/2026/10/25/why-israels-latest-assault-on-hebron-is-so-significant-for-the-west-bank?traffic_source=rss",
-      "original_url": "https://www.aljazeera.com/economy/2026/10/25/why-israels-latest-assault-on-hebron-is-so-significant-for-the-west-bank?traffic_source=rss",
-      "source": "al-jazeera",
-      "published_at": "2026-10-25T12:17:39Z",
-      "date_basis": "published",
-      "excerpt": "Mass expulsions, blockades and expanding settler control in Hebron threaten to devastate the West Bank economy.",
       "category": "world",
       "language": "en"
     },
@@ -12530,18 +12530,6 @@
       "language": "en"
     },
     {
-      "id": "5a1a840e57535a0d4519021c",
-      "title": "Algerian parliament’s upper house approves troop deployment to Niger",
-      "url": "https://www.aljazeera.com/news/2026/10/25/algerian-parliaments-upper-house-approves-troop-deployment-to-niger?traffic_source=rss",
-      "original_url": "https://www.aljazeera.com/news/2026/10/25/algerian-parliaments-upper-house-approves-troop-deployment-to-niger?traffic_source=rss",
-      "source": "al-jazeera",
-      "published_at": "2026-10-25T12:19:41Z",
-      "date_basis": "published",
-      "excerpt": "Vote to send forces comes after a recent defence pact between the two neighbouring countries.",
-      "category": "world",
-      "language": "en"
-    },
-    {
       "id": "5a268482a0abe3857868d3b7",
       "title": "How Ukraine outmaneuvered Russian troops in Operation Vivaldi",
       "url": "https://kyivindependent.com/inside-ukraines-secret-counteroffensive-in-heavily-fortified-donbas/",
@@ -12624,6 +12612,18 @@
       "excerpt": "Сегодня Владимир Путин провел в Кремле встречу с главой Владивостока Константином Шестаковым. Во время общения он предложил чиновнику возглавить Приморский край. Тот назвал это большой ответственностью и пообещал, что «оправдает доверие». Telegram Вскоре после этого Путин официально назначил Шестакова врио губернатора…",
       "category": "russia-ukraine",
       "language": "ru"
+    },
+    {
+      "id": "5ae6f9ba113309e404a1aff3",
+      "title": "Eastern Bangkok land prices soar",
+      "url": "https://www.bangkokpost.com/property/3344254/eastern-bangkok-land-prices-soar",
+      "original_url": "https://www.bangkokpost.com/property/3344254/eastern-bangkok-land-prices-soar",
+      "source": "bangkok-post",
+      "published_at": "2026-10-27T00:46:00Z",
+      "date_basis": "published",
+      "excerpt": "Land prices in the Phra Khanong–Bang Na–Suan Luang–Prawet area surged by 39% year-on-year in the third quarter of 2026, the fastest increase in Greater Bangkok, driven by transport links and large-scale mixed-use developments.",
+      "category": "southeast-asia",
+      "language": "en"
     },
     {
       "id": "5aeb2cd721d8be187cd05d2b",
@@ -13394,18 +13394,6 @@
       "language": "et"
     },
     {
-      "id": "611639a5913b1ed36178f1a8",
-      "title": "Thai driver crashes through store window, injuring young girl, 5 others",
-      "url": "https://thethaiger.com/news/bangkok/6-injured-after-car-crashes-through-big-c-on-nut-glass-window",
-      "original_url": "https://thethaiger.com/news/bangkok/6-injured-after-car-crashes-through-big-c-on-nut-glass-window",
-      "source": "thaiger",
-      "published_at": "2026-10-22T03:33:33Z",
-      "date_basis": "published",
-      "excerpt": "A 67 year old woman drove her car through the glass window of a Big C supermarket on On Nut Road in Bangkok on October 21, injuring six people, including a six year old girl. Officers from Phra Khanong Police Station arrived at the supermarket in Suan Luang district at about 3pm after the incident. … The story Thai…",
-      "category": "southeast-asia",
-      "language": "en"
-    },
-    {
       "id": "613b64e2752f03fda8f033b8",
       "title": "Austria expels 4 Russian diplomats, Moscow vows response",
       "url": "https://kyivindependent.com/austria-expels-4-russian-diplomats-moscow-vows-response/",
@@ -13438,18 +13426,6 @@
       "published_at": "2026-10-25T18:05:14Z",
       "date_basis": "published",
       "excerpt": "Prince Ali bin Hussein said nobody was allowed to speak, question, debate or talk to the media at the AFC Congress.",
-      "category": "world",
-      "language": "en"
-    },
-    {
-      "id": "618bbf3f8d2bb5b45879491d",
-      "title": "Saudi Arabia intercepts missiles and drones as fighting with Houthis rages",
-      "url": "https://www.aljazeera.com/news/2026/10/25/saudi-arabia-intercepts-missiles-and-drones-as-fighting-with-houthis-rages?traffic_source=rss",
-      "original_url": "https://www.aljazeera.com/news/2026/10/25/saudi-arabia-intercepts-missiles-and-drones-as-fighting-with-houthis-rages?traffic_source=rss",
-      "source": "al-jazeera",
-      "published_at": "2026-10-25T10:42:51Z",
-      "date_basis": "published",
-      "excerpt": "Saudi-led coalition says intercepted drone, missile launched towards Riyadh and 10 missiles targeting southern region.",
       "category": "world",
       "language": "en"
     },
@@ -13922,6 +13898,18 @@
       "language": "en"
     },
     {
+      "id": "663e918aae8109a9db10471b",
+      "title": "US seeks new charges against former FBI chief James Comey",
+      "url": "https://www.dw.com/en/us-seeks-new-charges-against-former-fbi-chief-james-comey/a-79771256?maca=en-rss-en-all-1573-rdf",
+      "original_url": "https://www.dw.com/en/us-seeks-new-charges-against-former-fbi-chief-james-comey/a-79771256?maca=en-rss-en-all-1573-rdf",
+      "source": "dw-en",
+      "published_at": "2026-10-27T01:39:00Z",
+      "date_basis": "updated",
+      "excerpt": "The Trump administration accuses the former FBI director of leaking classified information a decade ago. Comey denies wrongdoing, while his lawyers argue the case is legally invalid and comes too late.",
+      "category": "world",
+      "language": "en"
+    },
+    {
       "id": "6640d137785eea5acd9db219",
       "title": "Musta pori (14aastaste) näkku",
       "url": "https://www.sirp.ee/musta-pori-14aastaste-nakku/",
@@ -14126,6 +14114,18 @@
       "language": "en"
     },
     {
+      "id": "67ab6e4d9ce09060ca71fe59",
+      "title": "В центре Москвы на три дня ограничат мобильный интернет из-за саммитов с участием лидеров африканских стран и экспортеров газа",
+      "url": "https://www.dw.com/ru/в-центре-москвы-на-три-дня-ограничат-мобильный-интернет-из-за-саммитов-с-участием-лидеров-африканских-стран-и-экспортеров-газа/a-79771689?maca=rus-rss-ru-all-1126-rdf",
+      "original_url": "https://www.dw.com/ru/в-центре-москвы-на-три-дня-ограничат-мобильный-интернет-из-за-саммитов-с-участием-лидеров-африканских-стран-и-экспортеров-газа/a-79771689?maca=rus-rss-ru-all-1126-rdf",
+      "source": "dw-ru",
+      "published_at": "2026-10-27T04:40:00Z",
+      "date_basis": "updated",
+      "excerpt": "Как заявило Минцифры, ограничения мобильного интернета возможны в пределах Третьего транспортного кольца с 27 по 29 октября. В эти дни в Москве пройдут саммит \"Россия - Африка\" и саммит Форума стран - экспортеров газа.",
+      "category": "russia-ukraine",
+      "language": "ru"
+    },
+    {
       "id": "67b230fcf61de7d315441758",
       "title": "Reddit's r/opensource bans AI slop, and quite a few humans for good measure",
       "url": "https://www.theregister.com/software/2026/10/26/reddits-r/opensource-bans-ai-slop-and-quite-a-few-humans-for-good-measure/5305392",
@@ -14222,18 +14222,6 @@
       "language": "en"
     },
     {
-      "id": "6882f34acdb47f827fe773df",
-      "title": "‘You need persistence’: the Norfolk couple who took on environmental regulators three times – and won",
-      "url": "https://www.theguardian.com/environment/2026/oct/24/norfolk-couple-who-took-on-environmental-regulators-three-times-and-won",
-      "original_url": "https://www.theguardian.com/environment/2026/oct/24/norfolk-couple-who-took-on-environmental-regulators-three-times-and-won",
-      "source": "guardian-world",
-      "published_at": "2026-10-24T07:00:27Z",
-      "date_basis": "published",
-      "excerpt": "Tim and Geli Harris have spent more than a decade fighting to protect Catfield Fen, a rare wetland in the Norfolk Broads Polluters and regulators who fail to stop pollution must quake in their boots when they receive a letter from the lawyers for Tim and Geli Harris. The couple, who farm 460 acres in the Norfolk…",
-      "category": "world",
-      "language": "en"
-    },
-    {
       "id": "6888bd4f47b392bd5ab08e73",
       "title": "ETV spordisaade, 25. oktoober",
       "url": "https://sport.err.ee/1610176717/etv-spordisaade-25-oktoober",
@@ -14267,6 +14255,18 @@
       "date_basis": "published",
       "excerpt": "President Volodymyr Zelensky, commenting on the evacuation of residents from Oleshky, expressed his conviction that the Russians will do everything in their power to ensure that the people there flee toward Russia.",
       "category": "russia-ukraine",
+      "language": "en"
+    },
+    {
+      "id": "68d1d89eb0dc54bb650dd79e",
+      "title": "Israel votes in first election since October 7 attack as Netanyahu faces crucial test",
+      "url": "https://www.france24.com/en/middle-east/20261027-israel-election-2026-netanyahu-october-7",
+      "original_url": "https://www.france24.com/en/middle-east/20261027-israel-election-2026-netanyahu-october-7",
+      "source": "france24",
+      "published_at": "2026-10-27T04:12:41Z",
+      "date_basis": "published",
+      "excerpt": "Israelis head to the polls on Tuesday for the first time since Hamas's October 7, 2023 attack, in a closely contested election seen as a referendum on Prime Minister Benjamin Netanyahu. The vote follows three years of regional wars, with Netanyahu running neck and neck with centrist rival Gadi Eisenkot.",
+      "category": "world",
       "language": "en"
     },
     {
@@ -14316,18 +14316,6 @@
       "excerpt": "Престижную премию денежным эквивалентом в 500 000 евро вручил лауреатам - юристу Роде Ферхейен и инженеру Клаусу Фоссенкаулю - президент ФРГ Франк-Вальтер Штайнмайер на торжественной церемонии в Ахене.",
       "category": "russia-ukraine",
       "language": "ru"
-    },
-    {
-      "id": "690348aecaa000389704a14c",
-      "title": "CENTCOM reportedly has plans for Iran strikes: Will Trump approve them?",
-      "url": "https://www.aljazeera.com/news/2026/10/25/centcom-reportedly-has-plans-for-iran-strikes-will-trump-approve-them?traffic_source=rss",
-      "original_url": "https://www.aljazeera.com/news/2026/10/25/centcom-reportedly-has-plans-for-iran-strikes-will-trump-approve-them?traffic_source=rss",
-      "source": "al-jazeera",
-      "published_at": "2026-10-25T11:39:41Z",
-      "date_basis": "published",
-      "excerpt": "Reports say Pentagon has drawn up plans for strikes after midterm polls, but analysts question what it could achieve.",
-      "category": "world",
-      "language": "en"
     },
     {
       "id": "6910a4e5a0a9001b3b5f0a28",
@@ -14652,6 +14640,18 @@
       "excerpt": "Mihkel Muti kirjutatud elulooraamat \"Juhani evangeelium\" jõudis sel nädalal uudistevoo tippu. Paraku mitte niivõrd raamatu kirjandusliku väärtuse, kuivõrd autoriõiguste rikkumise tõttu. Nimelt esitasid Juhan Viidingu pärijad Mutile nõude eemaldada teosest poeedi hüvastijätukirjad, mille avaldamiseks polnud Mutile luba…",
       "category": "estonia",
       "language": "et"
+    },
+    {
+      "id": "6b8ae3718bce79bf1530e7d6",
+      "title": "Board of Investment promotion applications jump 28%",
+      "url": "https://www.bangkokpost.com/business/investment/3344259/board-of-investment-promotion-applications-jump-28",
+      "original_url": "https://www.bangkokpost.com/business/investment/3344259/board-of-investment-promotion-applications-jump-28",
+      "source": "bangkok-post",
+      "published_at": "2026-10-26T22:22:00Z",
+      "date_basis": "published",
+      "excerpt": "Thailand's investment promotion applications rose 28% year-on-year to 1,954 projects worth more than 1.7 trillion baht in the first nine months of the year, driven largely by artificial intelligence (AI)-related investments and strong growth in the electronics, agriculture and food sectors.",
+      "category": "southeast-asia",
+      "language": "en"
     },
     {
       "id": "6bc6de69ca77ff92fc319885",
@@ -16274,18 +16274,6 @@
       "language": "en"
     },
     {
-      "id": "7732468d613f3b51fcca52c4",
-      "title": "Brazil's tense presidential run-off campaign feels like a psychological thriller",
-      "url": "https://www.france24.com/en/americas/20261023-brazil-s-tense-presidential-run-off-campaign-feels-like-a-psychological-thriller",
-      "original_url": "https://www.france24.com/en/americas/20261023-brazil-s-tense-presidential-run-off-campaign-feels-like-a-psychological-thriller",
-      "source": "france24",
-      "published_at": "2026-10-23T12:45:49Z",
-      "date_basis": "published",
-      "excerpt": "Insults traded on social media and a combative debate have intensified the pressure ahead of a fiercely contested presidential run-off on Sunday, with only a few points separating leftist pro-union President Luiz Inacio Lula da Silva and far-right challenger Flavio Bolsonaro, the son of former president and Trump ally…",
-      "category": "world",
-      "language": "en"
-    },
-    {
       "id": "773abc6ee923c9bde0baa190",
       "title": "Aktuaalne kaamera kell 21:00",
       "url": "https://www.err.ee/1610177524/aktuaalne-kaamera-kell-21-00",
@@ -16715,18 +16703,6 @@
       "date_basis": "published",
       "excerpt": "The Department of Justice has faced criticism that its lawsuit is aimed at blocking a Democratic victory in a key race.",
       "category": "world",
-      "language": "en"
-    },
-    {
-      "id": "79be2e088e7836538e3fc1ff",
-      "title": "Thailand's busiest airport denies opening blogger's bag as new rule allows searches without owners",
-      "url": "https://e.vnexpress.net/news/news/traffic/thailand-s-busiest-airport-denies-opening-blogger-s-bag-as-new-rule-allows-searches-without-owners-5135311.html",
-      "original_url": "https://e.vnexpress.net/news/news/traffic/thailand-s-busiest-airport-denies-opening-blogger-s-bag-as-new-rule-allows-searches-without-owners-5135311.html",
-      "source": "vnexpress-en",
-      "published_at": "2026-10-22T02:45:25Z",
-      "date_basis": "published",
-      "excerpt": "Bangkok's Suvarnabhumi Airport said on Oct. 21 it found no evidence its own staff opened a travel blogger's checked suitcase, five days after new rules began letting airports search bags without their owners present.",
-      "category": "southeast-asia",
       "language": "en"
     },
     {
@@ -17330,6 +17306,18 @@
       "language": "en"
     },
     {
+      "id": "7e8cfe6182a420486b130d88",
+      "title": "Nok Air suspends 3 southern Thailand routes until Dec 20",
+      "url": "https://thethaiger.com/news/world/aviation/nok-air-suspends-three-southern-routes-fuel-costs",
+      "original_url": "https://thethaiger.com/news/world/aviation/nok-air-suspends-three-southern-routes-fuel-costs",
+      "source": "thaiger",
+      "published_at": "2026-10-27T03:33:28Z",
+      "date_basis": "published",
+      "excerpt": "Nok Air has suspended flights from Bangkok’s Don Mueang International Airport to three southern destinations from today, October 27, until December 20, citing rising aviation fuel costs. The budget airline has temporarily halted services to Trang, Nakhon Si Thammarat and Hat Yai, with aircraft being reassigned to…",
+      "category": "southeast-asia",
+      "language": "en"
+    },
+    {
       "id": "7e8e2e05b9097113fcdebcf7",
       "title": "Office projects exports to expand by 15-16% in 2026",
       "url": "https://www.bangkokpost.com/business/general/3344164/office-projects-exports-to-expand-by-1516-in-2026",
@@ -17558,6 +17546,18 @@
       "language": "en"
     },
     {
+      "id": "80ca23b2e56e12f721bdf6e9",
+      "title": "Man with fake gun shot after using abused partner as shield",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/man-with-fake-gun-shot-after-using-abused-partner-as-shield?traffic_source=rss",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/man-with-fake-gun-shot-after-using-abused-partner-as-shield?traffic_source=rss",
+      "source": "al-jazeera",
+      "published_at": "2026-10-27T03:48:41Z",
+      "date_basis": "published",
+      "excerpt": "Brazilian police shot a man who assaulted and threatened his partner with a fake gun in Criciuma, southern Brazil.",
+      "category": "world",
+      "language": "en"
+    },
+    {
       "id": "80e3d7f4327ba2185de06158",
       "title": "Death toll from Russian strike on park in Kharkiv region rises as third child dies in hospital",
       "url": "https://www.ukrinform.net/rubric-ato/4178335-death-toll-from-russian-strike-on-park-in-kharkiv-region-rises-as-third-child-dies-in-hospital.html",
@@ -17666,6 +17666,18 @@
       "language": "ru"
     },
     {
+      "id": "81b1d35b7c9e153b17c20f7c",
+      "title": "Illegal tour guide caught leading Belgian tourists at Bangkok temple",
+      "url": "https://thethaiger.com/hot-news/tourism/illegal-tour-guide-belgian-tourists-bangkok-temple",
+      "original_url": "https://thethaiger.com/hot-news/tourism/illegal-tour-guide-belgian-tourists-bangkok-temple",
+      "source": "thaiger",
+      "published_at": "2026-10-27T04:22:17Z",
+      "date_basis": "published",
+      "excerpt": "A Thai woman was arrested for working as an unlicensed tour guide on October 24, after officials caught her leading Belgian tourists around Wat Paknam Phasi Charoen in Bangkok. The arrest followed complaints about unlicensed guides operating at the temple and at restaurants nearby. The inspection was carried out by…",
+      "category": "southeast-asia",
+      "language": "en"
+    },
+    {
       "id": "81c3131cc8afc0a39074540d",
       "title": "Brazil’s real sinks after Lula’s re-election victory",
       "url": "https://www.aljazeera.com/economy/2026/10/26/brazils-real-sinks-after-lulas-re-election-victory?traffic_source=rss",
@@ -17674,6 +17686,18 @@
       "published_at": "2026-10-26T18:27:23Z",
       "date_basis": "published",
       "excerpt": "Investors react to Lula's victory with a sharp decline in the real and concern over increased spending and fiscal challenges.",
+      "category": "world",
+      "language": "en"
+    },
+    {
+      "id": "81d2df7e34153c426f6b9cd1",
+      "title": "Trump administration asks Washington to set aside hundreds of ballots from suspected noncitizen voters",
+      "url": "https://www.theguardian.com/us-news/2026/oct/26/trump-washington-ballots-aside-noncitizen-voters",
+      "original_url": "https://www.theguardian.com/us-news/2026/oct/26/trump-washington-ballots-aside-noncitizen-voters",
+      "source": "guardian-world",
+      "published_at": "2026-10-27T01:26:57Z",
+      "date_basis": "published",
+      "excerpt": "This is the latest sign of the administration’s attempts to challenge states with competitive midterm races that could determine control of Congress The Trump administration on Monday asked Washington state to set aside any ballots received from more than 400 people it alleges are registered to vote without US…",
       "category": "world",
       "language": "en"
     },
@@ -17782,6 +17806,18 @@
       "published_at": "2026-10-26T21:31:00Z",
       "date_basis": "published",
       "excerpt": "Eesti segapaariskurlingu paar Karoliine Kaare ja Harri Lill saavutas Šveitsis toimunud kõrgetasemelisel MK-etapil üheksanda koha.",
+      "category": "estonia",
+      "language": "et"
+    },
+    {
+      "id": "825c5018dc960faa13fb86ae",
+      "title": "Kiievit tabas Venemaa raketirünnak",
+      "url": "https://www.err.ee/1610177902/kiievit-tabas-venemaa-raketirunnak",
+      "original_url": "https://www.err.ee/1610177902/kiievit-tabas-venemaa-raketirunnak",
+      "source": "err-uudised",
+      "published_at": "2026-10-27T03:57:00Z",
+      "date_basis": "published",
+      "excerpt": "Venemaa ründas ööl vastu teisipäeva taas Kiievit ballistiliste rakettidega, tappes vähemalt ühe ja haavates kümmet inimest. Ukraina väed ründasid okupeeritud Luhanski oblastis asuvat Vene laskemoonaladu, vallandades seal plahvatuste seeria.",
       "category": "estonia",
       "language": "et"
     },
@@ -18026,6 +18062,18 @@
       "language": "en"
     },
     {
+      "id": "84017f7baaa4b1db4b637098",
+      "title": "Worm armed 42 GitHub repos by hiding a payload too big to fail",
+      "url": "https://www.theregister.com/security/2026/10/26/worm-armed-42-github-repos-by-hiding-a-payload-too-big-to-fail/5305570",
+      "original_url": "https://www.theregister.com/security/2026/10/26/worm-armed-42-github-repos-by-hiding-a-payload-too-big-to-fail/5305570",
+      "source": "register",
+      "published_at": "2026-10-26T22:29:01Z",
+      "date_basis": "published",
+      "excerpt": "Payload blobs measuring 12.9 to 13.7 MB were large enough to evade GitHub code search",
+      "category": "technology",
+      "language": "en"
+    },
+    {
       "id": "8402d4cdc560b216bdb7affa",
       "title": "Trump makes explicit remarks about Nicki Minaj at Michigan midterm rally",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/trump-makes-explicit-remarks-about-nicki-minaj-at-michigan-midterm-rally?traffic_source=rss",
@@ -18069,7 +18117,7 @@
       "source": "pbs-world",
       "published_at": "2026-10-26T22:45:37Z",
       "date_basis": "published",
-      "excerpt": "Israelis will go to the polls on Tuesday in what many describe as the most consequential election in years. It's the first vote since the Oct. 7 Hamas attack and Israel's war in Gaza. Prime Minister Netanyahu has been campaigning that he'll keep Israel safe. But the opposition says Netanyahu failed to prevent the 2003…",
+      "excerpt": "Israelis will go to the polls on Tuesday in what many describe as the most consequential election in years. It's the first vote since the Oct. 7 Hamas attack and Israel's war in Gaza. Prime Minister Netanyahu has been campaigning that he'll keep Israel safe. But the opposition says Netanyahu failed to prevent the 2023…",
       "category": "world",
       "language": "en"
     },
@@ -18218,6 +18266,18 @@
       "language": "en"
     },
     {
+      "id": "85d903fd1704d0cb33187838",
+      "title": "Bolsonaro’s party accepts Brazil election after Trump calls vote ‘rigged’",
+      "url": "https://www.aljazeera.com/news/2026/10/27/bolsonaros-party-accepts-result-after-trump-suggests-vote-was?traffic_source=rss",
+      "original_url": "https://www.aljazeera.com/news/2026/10/27/bolsonaros-party-accepts-result-after-trump-suggests-vote-was?traffic_source=rss",
+      "source": "al-jazeera",
+      "published_at": "2026-10-27T01:32:54Z",
+      "date_basis": "published",
+      "excerpt": "Trump pushes unsubstantiated claims about Brazil's presidential vote but says he 'didn't take sides' in the race.",
+      "category": "world",
+      "language": "en"
+    },
+    {
       "id": "85e6b8b2727e9f1ee1297df4",
       "title": "Премия имени Сахарова \"За свободу мысли\" в 2026 году присуждена Международному уголовному суду",
       "url": "https://www.dw.com/ru/премия-имени-сахарова-за-свободу-мысли-в-2026-году-присуждена-международному-уголовному-суду/a-79732401?maca=rus-rss-ru-all-1126-rdf",
@@ -18312,6 +18372,18 @@
       "excerpt": "Laevafirma Tallink jätab esmaspäeval rikke tõttu ära reisilaeva MyStar graafikujärgsed reisid Tallinna-Helsingi liinil.",
       "category": "estonia",
       "language": "et"
+    },
+    {
+      "id": "86e19a0d01b509f17e9b2c9c",
+      "title": "Ex-FBI chief Comey defiant in the face of third prosecution",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/ex-fbi-chief-comey-defiant-in-the-face-of-third-prosecution?traffic_source=rss",
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/ex-fbi-chief-comey-defiant-in-the-face-of-third-prosecution?traffic_source=rss",
+      "source": "al-jazeera",
+      "published_at": "2026-10-27T03:17:40Z",
+      "date_basis": "published",
+      "excerpt": "Ex-FBI Director James Comey denies US Justice Department's new charges.",
+      "category": "world",
+      "language": "en"
     },
     {
       "id": "86e6ba6f4caf64e6dd3e2a46",
@@ -18926,6 +18998,18 @@
       "language": "en"
     },
     {
+      "id": "8a775a07a9feed8dd1418c01",
+      "title": "Kylian Mbappe loses two major China sponsorship deals over Mao Zedong joke",
+      "url": "https://www.france24.com/en/sport/20261027-kylian-mbappe-china-mao-zedong-sponsorship-deal",
+      "original_url": "https://www.france24.com/en/sport/20261027-kylian-mbappe-china-mao-zedong-sponsorship-deal",
+      "source": "france24",
+      "published_at": "2026-10-27T03:54:02Z",
+      "date_basis": "published",
+      "excerpt": "French football star Kylian Mbappe was dropped by two major Chinese brands on Tuesday after a video circulated online in which he appeared to joke about former leader Mao Zedong. Energy drink giant Dongpeng and dairy producer Mengniu said they had terminated their partnerships, citing remarks that offended Chinese…",
+      "category": "world",
+      "language": "en"
+    },
+    {
       "id": "8a89d1a462139930c18d06f7",
       "title": "Bloomberg: Россия расширяет набор военнослужащих в бедных странах Африки, пытаясь восполнить потери и дефицит личного состава на войне в Украине",
       "url": "https://www.dw.com/ru/bloomberg-россия-расширяет-набор-военнослужащих-в-бедных-странах-африки-пытаясь-восполнить-потери-и-дефицит-личного-состава-на-войне-в-украине/a-79769108?maca=rus-rss-ru-all-1126-rdf",
@@ -19394,18 +19478,6 @@
       "language": "et"
     },
     {
-      "id": "8d2eea74eba10dbebcaf492e",
-      "title": "Trump's green card curbs test Indian tech workers' American dream",
-      "url": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_campaign=rss&at_medium=RSS",
-      "original_url": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
-      "source": "bbc-world",
-      "published_at": "2026-10-21T23:06:37Z",
-      "date_basis": "published",
-      "excerpt": "With immigration curbs and tech firms cutting foreign hiring, US residency is becoming a distant dream for many Indians.",
-      "category": "world",
-      "language": "en"
-    },
-    {
       "id": "8ddc76a7fc8bcd6f0f644bd0",
       "title": "IEEE Xplore Digital Library Adds AI Assistant",
       "url": "https://spectrum.ieee.org/ieee-xplore-digital-library-ai",
@@ -19799,6 +19871,18 @@
       "date_basis": "published",
       "excerpt": "A 57 year old construction contractor was seriously injured after being shot while playing golf at his company in Phatthalung province on October 20. Police are investigating a possible dispute linked to his business. The victim, identified as Saeng-athit, was shot twice, near his ear and on his left cheek, at a golf…",
       "category": "southeast-asia",
+      "language": "en"
+    },
+    {
+      "id": "912e6317801bd18b4a078fd6",
+      "title": "Ripple gets a final go-ahead to launch its own U.S. national trust bank",
+      "url": "https://www.coindesk.com/markets/2026/10/27/ripple-gets-a-final-go-ahead-to-launch-its-own-u-s-national-trust-bank",
+      "original_url": "https://www.coindesk.com/markets/2026/10/27/ripple-gets-a-final-go-ahead-to-launch-its-own-u-s-national-trust-bank",
+      "source": "coindesk",
+      "published_at": "2026-10-27T04:28:49Z",
+      "date_basis": "published",
+      "excerpt": "",
+      "category": "technology",
       "language": "en"
     },
     {
@@ -20391,11 +20475,11 @@
     },
     {
       "id": "95386fc0e5b3b61116848ae2",
-      "title": "Politics live: Labor says Payman linking Haines-style attack to staffing allocation ‘outrageous’; first Aukus nuclear sub for Australia revealed",
+      "title": "Australian politics live: Coalition tells Albanese to ‘stop the spin’ on $6m golf grant; Labor promises ‘swift response’ on MP safety",
       "url": "https://www.theguardian.com/australia-news/live/2026/oct/27/one-nation-pauline-hanson-independent-jacqui-lambie-labor-anthony-albanese-coalition-ntwnfb",
       "original_url": "https://www.theguardian.com/australia-news/live/2026/oct/27/one-nation-pauline-hanson-independent-jacqui-lambie-labor-anthony-albanese-coalition-ntwnfb",
       "source": "guardian-world",
-      "published_at": "2026-10-27T00:49:37Z",
+      "published_at": "2026-10-27T04:33:07Z",
       "date_basis": "published",
       "excerpt": "Follow the day’s news live Get our breaking news email, free app or daily news podcast Political debate should be ‘robust but respectful’, Anne Ruston says A day after MPs addressed the House of Representatives paying tribute to the independent Helen Haines, who was injured after an alleged attack in her electorate,…",
       "category": "world",
@@ -20435,18 +20519,6 @@
       "date_basis": "published",
       "excerpt": "A policy change effective Oct. 16 carves out an exception to Google’s long-standing pledge—letting connected Gmail, Drive, and Photos data personalize ads through its Personal Intelligence AI features.",
       "category": "technology",
-      "language": "en"
-    },
-    {
-      "id": "9598c37dd8ace792647cae0a",
-      "title": "Live snake found in Japan plane after flight canceled",
-      "url": "https://e.vnexpress.net/news/news/traffic/live-snake-found-in-japan-plane-after-flight-canceled-5135174.html",
-      "original_url": "https://e.vnexpress.net/news/news/traffic/live-snake-found-in-japan-plane-after-flight-canceled-5135174.html",
-      "source": "vnexpress-en",
-      "published_at": "2026-10-22T02:45:06Z",
-      "date_basis": "published",
-      "excerpt": "A live snake about 40 centimeters long has turned up under the cabin carpet of a Japan Airlines group plane in Fukuoka, a day after a pilot spotted an animal in the cockpit and its flight was canceled.",
-      "category": "southeast-asia",
       "language": "en"
     },
     {
@@ -21158,6 +21230,18 @@
       "language": "en"
     },
     {
+      "id": "9935d9952c79a6787735a15a",
+      "title": "Singaporean runs from Bangkok airport taxi, falls off expressway",
+      "url": "https://thethaiger.com/news/bangkok/singaporean-runs-from-bangkok-airport-taxi-falls-off-expressway",
+      "original_url": "https://thethaiger.com/news/bangkok/singaporean-runs-from-bangkok-airport-taxi-falls-off-expressway",
+      "source": "thaiger",
+      "published_at": "2026-10-27T02:36:03Z",
+      "date_basis": "published",
+      "excerpt": "A Singaporean man was injured after getting out of a taxi, running along Bangkok’s Si Rat Expressway and falling from the elevated road yesterday, October 26. The taxi driver said the passenger had appeared “agitated” and repeatedly demanded to be let out during a journey from Suvarnabhumi International Airport. The…",
+      "category": "southeast-asia",
+      "language": "en"
+    },
+    {
       "id": "9981b988d8ef3b586c806efe",
       "title": "Saudi Arabia confirms January start for Asian Cup 2027 despite attacks",
       "url": "https://www.aljazeera.com/sports/2026/10/26/saudi-arabia-confirms-january-start-for-asian-cup-2027-despite-attacks?traffic_source=rss",
@@ -21506,6 +21590,18 @@
       "language": "et"
     },
     {
+      "id": "9bff7b42c98f0d6c4d7c5492",
+      "title": "Don Mueang drops hand wand for pat-down body search from November 1",
+      "url": "https://thethaiger.com/news/world/aviation/don-mueang-airport-swaps-hand-held-detector-for-pat-down-search",
+      "original_url": "https://thethaiger.com/news/world/aviation/don-mueang-airport-swaps-hand-held-detector-for-pat-down-search",
+      "source": "thaiger",
+      "published_at": "2026-10-27T04:03:27Z",
+      "date_basis": "published",
+      "excerpt": "Don Mueang International Airport will replace hand-held metal detector checks with pat-down searches from November 1, under a change to passenger security screening procedures announced on October 27. The airport said on its official Facebook page that hand-held metal detectors (HHMDs) would no longer be used from the…",
+      "category": "southeast-asia",
+      "language": "en"
+    },
+    {
       "id": "9c1f58048a1266cd98e52c6c",
       "title": "AKAA art and design fair brings African artists to Paris",
       "url": "https://www.france24.com/en/tv-shows/arts24/20261023-akaa-art-and-design-fair-brings-african-artists-to-paris",
@@ -21614,6 +21710,18 @@
       "language": "en"
     },
     {
+      "id": "9cc63ee8bcd960d4384a63c6",
+      "title": "Loodusmuuseum läheb püsiekspositsiooni teostaja hankega teisele katsele",
+      "url": "https://www.err.ee/1610177284/loodusmuuseum-laheb-pusiekspositsiooni-teostaja-hankega-teisele-katsele",
+      "original_url": "https://www.err.ee/1610177284/loodusmuuseum-laheb-pusiekspositsiooni-teostaja-hankega-teisele-katsele",
+      "source": "err-uudised",
+      "published_at": "2026-10-27T04:21:00Z",
+      "date_basis": "published",
+      "excerpt": "Loodusmuuseumi uue püsiekspositsiooni rajamine sai tagasilöögi, kui esimene hange kukkus sobivate pakkumiste puudumisel läbi. Muuseum kuulutas nüüd välja uue kolme miljoni eurose hanke, et leida teostaja Eesti muuseumimaastiku viimase kümnendi ühele suurimale projektile.",
+      "category": "estonia",
+      "language": "et"
+    },
+    {
       "id": "9d06605e374ea12ca84e4c19",
       "title": "How Brazil's changing working class is reshaping the presidential race",
       "url": "https://www.bbc.co.uk/news/articles/cw80zx79nkvno?at_campaign=rss&at_medium=RSS",
@@ -21659,18 +21767,6 @@
       "date_basis": "published",
       "excerpt": "France is bracing for another weekend of protests, after violence erupted on the sidelines of last week's mobilisations. Paris is extending a partial curfew in parts of the city until Monday, while protests are banned altogether in the cities of Marseille and Lyon. 70,000 security personnel will be deployed on…",
       "category": "world",
-      "language": "en"
-    },
-    {
-      "id": "9d3c46f43007f02eacc2142e",
-      "title": "Philippine government suspends top tech official for alleged misconduct",
-      "url": "https://www.theregister.com/public-sector/2026/10/22/philippine-government-suspends-top-tech-official-for-alleged-misconduct/5304633",
-      "original_url": "https://www.theregister.com/public-sector/2026/10/22/philippine-government-suspends-top-tech-official-for-alleged-misconduct/5304633",
-      "source": "register",
-      "published_at": "2026-10-22T03:04:20Z",
-      "date_basis": "published",
-      "excerpt": "Founder of offshore software development firm investigated for possibly giving his former outfit government contracts",
-      "category": "technology",
       "language": "en"
     },
     {
@@ -21899,18 +21995,6 @@
       "date_basis": "published",
       "excerpt": "A Thai man says a food shop at a Bangkok hospital is seeking 1 million baht (US$29,770) in damages from him over a Facebook video complaining that its chicken basil rice cost 260 baht ($7.74).",
       "category": "southeast-asia",
-      "language": "en"
-    },
-    {
-      "id": "9ed183240fc8c7e60193e26f",
-      "title": "HSBC rolls out its first stablecoin to over 3 million everyday app users",
-      "url": "https://www.coindesk.com/business/2026/10/23/hsbc-rolls-out-its-first-stablecoin-to-over-3-million-everyday-app-users",
-      "original_url": "https://www.coindesk.com/business/2026/10/23/hsbc-rolls-out-its-first-stablecoin-to-over-3-million-everyday-app-users",
-      "source": "coindesk",
-      "published_at": "2026-10-23T10:22:56Z",
-      "date_basis": "published",
-      "excerpt": "",
-      "category": "technology",
       "language": "en"
     },
     {
@@ -22250,18 +22334,6 @@
       "language": "et"
     },
     {
-      "id": "a13721260979a30130411803",
-      "title": "Pope Leo will not need further cancer treatment — Vatican",
-      "url": "https://www.dw.com/en/pope-leo-will-not-need-further-cancer-treatment-vatican/a-79727154?maca=en-rss-en-all-1573-rdf",
-      "original_url": "https://www.dw.com/en/pope-leo-will-not-need-further-cancer-treatment-vatican/a-79727154?maca=en-rss-en-all-1573-rdf",
-      "source": "dw-en",
-      "published_at": "2026-10-21T23:47:00Z",
-      "date_basis": "updated",
-      "excerpt": "Pope Leo's lung cancer surgery last week was a success, the Vatican said. The pope broke with traditions of secrecy around papal health issues after announcing he needed surgery to remove a nodule on his lung.",
-      "category": "world",
-      "language": "en"
-    },
-    {
       "id": "a1395c807e77bbefc2780543",
       "title": "Elering rajab kriisijuhtimiskeskuse",
       "url": "https://www.err.ee/1610177267/elering-rajab-kriisijuhtimiskeskuse",
@@ -22343,6 +22415,18 @@
       "date_basis": "published",
       "excerpt": "Trump has launched another fierce anti-Muslim attack on Democratic Senate candidate Abdul El-Sayed.",
       "category": "world",
+      "language": "en"
+    },
+    {
+      "id": "a18f8e5546a1082395679c8a",
+      "title": "Phuket flood turns road into fishing spot as locals cast nets",
+      "url": "https://www.khaosodenglish.com/featured/2026/10/27/phuket-flood-turns-road-into-fishing-spot-as-locals-cast-nets/",
+      "original_url": "https://www.khaosodenglish.com/featured/2026/10/27/phuket-flood-turns-road-into-fishing-spot-as-locals-cast-nets/",
+      "source": "khaosod-en",
+      "published_at": "2026-10-27T02:50:31Z",
+      "date_basis": "published",
+      "excerpt": "PHUKET — 26 October 2026, Floodwaters brought an unexpected twist of humour to Phuket, where residents were filmed casting fishing nets along a flooded road in Kamala and even catching fish to take home. Heavy rain throughout the night left several areas of the island inundated, with floodwaters and runoff affecting…",
+      "category": "southeast-asia",
       "language": "en"
     },
     {
@@ -22547,18 +22631,6 @@
       "date_basis": "published",
       "excerpt": "",
       "category": "technology",
-      "language": "en"
-    },
-    {
-      "id": "a2e32524228462668628a371",
-      "title": "No order, no seat: Starbucks China rolls out new store policy",
-      "url": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_campaign=rss&at_medium=RSS",
-      "original_url": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
-      "source": "bbc-world",
-      "published_at": "2026-10-22T04:02:29Z",
-      "date_basis": "published",
-      "excerpt": "Starbucks says it is improving customers' in-store experience as it competes with homegrown rivals.",
-      "category": "world",
       "language": "en"
     },
     {
@@ -22776,18 +22848,6 @@
       "excerpt": "22 октября стало известно, что во Франции умер человек, у которого обнаружили вирус Шамонда. Вероятно, он заболел из-за укуса мокреца, когда находился на востоке страны. Это первый известный случай, когда вирус обнаружили у людей. Обычно он встречается у коров, коз и других сельскохозяйственных животных. Об этом…",
       "category": "russia-ukraine",
       "language": "ru"
-    },
-    {
-      "id": "a45168629e84a64c61679804",
-      "title": "NA draft resolution proposes special mechanisms to attract, retain talent, including foreigners",
-      "url": "https://vietnamnews.vn/society/1802596/na-draft-resolution-proposes-special-mechanisms-to-attract-retain-talent-including-foreigners.html",
-      "original_url": "https://vietnamnews.vn/society/1802596/na-draft-resolution-proposes-special-mechanisms-to-attract-retain-talent-including-foreigners.html",
-      "source": "vietnam-news",
-      "published_at": "2026-10-22T03:19:31Z",
-      "date_basis": "published",
-      "excerpt": "The mechanisms would apply to talented Vietnamese citizens, overseas Vietnamese and foreign nationals.",
-      "category": "southeast-asia",
-      "language": "en"
     },
     {
       "id": "a457ef1632526909a9269b23",
@@ -23174,18 +23234,6 @@
       "language": "en"
     },
     {
-      "id": "a74f763f5d1b2a0685922318",
-      "title": "Zelensky: Rubio to revisit Starlink restrictions in Ukraine within 48 to 72 hours",
-      "url": "https://www.ukrinform.net/rubric-polytics/4177645-zelensky-rubio-to-revisit-starlink-restrictions-in-ukraine-within-48-to-72-hours.html",
-      "original_url": "https://www.ukrinform.net/rubric-polytics/4177645-zelensky-rubio-to-revisit-starlink-restrictions-in-ukraine-within-48-to-72-hours.html",
-      "source": "ukrinform",
-      "published_at": "2026-10-23T19:57:00Z",
-      "date_basis": "published",
-      "excerpt": "President Volodymyr Zelensky stated that Ukraine is testing Starlink’s performance in various areas, particularly near the front lines, and is counting on a decision by the U.S. administration and SpaceX to lift the speed restrictions.",
-      "category": "russia-ukraine",
-      "language": "en"
-    },
-    {
       "id": "a75cbaedb142a0bb40dc0622",
       "title": "DeepSeek reportedly raises $15B days after US restrictions",
       "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
@@ -23486,18 +23534,6 @@
       "language": "en"
     },
     {
-      "id": "a96ffe64ec42d70e473b1e70",
-      "title": "Thai Enquirer News Summary – October 22, 2026",
-      "url": "https://www.thaienquirer.com/75403/thai-enquirer-news-summary-october-22-2026/",
-      "original_url": "https://www.thaienquirer.com/75403/thai-enquirer-news-summary-october-22-2026/",
-      "source": "thai-enquirer",
-      "published_at": "2026-10-22T02:06:05Z",
-      "date_basis": "published",
-      "excerpt": "October 22, 2026 Political news A ‘Sign’ of Things to Come If there was any doubt about which way the coalition of Bhumjai Thai party was heading towards, then look no further because after the Indian food dinner with the convicted drug dealer and de-facto leader of Kla Tham party – Thammanat Prompao, there was […]…",
-      "category": "southeast-asia",
-      "language": "en"
-    },
-    {
       "id": "a9bf3ab463f83b1420ee094c",
       "title": "На мать Александра Вучича напали, когда она шла с рынка после голосования на избирательном участке",
       "url": "https://meduza.io/news/2026/10/25/na-mat-aleksandra-vuchicha-napali-kogda-ona-shla-s-rynka-posle-golosovaniya-na-izbiratelnom-uchastke",
@@ -23508,6 +23544,18 @@
       "excerpt": "На Ангелину Вучич, мать ушедшего в отставку президента Сербии Александра Вучича, напали в Белграде, сообщает сербский телеканал Informer TV.",
       "category": "russia-ukraine",
       "language": "ru"
+    },
+    {
+      "id": "a9cbf5a57e50070ed48f057a",
+      "title": "Koorberg: Meta kavandab suurimat sisuvargust",
+      "url": "https://www.err.ee/1610177335/koorberg-meta-kavandab-suurimat-sisuvargust",
+      "original_url": "https://www.err.ee/1610177335/koorberg-meta-kavandab-suurimat-sisuvargust",
+      "source": "err-uudised",
+      "published_at": "2026-10-27T04:20:00Z",
+      "date_basis": "published",
+      "excerpt": "Eesti meediaettevõtete liidu juhatuse liikme Väino Koorbergi sõnul võib Meta uute äritingimuste jõustumine tähendada ajakirjandusliku sisu ulatuslikku kasutamist ilma väljaandjate loata ja neile tasu maksmata. Liit nõuab Euroopa Komisjonilt kiiret sekkumist, et vältida kahju meediaettevõtetele ja ajakirjanduse…",
+      "category": "estonia",
+      "language": "et"
     },
     {
       "id": "a9cf7b6f273a9ad706d09fec",
@@ -24134,18 +24182,6 @@
       "language": "en"
     },
     {
-      "id": "ae4923998bac5546be4690d6",
-      "title": "Police in Albania filmed beating protester unconscious",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/police-in-albania-filmed-beating-protester-unconscious?traffic_source=rss",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/police-in-albania-filmed-beating-protester-unconscious?traffic_source=rss",
-      "source": "al-jazeera",
-      "published_at": "2026-10-25T10:45:51Z",
-      "date_basis": "published",
-      "excerpt": "Police in Albania’s capital, Tirana, were filmed beating a protester lying on the ground.",
-      "category": "world",
-      "language": "en"
-    },
-    {
       "id": "ae4d71fe2af882e6dfccff8e",
       "title": "Russian attacks across Ukraine kill 2, injure 35 over past day, as repeated strikes hit Zaporizhzhia",
       "url": "https://kyivindependent.com/russian-attacks-across-ukraine-kill-2-wound-35-over-past-day-as-repeated-strikes-hit-zaporizhzhia/",
@@ -24686,18 +24722,6 @@
       "language": "en"
     },
     {
-      "id": "b13bfd3ffb9d5e504f689384",
-      "title": "Malaysia deploys driverless cargo vehicle for urban roads",
-      "url": "https://e.vnexpress.net/news/news/traffic/malaysia-deploys-driverless-cargo-vehicle-for-urban-roads-5135435.html",
-      "original_url": "https://e.vnexpress.net/news/news/traffic/malaysia-deploys-driverless-cargo-vehicle-for-urban-roads-5135435.html",
-      "source": "vnexpress-en",
-      "published_at": "2026-10-22T02:44:48Z",
-      "date_basis": "published",
-      "excerpt": "Malaysia's Autonomous Logistic Solutions (ALS) launched its Level 4 autonomous RoboVan for public-road operations on Wednesday.",
-      "category": "southeast-asia",
-      "language": "en"
-    },
-    {
       "id": "b14c4da10356b6b629d5abc3",
       "title": "ERR-i teleuudised kell 7:00",
       "url": "https://www.err.ee/1610176909/err-i-teleuudised-kell-7-00",
@@ -24864,18 +24888,6 @@
       "excerpt": "Israel announced it would be closing all land crossings with the West Bank on the day of next week's parliamentary elections. The measure comes as Israel conducts a large-scale operation in the occupied Palestinian territory and 2,000 residents of Hebron have been displaced from their homes after Palestinian gunmen…",
       "category": "world",
       "language": "en"
-    },
-    {
-      "id": "b262a0dc654f9f3709691bda",
-      "title": "Польша приостановила оказание военной помощи Украине из-за скандала вокруг УПА, сообщают украинские СМИ. В Варшаве заявили, что договорились с Киевом",
-      "url": "https://www.dw.com/ru/польша-приостановила-оказание-военной-помощи-украине-из-за-скандала-вокруг-упа-сообщают-украинские-сми-в-варшаве-заявили-что-договорились-с-киевом/a-79727431?maca=rus-rss-ru-all-1126-rdf",
-      "original_url": "https://www.dw.com/ru/польша-приостановила-оказание-военной-помощи-украине-из-за-скандала-вокруг-упа-сообщают-украинские-сми-в-варшаве-заявили-что-договорились-с-киевом/a-79727431?maca=rus-rss-ru-all-1126-rdf",
-      "source": "dw-ru",
-      "published_at": "2026-10-22T03:18:00Z",
-      "date_basis": "updated",
-      "excerpt": "Польша приостановила отправку крупного пакета оружия Украине из-за решения Львовского облсовета объявить 2027-й \"годом УПА\", пишут украинские СМИ. Киев пообещал, что это решение не вступит в силу, заявил польский МИД.",
-      "category": "russia-ukraine",
-      "language": "ru"
     },
     {
       "id": "b279af49629d687ffa356a32",
@@ -25454,6 +25466,18 @@
       "language": "en"
     },
     {
+      "id": "b6f77d862e9f6d2ff32dcfbd",
+      "title": "Thai King’s son says he is afraid as second brain surgery goes ahead in Malaysia",
+      "url": "https://thethaiger.com/news/thai-kings-son-chakriwat-second-brain-surgery-malaysia",
+      "original_url": "https://thethaiger.com/news/thai-kings-son-chakriwat-second-brain-surgery-malaysia",
+      "source": "thaiger",
+      "published_at": "2026-10-27T03:31:42Z",
+      "date_basis": "published",
+      "excerpt": "Dr Chakriwat “Than Aong” Vivacharawongse, a son of Thailand’s King Maha Vajiralongkorn, is due to undergo brain surgery in Malaysia today. It is the second such operation of his life, and he says he feels both glad and afraid. He set out those feelings in a written post and a video on his Facebook page … The story…",
+      "category": "southeast-asia",
+      "language": "en"
+    },
+    {
       "id": "b737f46e8b1f41e724f54953",
       "title": "AI models describe humans as a bunch of amoral sheep",
       "url": "https://www.theregister.com/ai-and-ml/2026/10/23/ai-models-describe-humans-as-a-bunch-of-amoral-sheep/5305123",
@@ -25622,6 +25646,18 @@
       "language": "en"
     },
     {
+      "id": "b84d06faff6021e8ada11bc0",
+      "title": "Pope's South American trip to go ahead as planned after lung cancer surgery",
+      "url": "https://www.bbc.co.uk/news/articles/cjr4y5rq46p2o?at_campaign=rss&at_medium=RSS",
+      "original_url": "https://www.bbc.co.uk/news/articles/cjr4y5rq46p2o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "published_at": "2026-10-26T18:46:19Z",
+      "date_basis": "published",
+      "excerpt": "The Pope underwent surgery in to remove a tumour on the lower part of his right lung and is gradually resuming his duties.",
+      "category": "world",
+      "language": "en"
+    },
+    {
       "id": "b88fb65268531bf0d399ebb5",
       "title": "由Mediazona统计的俄乌战争俄军阵亡数据",
       "url": "https://zona.media/article/2026/10/23/zhenwang",
@@ -25715,6 +25751,18 @@
       "date_basis": "published",
       "excerpt": "Brazil’s President Luiz Inacio Lula da Silva has won an unprecedented fourth term.",
       "category": "world",
+      "language": "en"
+    },
+    {
+      "id": "b98ce2a188a0abc505ed70a8",
+      "title": "South Korea's top-ranked university eyes students in Vietnam, China for its first international-only division",
+      "url": "https://e.vnexpress.net/news/news/education/south-korea-s-top-ranked-university-eyes-students-in-vietnam-china-for-its-first-international-only-division-5137142.html",
+      "original_url": "https://e.vnexpress.net/news/news/education/south-korea-s-top-ranked-university-eyes-students-in-vietnam-china-for-its-first-international-only-division-5137142.html",
+      "source": "vnexpress-en",
+      "published_at": "2026-10-27T02:09:01Z",
+      "date_basis": "published",
+      "excerpt": "Seoul National University (SNU) is considering Vietnam, mainland China, Taiwan, Kazakhstan and Uzbekistan as priority recruitment markets for its first international-only undergraduate division, opening in fall 2027.",
+      "category": "southeast-asia",
       "language": "en"
     },
     {
@@ -25982,30 +26030,6 @@
       "language": "en"
     },
     {
-      "id": "bc522b9da191d4c5bf697456",
-      "title": "Dónal Lunny, ‘colossus of Irish music’, dies aged 79",
-      "url": "https://www.theguardian.com/music/2026/oct/24/donal-lunny-colossus-irish-music-dies-aged-79",
-      "original_url": "https://www.theguardian.com/music/2026/oct/24/donal-lunny-colossus-irish-music-dies-aged-79",
-      "source": "guardian-world",
-      "published_at": "2026-10-24T08:44:44Z",
-      "date_basis": "published",
-      "excerpt": "Founding member of Planxty, Lunny went on to play for bands such as Moving Hearts, the Bothy Band and Coolfin The Irish traditional musician Dónal Lunny has died at the age of 79 from cancer. Lunny rose to prominence in the trio Rakes of Kildare alongside his brother Frank and Christy Moore. He went on to play in…",
-      "category": "world",
-      "language": "en"
-    },
-    {
-      "id": "bc591ca5ad4e0a8821d431e7",
-      "title": "American YouTuber posts CCTV of alleged Pattaya attack and robbery",
-      "url": "https://thethaiger.com/news/pattaya/american-man-reports-assault-and-robbery-in-pattaya-on-youtube",
-      "original_url": "https://thethaiger.com/news/pattaya/american-man-reports-assault-and-robbery-in-pattaya-on-youtube",
-      "source": "thaiger",
-      "published_at": "2026-10-22T02:59:37Z",
-      "date_basis": "published",
-      "excerpt": "An American man appealed for online assistance, saying he was assaulted and robbed by two foreign men in Pattaya on October 18, leaving him injured and facing financial difficulties. Christopher Barne, 37, described the alleged Pattaya robbery in a video uploaded to his YouTube channel on October 21. He also shared…",
-      "category": "southeast-asia",
-      "language": "en"
-    },
-    {
       "id": "bc6294da99e08f9910145986",
       "title": "Does TSA actually allow AirTags in your luggage? Here's what the rules say",
       "url": "https://www.engadget.com/2294102/does-tsa-allow-airtags-in-luggage-what-rules-say/",
@@ -26090,6 +26114,18 @@
       "language": "ru"
     },
     {
+      "id": "bcf9dfb8d247bdfb82f0c7e2",
+      "title": "US-EU trade truce at risk over $3.4 billion Airbus loan, Trump official warns",
+      "url": "https://www.france24.com/en/europe/20261027-us-eu-trade-truce-airbus-loan-trump",
+      "original_url": "https://www.france24.com/en/europe/20261027-us-eu-trade-truce-airbus-loan-trump",
+      "source": "france24",
+      "published_at": "2026-10-27T02:20:28Z",
+      "date_basis": "published",
+      "excerpt": "US Trade Representative Jamieson Greer warned on Monday that a $3.4 billion European Investment Bank loan to Airbus could jeopardise a tariff truce between Washington and Brussels. Greer said his office had received no details about the financing, announced in June, and urged the EU to resolve the matter quickly.",
+      "category": "world",
+      "language": "en"
+    },
+    {
       "id": "bd06f2d20ac3d5be2d43eda7",
       "title": "Drinking water supplies dwindle in Yemeni city besieged by Houthi rebels",
       "url": "https://www.npr.org/2026/10/24/g-s1-149729/drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels",
@@ -26112,6 +26148,18 @@
       "excerpt": "Бывшая следовательница из Екатеринбурга Екатерина Герлах обратилась в Генпрокуратуру и СК с требованием привлечь музыканта Егора Крида к уголовной ответственности за «осквернение памяти жертв геноцида советского народа». Поводом стал лонгслив певца в его новом клипе, на котором изображен герой фильма «Иди и смотри».…",
       "category": "russia-ukraine",
       "language": "ru"
+    },
+    {
+      "id": "bd0fea22c91fcd680f5df110",
+      "title": "AI replaces climate change as top worldwide concern",
+      "url": "https://www.bangkokpost.com/business/general/3344149/ai-replaces-climate-change-as-top-worldwide-concern",
+      "original_url": "https://www.bangkokpost.com/business/general/3344149/ai-replaces-climate-change-as-top-worldwide-concern",
+      "source": "bangkok-post",
+      "published_at": "2026-10-27T03:13:00Z",
+      "date_basis": "published",
+      "excerpt": "Artificial intelligence (AI) and big data have overtaken climate change as the top risk among experts worldwide, underscoring growing concerns that technological development is advancing faster than regulators' ability to prepare for its potential consequences, says French insurer Axa.",
+      "category": "southeast-asia",
+      "language": "en"
     },
     {
       "id": "bd33b318f0ffc21db3c301b4",
@@ -26198,6 +26246,18 @@
       "language": "et"
     },
     {
+      "id": "bd6878145d985706aa7a5c44",
+      "title": "Local ceasefire in besieged Oleshky begins, Ukrainian, Russian officials say",
+      "url": "https://kyivindependent.com/local-ceasefire-in-besieged-oleshky-begins-ukrainian-russian-officials-say/",
+      "original_url": "https://kyivindependent.com/local-ceasefire-in-besieged-oleshky-begins-ukrainian-russian-officials-say/",
+      "source": "kyiv-independent",
+      "published_at": "2026-10-27T02:58:18Z",
+      "date_basis": "published",
+      "excerpt": "A ceasefire to allow humanitarian aid to enter the Russian occupied city began as Russian forces launched ballistic missiles at other parts of Ukraine.",
+      "category": "russia-ukraine",
+      "language": "en"
+    },
+    {
       "id": "bd9cd780c4f087cce5da6de9",
       "title": "Google Beam is being deployed at 20 USO locations",
       "url": "https://www.engadget.com/2295586/google-beam-is-being-deployed-at-20-uso-locations/",
@@ -26270,18 +26330,6 @@
       "language": "en"
     },
     {
-      "id": "be221589e7c0e02fdc4c9f66",
-      "title": "YouTube says it isn’t testing hiding the dislike button",
-      "url": "https://www.theverge.com/streaming/1016206/youtube-dislike-button-videos",
-      "original_url": "https://www.theverge.com/streaming/1016206/youtube-dislike-button-videos",
-      "source": "verge",
-      "published_at": "2026-10-21T23:46:45Z",
-      "date_basis": "published",
-      "excerpt": "On Tuesday, I published a story about how YouTube appeared to be testing hiding the dislike button on videos, with at least two users on X sharing screenshots of the dislike button moved into the three-dot menu. But a YouTube spokesperson, in a Wednesday statement to The Verge, confirmed that YouTube is \"not testing…",
-      "category": "technology",
-      "language": "en"
-    },
-    {
       "id": "be24d3c7efdfa532d17777b6",
       "title": "Во Франции учредили литературную премию за книги, написанные с ИИ",
       "url": "https://www.dw.com/ru/во-франции-учредили-литературную-премию-за-книги-написанные-с-ии/a-79732503?maca=rus-rss-ru-all-1126-rdf",
@@ -26292,18 +26340,6 @@
       "excerpt": "Во Франции появилась ежегодная премия Prix Pascal за произведения, созданные автором совместно с ИИ. В это же время в литературном мире разгораются споры о границах авторства и допустимости нейросетей в творчестве.",
       "category": "russia-ukraine",
       "language": "ru"
-    },
-    {
-      "id": "be26bb3ba6c4bc51f2d95d72",
-      "title": "AIPAC halts endorsements and direct contributions to candidates",
-      "url": "https://www.npr.org/2026/10/21/nx-s1-6011531/aipac-campaign-contributions-israel-democrats",
-      "original_url": "https://www.npr.org/2026/10/21/nx-s1-6011531/aipac-campaign-contributions-israel-democrats",
-      "source": "npr-world",
-      "published_at": "2026-10-22T00:22:48Z",
-      "date_basis": "published",
-      "excerpt": "The pro-Israel lobbying group and influential political funder announced it would no longer endorse candidates or give directly to campaigns. AIPAC's affiliated super PAC, though, will continue.",
-      "category": "world",
-      "language": "en"
     },
     {
       "id": "be4a412389ccc88342ae9380",
@@ -26351,18 +26387,6 @@
       "date_basis": "published",
       "excerpt": "Russian forces have struck a residential area of private houses in Kharkiv's Osnovianskyi district.",
       "category": "russia-ukraine",
-      "language": "en"
-    },
-    {
-      "id": "be9a427089821a1ac4cea15c",
-      "title": "Pakistan drops Shan Masood from Sri Lanka Test squad as Agha, Rizwan return",
-      "url": "https://www.aljazeera.com/sports/2026/10/25/pakistan-axe-shan-masood-from-sri-lanka-test-squad-as-agha-rizwan-return?traffic_source=rss",
-      "original_url": "https://www.aljazeera.com/sports/2026/10/25/pakistan-axe-shan-masood-from-sri-lanka-test-squad-as-agha-rizwan-return?traffic_source=rss",
-      "source": "al-jazeera",
-      "published_at": "2026-10-25T10:27:36Z",
-      "date_basis": "published",
-      "excerpt": "Ali Usman has also been recalled to the Test team after being sent home from the England tour.",
-      "category": "world",
       "language": "en"
     },
     {
@@ -26558,18 +26582,6 @@
       "language": "en"
     },
     {
-      "id": "bf5c98705fd1e814d5a25655",
-      "title": "To help world gorge on GPUs, Nvidia brings cash bucket to fatten wafer-thin supply chain",
-      "url": "https://www.theregister.com/ai-and-ml/2026/10/22/to-help-world-gorge-on-gpus-nvidia-brings-cash-bucket-to-fatten-wafer-thin-supply-chain/5304623",
-      "original_url": "https://www.theregister.com/ai-and-ml/2026/10/22/to-help-world-gorge-on-gpus-nvidia-brings-cash-bucket-to-fatten-wafer-thin-supply-chain/5304623",
-      "source": "register",
-      "published_at": "2026-10-22T00:54:33Z",
-      "date_basis": "published",
-      "excerpt": "Signs Samsung to build substrates, bolsters spend with other players",
-      "category": "technology",
-      "language": "en"
-    },
-    {
       "id": "bf76110ac03813968e923ad1",
       "title": "Sydney's $3.7B airport launches first international flight after decades of planning",
       "url": "https://e.vnexpress.net/news/news/traffic/sydney-s-3-7b-airport-launches-first-international-flight-after-decades-of-planning-5136957.html",
@@ -26738,6 +26750,18 @@
       "language": "en"
     },
     {
+      "id": "c0c58d1be55c26bda85e6874",
+      "title": "Asok student left with 7 stitches after scissors attack near university",
+      "url": "https://thethaiger.com/news/bangkok/asok-transwoman-stabs-masters-student-with-scissors",
+      "original_url": "https://thethaiger.com/news/bangkok/asok-transwoman-stabs-masters-student-with-scissors",
+      "source": "thaiger",
+      "published_at": "2026-10-27T02:42:08Z",
+      "date_basis": "published",
+      "excerpt": "A postgraduate student is seeking police action after a transwoman stabbed her with scissors near her university in Bangkok’s Asok area on October 3, leaving her with an injury that required seven stitches and ongoing anxiety. The student approached the non-profit organisation Saimai Survive on October 26, accompanied…",
+      "category": "southeast-asia",
+      "language": "en"
+    },
+    {
       "id": "c0d5e9793cd6302b9bd92e22",
       "title": "Israel's Central Bank Rebukes Netanyahu Plan to Use Crypto to Dodge Sanctions",
       "url": "https://decrypt.co/381789/israels-central-bank-rebukes-netanyahu-plan-to-use-crypto-to-dodge-sanctions",
@@ -26770,18 +26794,6 @@
       "published_at": "2026-10-26T08:41:34Z",
       "date_basis": "published",
       "excerpt": "A political earthquake has occurred in Serbia as a student-backed movement wins the parliamentary election, ending more than a decade of dominance by a Moscow-backed populist leader.",
-      "category": "world",
-      "language": "en"
-    },
-    {
-      "id": "c0e9b83f75406194f175c911",
-      "title": "Trump mocks reporter asking about Iran strikes, as Tehran says US derailed",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/trump-mocks-reporter-asking-about-iran-strikes-as-tehran-says-us-derailed?traffic_source=rss",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/trump-mocks-reporter-asking-about-iran-strikes-as-tehran-says-us-derailed?traffic_source=rss",
-      "source": "al-jazeera",
-      "published_at": "2026-10-25T10:14:43Z",
-      "date_basis": "published",
-      "excerpt": "US President Donald Trump sarcastically responded to a reporter asking about possible renewed attacks on Iran.",
       "category": "world",
       "language": "en"
     },
@@ -27242,18 +27254,6 @@
       "language": "en"
     },
     {
-      "id": "c366388286494b5e79707995",
-      "title": "Arvustus. Kas valul on keel?",
-      "url": "https://kultuur.err.ee/1610176162/arvustus-kas-valul-on-keel",
-      "original_url": "https://kultuur.err.ee/1610176162/arvustus-kas-valul-on-keel",
-      "source": "err-uudised",
-      "published_at": "2026-10-25T13:55:00Z",
-      "date_basis": "published",
-      "excerpt": "Uus raamatJim Ashilevi\"Inimese kostüüm\"Toimetanud Maia TammjärvAastakäigu kujundanud Maris KaskmannLoomingu Raamatukogu 2026, nr 24–26136 lk. Arvustus ilmus Sirbis",
-      "category": "estonia",
-      "language": "et"
-    },
-    {
       "id": "c36c6ad9109997b93a23f39a",
       "title": "Трамп заявил, что вернул Украине полноценный доступ к Starlink",
       "url": "https://istories.media/news/2026/10/23/tramp-zayavil-chto-vernul-ukraine-polnotsennii-dostup-k-starlink/",
@@ -27287,6 +27287,18 @@
       "date_basis": "published",
       "excerpt": "Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director.",
       "category": "world",
+      "language": "en"
+    },
+    {
+      "id": "c3d19ef3bc77c89e287aaed1",
+      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+      "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+      "original_url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+      "source": "techcrunch-ai",
+      "published_at": "2026-10-27T02:00:00Z",
+      "date_basis": "published",
+      "excerpt": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+      "category": "technology",
       "language": "en"
     },
     {
@@ -27372,18 +27384,6 @@
       "excerpt": "Крупнейшая континентальная империя в истории объединила огромные территории Евразии, но оставила после себя миллионы жертв. Выставка в Берлине исследует наследие Чингисхана спустя восемь веков.",
       "category": "russia-ukraine",
       "language": "ru"
-    },
-    {
-      "id": "c4f7e0c0383aaf3690005622",
-      "title": "Blue Planet III features cloudier footage to prove authenticity amid AI boom",
-      "url": "https://www.theguardian.com/media/2026/oct/24/blue-planet-iii-cloudier-footage-prove-authenticity-ai-boom",
-      "original_url": "https://www.theguardian.com/media/2026/oct/24/blue-planet-iii-cloudier-footage-prove-authenticity-ai-boom",
-      "source": "guardian-world",
-      "published_at": "2026-10-24T08:32:56Z",
-      "date_basis": "published",
-      "excerpt": "BBC series deliberately uses ‘more organic’ shots to assure viewers animals are not AI-generated, producers say The David Attenborough-narrated series Blue Planet III deliberately includes cloudier, less polished footage to counter AI fakery and assure viewers it is “authentic”, its producers have said. Nearly a…",
-      "category": "world",
-      "language": "en"
     },
     {
       "id": "c50f24bc7d0f78f5ba573746",
@@ -27778,30 +27778,6 @@
       "published_at": "2026-10-25T18:55:39Z",
       "date_basis": "published",
       "excerpt": "The Nobel laureate's homecoming follows national protests demanding free elections.",
-      "category": "world",
-      "language": "en"
-    },
-    {
-      "id": "c7db9d884b9523db3f59a6b4",
-      "title": "Pakistani shop owner arrested over 19-year Thai identity fraud",
-      "url": "https://thethaiger.com/hot-news/crime/pakistani-shop-owner-thai-identity-fraud-pattani",
-      "original_url": "https://thethaiger.com/hot-news/crime/pakistani-shop-owner-thai-identity-fraud-pattani",
-      "source": "thaiger",
-      "published_at": "2026-10-22T02:57:58Z",
-      "date_basis": "published",
-      "excerpt": "A Pakistani fabric shop owner was arrested in Pattani after police accused him of paying 100,000 baht to obtain a Thai ID card using another person’s identity, which he allegedly used for nearly 19 years. The 54 year old businessman, identified by the pseudonym Anwar, was detained at his home and fabric shop in…",
-      "category": "southeast-asia",
-      "language": "en"
-    },
-    {
-      "id": "c82543e52be55ce498e2aa33",
-      "title": "Iran’s authorities take ‘self-sacrifice’ mobilisation campaign nationwide",
-      "url": "https://www.aljazeera.com/news/2026/10/25/irans-authorities-take-self-sacrifice-mobilisation-campaign-nationwide?traffic_source=rss",
-      "original_url": "https://www.aljazeera.com/news/2026/10/25/irans-authorities-take-self-sacrifice-mobilisation-campaign-nationwide?traffic_source=rss",
-      "source": "al-jazeera",
-      "published_at": "2026-10-25T10:50:38Z",
-      "date_basis": "published",
-      "excerpt": "The IRGC says it wants to use main squares in every capital of Iran’s 31 provinces for the Janfada campaign.",
       "category": "world",
       "language": "en"
     },
@@ -28418,6 +28394,18 @@
       "language": "ru"
     },
     {
+      "id": "cbdd2b3c6d8ac3cc7a494faa",
+      "title": "Russian man injured after metal bar attack by Phuket pickup truck driver",
+      "url": "https://thethaiger.com/news/phuket/russian-driver-hit-with-metal-bar-in-phuket-road-rage",
+      "original_url": "https://thethaiger.com/news/phuket/russian-driver-hit-with-metal-bar-in-phuket-road-rage",
+      "source": "thaiger",
+      "published_at": "2026-10-27T03:30:47Z",
+      "date_basis": "published",
+      "excerpt": "A Russian man reported a road rage attack after being struck on the arm with a metal bar by a pickup truck driver following a dispute on a road in Thalang district, Phuket, yesterday, October 26. The incident occurred at about 6.30pm on the Mueang Mai to Pa Khlok Road in Si Sunthon subdistrict, shortly … The story…",
+      "category": "southeast-asia",
+      "language": "en"
+    },
+    {
       "id": "cbe2aba040729e1e3d08ed15",
       "title": "Минобороны Украины: Военная версия Starshield от Starlink вновь заработала на скорости более 400 км/ч",
       "url": "https://www.dw.com/ru/минобороны-украины-военная-версия-starshield-от-starlink-вновь-заработала-на-скорости-более-400-км-ч/a-79750678?maca=rus-rss-ru-all-1126-rdf",
@@ -28510,18 +28498,6 @@
       "published_at": "2026-10-24T11:45:20Z",
       "date_basis": "published",
       "excerpt": "Thousands of anti-fascist protesters took to the streets of Orléans on Saturday to demonstrate against a congress held by Marine Le Pen’s far-right National Rally party. Marchers criticised both Le Pen and President Emmanuel Macron, chanting slogans and carrying banners opposing the far right. The protest came amid…",
-      "category": "world",
-      "language": "en"
-    },
-    {
-      "id": "cc97e4ca5606f812d4a5954f",
-      "title": "US embassy accuses Canada of election meddling ahead of midterms",
-      "url": "https://www.bbc.co.uk/news/articles/cmn06g29522lo?at_campaign=rss&at_medium=RSS",
-      "original_url": "https://www.bbc.co.uk/news/articles/cmn06g29522lo?at_medium=RSS&at_campaign=rss",
-      "source": "bbc-world",
-      "published_at": "2026-10-22T03:05:28Z",
-      "date_basis": "published",
-      "excerpt": "Prime Minister Mark Carney dismissed the claim, noting that US initiated trade actions against Canada.",
       "category": "world",
       "language": "en"
     },
@@ -29054,6 +29030,18 @@
       "language": "en"
     },
     {
+      "id": "cfd658a1c909e7a35ce3e12a",
+      "title": "US rejects record 1 in 4 South Korean visitor visa applicants, over four times Japan's rate",
+      "url": "https://e.vnexpress.net/news/news/us-rejects-record-1-in-4-south-korean-visitor-visa-applicants-over-four-times-japan-s-rate-5137145.html",
+      "original_url": "https://e.vnexpress.net/news/news/us-rejects-record-1-in-4-south-korean-visitor-visa-applicants-over-four-times-japan-s-rate-5137145.html",
+      "source": "vnexpress-en",
+      "published_at": "2026-10-27T03:49:33Z",
+      "date_basis": "published",
+      "excerpt": "The U.S. turned down nearly 1 in 4 South Korean applicants for business and tourist visas in the year to September 2025, a record high and more than four times the rate for Japanese applicants.",
+      "category": "southeast-asia",
+      "language": "en"
+    },
+    {
       "id": "cff0b477ae8a8d6c65d13d48",
       "title": "Ukraine’s air defenses down 112 Russian drones, three missiles overnight",
       "url": "https://www.ukrinform.net/rubric-ato/4178118-ukraines-air-defenses-down-112-russian-drones-three-missiles-overnight.html",
@@ -29088,18 +29076,6 @@
       "excerpt": "Администрация президента США заявила, что Россия и Украина согласились прекратить огонь в городе Алешки (украинский вариант — Олешки) в Херсонской области, чтобы обеспечить доставку гуманитарной помощи и провести эвакуацию гражданского населения. Генеральные штабы вооруженных сил Украины и России заявили, что режим…",
       "category": "russia-ukraine",
       "language": "ru"
-    },
-    {
-      "id": "d01dfb9d4b7f04db65febaae",
-      "title": "TAT expands ASEAN India+ Shoppers in Thailand 2026 to drive tourism spending",
-      "url": "https://thethaiger.com/guides/press-room/asean-india-shoppers-thailand-2026",
-      "original_url": "https://thethaiger.com/guides/press-room/asean-india-shoppers-thailand-2026",
-      "source": "thaiger",
-      "published_at": "2026-10-22T02:53:23Z",
-      "date_basis": "published",
-      "excerpt": "Travellers from ASEAN and South Asia can claim shopping, dining, hotel and lifestyle privileges worth between 500 and 2,000 baht at more than 50 partners across Thailand, under the third edition of the Tourism Authority of Thailand’s (TAT) ASEAN India+ Shoppers in Thailand 2026 campaign. Announced in Bangkok on…",
-      "category": "southeast-asia",
-      "language": "en"
     },
     {
       "id": "d056b26b6d3d8ce0357ad503",
@@ -30086,6 +30062,18 @@
       "language": "et"
     },
     {
+      "id": "d6e7d611a506997caa265225",
+      "title": "New report tracks how Russia helps China build better drones",
+      "url": "https://kyivindependent.com/new-report-tracks-how-russia-helps-china-build-better-drones/",
+      "original_url": "https://kyivindependent.com/new-report-tracks-how-russia-helps-china-build-better-drones/",
+      "source": "kyiv-independent",
+      "published_at": "2026-10-27T03:54:05Z",
+      "date_basis": "published",
+      "excerpt": "The investigation found that Russian designs for rocket-launched drones likely helped shape weapons China unveiled in 2025 and that Russian wind tunnels kept testing aircraft models for China's top arms maker after the invasion of Ukraine.",
+      "category": "russia-ukraine",
+      "language": "en"
+    },
+    {
       "id": "d6f50cac76ae3bab3808aea8",
       "title": "Vassiljev: selline pakkumine tuleb vastu võtta",
       "url": "https://sport.err.ee/1610174971/vassiljev-selline-pakkumine-tuleb-vastu-votta",
@@ -30350,18 +30338,6 @@
       "language": "en"
     },
     {
-      "id": "d956bb29629faf9170dbeec6",
-      "title": "Austrian, Swiss women kidnapped in Niger are freed — report",
-      "url": "https://www.dw.com/en/austrian-swiss-women-kidnapped-in-niger-are-freed-report/a-79727419?maca=en-rss-en-all-1573-rdf",
-      "original_url": "https://www.dw.com/en/austrian-swiss-women-kidnapped-in-niger-are-freed-report/a-79727419?maca=en-rss-en-all-1573-rdf",
-      "source": "dw-en",
-      "published_at": "2026-10-22T02:54:00Z",
-      "date_basis": "updated",
-      "excerpt": "An Austrian woman and a Swiss woman kidnapped in Niger have been freed after 18 months in captivity, local reports say.",
-      "category": "world",
-      "language": "en"
-    },
-    {
       "id": "d9600a28b36778fd6ea787a8",
       "title": "Россия и Украина обменялись телами погибших военнослужащих",
       "url": "https://meduza.io/news/2026/10/22/rossiya-i-ukraina-obmenyalis-telami-pogibshih-voennosluzhaschih",
@@ -30504,6 +30480,18 @@
       "excerpt": "Residential buildings were damaged in two neighborhoods of Vinnytsia – Zamostia and Mali Khutory – in an overnight Russian attack.",
       "category": "russia-ukraine",
       "language": "en"
+    },
+    {
+      "id": "d9ee729a6a04f961e55c5737",
+      "title": "Бывшему директору ФБР Коми в третий раз предъявили обвинения",
+      "url": "https://www.bbc.com/russian/articles/c6ev370mjpz7o?at_campaign=rss&at_medium=RSS",
+      "original_url": "https://www.bbc.com/russian/articles/c6ev370mjpz7o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-ru",
+      "published_at": "2026-10-27T03:24:11Z",
+      "date_basis": "published",
+      "excerpt": "Адвокаты Коми заявляют, что дело связано с предполагаемой передачей секретной информации газете New York Times в 2016 году.",
+      "category": "russia-ukraine",
+      "language": "ru"
     },
     {
       "id": "da14d4352316d67e97e70310",
@@ -31658,18 +31646,6 @@
       "language": "et"
     },
     {
-      "id": "e2d4dae38307b2a429054e4e",
-      "title": "Audi investeerib oma esimesse USA autotehasesse 4,2 miljardit dollarit",
-      "url": "https://www.err.ee/1610176561/audi-investeerib-oma-esimesse-usa-autotehasesse-4-2-miljardit-dollarit",
-      "original_url": "https://www.err.ee/1610176561/audi-investeerib-oma-esimesse-usa-autotehasesse-4-2-miljardit-dollarit",
-      "source": "err-uudised",
-      "published_at": "2026-10-25T13:37:00Z",
-      "date_basis": "published",
-      "excerpt": "Saksa autotootja Audi kavatseb investeerida 4,2 miljardit dollarit oma esimese tehase rajamiseks Ühendriikidesse. Teade tuli ajal, mil USA vahevalimisteni on jäänud vähem kui kümme päeva.",
-      "category": "estonia",
-      "language": "et"
-    },
-    {
       "id": "e2e7b0106adb23388637d8c0",
       "title": "More than a US briefing: Brussels security talks on Ukraine planned for 27 or 28 October, Kyiv says",
       "url": "https://euromaidanpress.com/2026/10/26/more-than-a-us-briefing-brussels-security-talks-on-ukraine-planned-for-27-or-28-october-kyiv-says/",
@@ -31767,7 +31743,7 @@
     },
     {
       "id": "e3a18f03c612e17d4a28e81d",
-      "title": "How this Brooklyn bar owner had Conan O’Brien in stitches on SubwayTakes",
+      "title": "How this Brooklyn bar owner had Conan O'Brien in stitches on SubwayTakes",
       "url": "https://www.cbc.ca/radio/asithappens/nyc-bartender-conan-obrien-subwaytakes-viral-improv-9.7393860?cmp=rss",
       "original_url": "https://www.cbc.ca/radio/asithappens/nyc-bartender-conan-obrien-subwaytakes-viral-improv-9.7393860?cmp=rss",
       "source": "cbc-world",
@@ -32006,18 +31982,6 @@
       "language": "en"
     },
     {
-      "id": "e550d5c2420827ed2322f633",
-      "title": "South Korean MBA student inspires lifelong learning in HCM City",
-      "url": "https://vietnamnews.vn/society/1802595/south-korean-mba-student-inspires-lifelong-learning-in-hcm-city.html",
-      "original_url": "https://vietnamnews.vn/society/1802595/south-korean-mba-student-inspires-lifelong-learning-in-hcm-city.html",
-      "source": "vietnam-news",
-      "published_at": "2026-10-22T03:16:15Z",
-      "date_basis": "published",
-      "excerpt": "Choi Chang Young, a 52-year-old South Korean student holding two bachelor’s degrees and decades of executive leadership experience, has embarked on a new academic chapter by enrolling in the Master of Business Administration (MBA) programme at the HCM City Open University (HCMCOU).",
-      "category": "southeast-asia",
-      "language": "en"
-    },
-    {
       "id": "e56dfae5e1955558b299a208",
       "title": "Apple revives the original iPod as an Apple Music easter egg",
       "url": "https://www.theverge.com/entertainment/1017413/apple-music-ipod-404-page",
@@ -32162,6 +32126,18 @@
       "language": "en"
     },
     {
+      "id": "e61898cbf8eca82ed6de8732",
+      "title": "Обладателем \"Золотого мяча\" и лучшим форвардом 2026 года стал англичанин Гарри Кейн, выступающий за мюнхенскую \"Баварию\"",
+      "url": "https://www.dw.com/ru/обладателем-золотого-мяча-и-лучшим-форвардом-2026-года-стал-англичанин-гарри-кейн-выступающий-за-мюнхенскую-баварию/a-79771255?maca=rus-rss-ru-all-1126-rdf",
+      "original_url": "https://www.dw.com/ru/обладателем-золотого-мяча-и-лучшим-форвардом-2026-года-стал-англичанин-гарри-кейн-выступающий-за-мюнхенскую-баварию/a-79771255?maca=rus-rss-ru-all-1126-rdf",
+      "source": "dw-ru",
+      "published_at": "2026-10-27T00:55:00Z",
+      "date_basis": "updated",
+      "excerpt": "Форвард \"Баварии\" и сборной Англии Гарри Кейн стал обладателем \"Золотого мяча\" 2026 года на церемонии France Football в театре \"Палладиум\" в Лондоне. Этот трофей последний раз вручали англичанину четверть века назад.",
+      "category": "russia-ukraine",
+      "language": "ru"
+    },
+    {
       "id": "e6215edb4744a0aa7f8ba569",
       "title": "\"Бриллиант оперы\" или \"мягкая сила Путина\"? Как спорят о приглашении Нетребко в Бонн",
       "url": "https://www.dw.com/ru/бриллиант-оперы-или-мягкая-сила-путина-как-спорят-о-приглашении-нетребко-в-бонн/a-79719380?maca=rus-rss-ru-all-1126-rdf",
@@ -32183,18 +32159,6 @@
       "date_basis": "published",
       "excerpt": "After a shock defeat in the first round, the incumbent Brazilian president, Luiz Inácio Lula da Silva, has turned the election around to win the runoff. Live blog: latest analysis and reaction Brazil’s president is elected purely by the popular vote. A winning candidate needs one more vote than 50% of votes cast;…",
       "category": "world",
-      "language": "en"
-    },
-    {
-      "id": "e640f4585956e3b73342eff0",
-      "title": "Chiang Mai ranked safest city in Southeast Asia for 2026 in public survey",
-      "url": "https://thethaiger.com/news/chiang-mai/chiang-mai-tops-southeast-asia-in-numbeos-2026-safety-index",
-      "original_url": "https://thethaiger.com/news/chiang-mai/chiang-mai-tops-southeast-asia-in-numbeos-2026-safety-index",
-      "source": "thaiger",
-      "published_at": "2026-10-22T03:20:01Z",
-      "date_basis": "published",
-      "excerpt": "Chiang Mai has finished first in Southeast Asia in Numbeo’s 2026 safety ranking with a score of 77.9, placing 19th worldwide and edging Singapore, which scored 77.5, as the region’s highest-rated city. The table is published by Numbeo, a cost-of-living and quality-of-life database operated in Serbia and running since…",
-      "category": "southeast-asia",
       "language": "en"
     },
     {
@@ -32243,18 +32207,6 @@
       "date_basis": "published",
       "excerpt": "Indonesian President Prabowo Subianto railed Wednesday against \"countries that like to insult\" his nation over wildfires that have razed vast areas, spewing toxic haze into neighboring countries.",
       "category": "southeast-asia",
-      "language": "en"
-    },
-    {
-      "id": "e69a7b2cb268705ee2cdbfac",
-      "title": "War in the Middle East: Israel launches West Bank operations",
-      "url": "https://www.france24.com/en/war-in-the-middle-east-israel-launches-west-bank-operations",
-      "original_url": "https://www.france24.com/en/war-in-the-middle-east-israel-launches-west-bank-operations",
-      "source": "france24",
-      "published_at": "2026-10-23T12:57:54Z",
-      "date_basis": "published",
-      "excerpt": "Palestinian militants wounded five Israelis in an attack on Friday before being killed in a shootout with soldiers, leading Prime Minister Benjamin Netanyahu to order a lockdown in the occupied West Bank days before Israeli elections. Details by Kethevane Gorjestani, FRANCE 24's International Affairs Editor.",
-      "category": "world",
       "language": "en"
     },
     {
@@ -32460,6 +32412,18 @@
       "excerpt": "Jalgpalli Euroopa liigas jätkavad kolme mänguvooru järel täiseduga Benfica, Leverkuseni Bayer, Bournemouth, Ferencvaros ning Olympiakos.",
       "category": "estonia",
       "language": "et"
+    },
+    {
+      "id": "e7ed43d55b71063df737b59f",
+      "title": "Humanity can't afford not to spend $800B on AI, Anthropic insists",
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/26/humanity-cant-afford-not-to-spend-800b-on-ai-anthropic-insists/5305580",
+      "original_url": "https://www.theregister.com/ai-and-ml/2026/10/26/humanity-cant-afford-not-to-spend-800b-on-ai-anthropic-insists/5305580",
+      "source": "register",
+      "published_at": "2026-10-26T23:39:49Z",
+      "date_basis": "published",
+      "excerpt": "It's more important than chips, 'leccy and the net, after all",
+      "category": "technology",
+      "language": "en"
     },
     {
       "id": "e82e2e1ad765d791b374e339",
@@ -32714,18 +32678,6 @@
       "language": "et"
     },
     {
-      "id": "ea13b0b2e0b41120adb7a7ce",
-      "title": "Education is about adapting to change, not just keeping up with technology: expert",
-      "url": "https://e.vnexpress.net/news/news/education/education-is-about-adapting-to-change-not-just-keeping-up-with-technology-expert-5130618.html",
-      "original_url": "https://e.vnexpress.net/news/news/education/education-is-about-adapting-to-change-not-just-keeping-up-with-technology-expert-5130618.html",
-      "source": "vnexpress-en",
-      "published_at": "2026-10-22T01:00:00Z",
-      "date_basis": "published",
-      "excerpt": "Artificial intelligence (AI) can generate images, articles and videos in response to a few prompts, raising questions about the future of creative careers and the skills young people need to remain competitive.",
-      "category": "southeast-asia",
-      "language": "en"
-    },
-    {
       "id": "ea22bd72ed9353f99897c982",
       "title": "As perdas do exercito russo na guerra contra a Ucrania. Contagem da Mediazona, atualizada",
       "url": "https://zona.media/article/2026/10/23/perdas",
@@ -32879,18 +32831,6 @@
       "date_basis": "published",
       "excerpt": "Ukraine's air defense forces neutralized 119 of the 153 drones launched by Russian invaders at Ukraine since the evening of October 24.",
       "category": "russia-ukraine",
-      "language": "en"
-    },
-    {
-      "id": "eb263350438d5c7e4cd904ff",
-      "title": "US orders some diplomats to leave Saudi Arabia amid Houthi threat",
-      "url": "https://www.dw.com/en/us-orders-some-diplomats-to-leave-saudi-arabia-amid-houthi-threat/a-79727353?maca=en-rss-en-all-1573-rdf",
-      "original_url": "https://www.dw.com/en/us-orders-some-diplomats-to-leave-saudi-arabia-amid-houthi-threat/a-79727353?maca=en-rss-en-all-1573-rdf",
-      "source": "dw-en",
-      "published_at": "2026-10-22T01:48:00Z",
-      "date_basis": "updated",
-      "excerpt": "The US State Department has asked some US diplomats to leave Saudi Arabia because of the threat of Houthi attacks on the Gulf kingdom.",
-      "category": "world",
       "language": "en"
     },
     {
@@ -33794,18 +33734,6 @@
       "language": "en"
     },
     {
-      "id": "f13e41a9d2005f20a189e7c8",
-      "title": "Oil slick from tanker in Hormuz Strait washes up on UAE beaches",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/oil-slick-from-tanker-in-hormuz-strait-washes-up-on-uae-beaches?traffic_source=rss",
-      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/oil-slick-from-tanker-in-hormuz-strait-washes-up-on-uae-beaches?traffic_source=rss",
-      "source": "al-jazeera",
-      "published_at": "2026-10-25T12:05:16Z",
-      "date_basis": "published",
-      "excerpt": "An oil slick has been filmed washing up on the UAE shoreline, prompting authorities to close beaches in Umm Al Quwain.",
-      "category": "world",
-      "language": "en"
-    },
-    {
       "id": "f1509cfdb54bf4f426a24a89",
       "title": "США и Россия обсуждали снятие санкций с «Арктик СПГ-2» в обмен на участие «Новатэка» в газовом проекте на Аляске",
       "url": "https://istories.media/news/2026/10/24/ssha-i-rossiya-obsuzhdali-snyatie-sanktsiy-s-arktik-spg-2-v-obmen-na-uchastie-novateka-v-gazovom-proekte-na-alyaske/",
@@ -33826,6 +33754,18 @@
       "published_at": "2026-10-26T14:58:00Z",
       "date_basis": "updated",
       "excerpt": "Allegations that Ukrainian specialists are supporting Tuareg rebels in Mali highlight Kyiv's effort to challenge Russian influence far beyond the battlefield in Europe.",
+      "category": "world",
+      "language": "en"
+    },
+    {
+      "id": "f154e13eb32c7482b7c611b0",
+      "title": "Ukraine and Russia begin Oleshky ceasefire for aid mission",
+      "url": "https://www.dw.com/en/ukraine-and-russia-begin-oleshky-ceasefire-for-aid-mission/a-79771473?maca=en-rss-en-all-1573-rdf",
+      "original_url": "https://www.dw.com/en/ukraine-and-russia-begin-oleshky-ceasefire-for-aid-mission/a-79771473?maca=en-rss-en-all-1573-rdf",
+      "source": "dw-en",
+      "published_at": "2026-10-27T03:52:00Z",
+      "date_basis": "updated",
+      "excerpt": "Around 2,000 people remain stranded in the city of Oleshky, facing severe shortages of food and medicine. The Russian-occupied town has been devastated by fighting and flooding since Moscow's invasion in 2022.",
       "category": "world",
       "language": "en"
     },
@@ -33936,6 +33876,18 @@
       "excerpt": "Алжир введет войска на территорию соседнего Нигера. Соответствующий указ, сообщает Reuters, подписал президент страны Абдельмаджид Теббун.",
       "category": "russia-ukraine",
       "language": "ru"
+    },
+    {
+      "id": "f26e4399b90af1919b6bbe28",
+      "title": "Opposition leader María Machado returns from exile to a Venezuela reshaped by Trump",
+      "url": "https://www.bbc.co.uk/news/articles/c8vgx3pvdeq1o?at_campaign=rss&at_medium=RSS",
+      "original_url": "https://www.bbc.co.uk/news/articles/c8vgx3pvdeq1o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "published_at": "2026-10-27T00:31:11Z",
+      "date_basis": "published",
+      "excerpt": "Machado returns with Trump's blessing, even if Washington is happy with Venezuela's existing leader - at least for the time being.",
+      "category": "world",
+      "language": "en"
     },
     {
       "id": "f2b7ec316d2633398d92edb4",
@@ -34283,6 +34235,18 @@
       "date_basis": "updated",
       "excerpt": "The French government says more than 1,000 people were arrested following nationwide protests on Saturday. Police and elite security forces were out in force across the country as clashes broke out.",
       "category": "world",
+      "language": "en"
+    },
+    {
+      "id": "f57baa0128b51cf8cec7b6ba",
+      "title": "Suvarnabhumi customs finds pounds and dollars in Indian passenger’s luggage",
+      "url": "https://thethaiger.com/news/bangkok/indian-held-at-suvarnabhumi-airport-with-2-6-million-baht-in-cash",
+      "original_url": "https://thethaiger.com/news/bangkok/indian-held-at-suvarnabhumi-airport-with-2-6-million-baht-in-cash",
+      "source": "thaiger",
+      "published_at": "2026-10-27T04:32:52Z",
+      "date_basis": "published",
+      "excerpt": "Customs officers at Suvarnabhumi International Airport intercepted an Indian passenger arriving from Mumbai with foreign banknotes worth approximately 2.6 million baht in his luggage, according to the Customs Department. The department announced the discovery on October 26, saying officers from the airport’s passenger…",
+      "category": "southeast-asia",
       "language": "en"
     },
     {
@@ -34690,6 +34654,18 @@
       "published_at": "2026-10-25T05:32:00Z",
       "date_basis": "updated",
       "excerpt": "After two years of student-led, anti-corruption protests, Serbia is holding an early parliamentary election that could break long-time populist leader Aleksandar Vucic's grip on the Balkan country.",
+      "category": "world",
+      "language": "en"
+    },
+    {
+      "id": "f8a3d187adc102a740482923",
+      "title": "Ex-FBI chief James Comey faces federal charges for third time",
+      "url": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_campaign=rss&at_medium=RSS",
+      "original_url": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc-world",
+      "published_at": "2026-10-27T02:01:27Z",
+      "date_basis": "published",
+      "excerpt": "Comey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016.",
       "category": "world",
       "language": "en"
     },
@@ -35162,18 +35138,6 @@
       "language": "en"
     },
     {
-      "id": "fb15f3199fcbefd1e0970868",
-      "title": "Six arrested over 10 million baht illegal loan network in Phitsanulok",
-      "url": "https://thethaiger.com/hot-news/crime/phitsanulok-illegal-loan-network-six-arrested",
-      "original_url": "https://thethaiger.com/hot-news/crime/phitsanulok-illegal-loan-network-six-arrested",
-      "source": "thaiger",
-      "published_at": "2026-10-22T03:46:07Z",
-      "date_basis": "published",
-      "excerpt": "Cyber police arrested six men in Phitsanulok yesterday, October 21, in an operation targeting an alleged illegal lending network involving around 1,000 borrowers and more than 10 million baht in monthly transactions. Officers from Cyber Crime Investigation Bureau 4 searched three sites in the province under warrants…",
-      "category": "southeast-asia",
-      "language": "en"
-    },
-    {
       "id": "fb228a1cff4e17e4af23f1e0",
       "title": "Netanyahu reportedly pressured military to attack Iran in run-up to election",
       "url": "https://www.theguardian.com/world/2026/oct/26/netanyahu-reportedly-pressured-israel-military-attack-iran-runup-to-election",
@@ -35270,6 +35234,18 @@
       "language": "en"
     },
     {
+      "id": "fb97edc678228c8d536d0ada",
+      "title": "Singapore to host new ASEAN office to exchange jobs data, better track labour market shifts",
+      "url": "https://www.channelnewsasia.com/singapore/asean-labour-statistics-jobs-skills-data-ai-exposure-green-transition-platform-work-6493506",
+      "original_url": "https://www.channelnewsasia.com/singapore/asean-labour-statistics-jobs-skills-data-ai-exposure-green-transition-platform-work-6493506",
+      "source": "cna-asia",
+      "published_at": "2026-10-27T02:31:25Z",
+      "date_basis": "published",
+      "excerpt": "AI-related changes, platform work and green jobs are some key areas the ASEAN Labour Statistics Office will study.",
+      "category": "southeast-asia",
+      "language": "en"
+    },
+    {
       "id": "fba3b9fdee7eb30929b36bf2",
       "title": "NHL-i kõige kuumem meeskond jätkas võidukäiku",
       "url": "https://sport.err.ee/1610177149/nhl-i-koige-kuumem-meeskond-jatkas-voidukaiku",
@@ -35292,6 +35268,18 @@
       "excerpt": "Спецпосланник президента США Стив Уиткофф 21 октября побывал в Санкт-Петербурге и провел с президентом РФ Владимиром Путиным переговоры о завершении войны. В начале встречи Путин объявил, что освободил гражданина США Стивена Хаббарда, отбывавшего в России срок по обвинению в наемничестве за участие в теробороне ВСУ.…",
       "category": "russia-ukraine",
       "language": "ru"
+    },
+    {
+      "id": "fbc80251404a01c61a0c9a6f",
+      "title": "More than 40 sets of World War II remains exhumed in Mlyniv, Rivne region",
+      "url": "https://www.ukrinform.net/rubric-society/4178223-more-than-40-sets-of-world-war-ii-remains-exhumed-in-mlyniv-rivne-region.html",
+      "original_url": "https://www.ukrinform.net/rubric-society/4178223-more-than-40-sets-of-world-war-ii-remains-exhumed-in-mlyniv-rivne-region.html",
+      "source": "ukrinform",
+      "published_at": "2026-10-27T00:33:00Z",
+      "date_basis": "published",
+      "excerpt": "In the village of Mlyniv in the Rivne region, search teams exhumed more than 40 sets of human remains of people who died during World War II; these remains were later reburied at the Memorial of Glory.",
+      "category": "russia-ukraine",
+      "language": "en"
     },
     {
       "id": "fbcd631cae9c41d8e3ed101f",
@@ -35435,6 +35423,18 @@
       "date_basis": "published",
       "excerpt": "The victory helped the Kazakh take a big step towards securing the year-end number one ranking.",
       "category": "world",
+      "language": "en"
+    },
+    {
+      "id": "fc8cf6d395f132c3ebae4705",
+      "title": "Thailand to require ID verification for social media ads from 1 Nov",
+      "url": "https://www.khaosodenglish.com/news/2026/10/27/thailand-to-require-id-verification-for-social-media-ads-from-1-nov/",
+      "original_url": "https://www.khaosodenglish.com/news/2026/10/27/thailand-to-require-id-verification-for-social-media-ads-from-1-nov/",
+      "source": "khaosod-en",
+      "published_at": "2026-10-27T03:29:46Z",
+      "date_basis": "published",
+      "excerpt": "Thailand will require identity verification for paid social media advertisements from 1 November under a new “No ID, No Ads” policy aimed at curbing online scams, with the rules covering Thai and foreign advertisers targeting audiences in the country. The requirements apply to social media platforms that fall within…",
+      "category": "southeast-asia",
       "language": "en"
     },
     {
